@@ -1,0 +1,1 @@
+web: gunicorn --timeout 150 music.wsgi:application --workers 3
