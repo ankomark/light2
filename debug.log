@@ -17150,3 +17150,2964 @@ Watching for file changes with StatReloader
 "GET /api/profiles/by_user/1/ HTTP/1.1" 200 265
 "GET /api/profiles/by_user/2/ HTTP/1.1" 200 250
 "GET /api/notifications/ HTTP/1.1" 200 5814
+Watching for file changes with StatReloader
+Unauthorized: /api/social-posts/
+Unauthorized: /api/social-posts/
+Unauthorized: /api/profiles/me/
+Unauthorized: /api/profiles/me/
+"GET /api/social-posts/?_cache=1754930994474&_fields=id,user,content_type,media_url,caption,location,created_at,likes_count,comments_count,is_liked,is_saved,can_edit HTTP/1.1" 401 172
+"GET /api/social-posts/?_cache=1754930994492&_fields=id,user,content_type,media_url,caption,location,created_at,likes_count,comments_count,is_liked,is_saved,can_edit HTTP/1.1" 401 172
+"GET /api/profiles/me/ HTTP/1.1" 401 172
+"GET /api/profiles/me/ HTTP/1.1" 401 172
+Unauthorized: /api/notifications/
+"GET /api/notifications/ HTTP/1.1" 401 172
+Unauthorized: /api/auth/token/refresh/
+Unauthorized: /api/auth/token/refresh/
+"POST /api/auth/token/refresh/ HTTP/1.1" 401 54
+"POST /api/auth/token/refresh/ HTTP/1.1" 401 54
+Unauthorized: /api/auth/token/refresh/
+Unauthorized: /api/auth/token/refresh/
+"POST /api/auth/token/refresh/ HTTP/1.1" 401 54
+"POST /api/auth/token/refresh/ HTTP/1.1" 401 54
+Unauthorized: /api/auth/token/refresh/
+"POST /api/auth/token/refresh/ HTTP/1.1" 401 54
+Unauthorized: /api/auth/token/refresh/
+Unauthorized: /api/auth/token/refresh/
+"POST /api/auth/token/refresh/ HTTP/1.1" 401 54
+Unauthorized: /api/auth/token/refresh/
+Unauthorized: /api/auth/token/refresh/
+"POST /api/auth/token/refresh/ HTTP/1.1" 401 54
+"POST /api/auth/token/refresh/ HTTP/1.1" 401 54
+"POST /api/auth/token/refresh/ HTTP/1.1" 401 54
+Unauthorized: /api/auth/token/refresh/
+"POST /api/auth/token/refresh/ HTTP/1.1" 401 54
+"POST /api/auth/token/ HTTP/1.1" 200 483
+"GET /api/profiles/me/ HTTP/1.1" 200 265
+"GET /api/profiles/me/ HTTP/1.1" 200 265
+"GET /api/social-posts/?_cache=1754931015624&_fields=id,user,content_type,media_url,caption,location,created_at,likes_count,comments_count,is_liked,is_saved,can_edit HTTP/1.1" 200 5844
+"GET /api/notifications/ HTTP/1.1" 200 8317
+"GET /api/profiles/me/ HTTP/1.1" 200 265
+"GET /api/profiles/me/ HTTP/1.1" 200 265
+"GET /api/profiles/me/ HTTP/1.1" 200 265
+"GET /api/profiles/me/ HTTP/1.1" 200 265
+"GET /api/profiles/me/ HTTP/1.1" 200 265
+Not Found: /api/profiles/by_user/4/
+"GET /api/profiles/by_user/4/ HTTP/1.1" 404 45
+"GET /api/profiles/by_user/2/ HTTP/1.1" 200 250
+"GET /api/profiles/by_user/2/ HTTP/1.1" 200 250
+"GET /api/social-posts/?_cache=1754931015626&_fields=id,user,content_type,media_url,caption,location,created_at,likes_count,comments_count,is_liked,is_saved,can_edit HTTP/1.1" 200 5844
+"GET /api/profiles/by_user/2/ HTTP/1.1" 200 250
+"GET /api/profiles/by_user/3/ HTTP/1.1" 200 275
+"GET /api/profiles/by_user/3/ HTTP/1.1" 200 275
+"GET /api/profiles/by_user/3/ HTTP/1.1" 200 275
+"GET /api/profiles/by_user/2/ HTTP/1.1" 200 250
+"GET /api/profiles/by_user/2/ HTTP/1.1" 200 250
+"GET /api/notifications/ HTTP/1.1" 200 8317
+Not Found: /api/profiles/by_user/4/
+"GET /api/profiles/by_user/2/ HTTP/1.1" 200 250
+"GET /api/profiles/by_user/2/ HTTP/1.1" 200 250
+"GET /api/profiles/by_user/2/ HTTP/1.1" 200 250
+"GET /api/profiles/by_user/4/ HTTP/1.1" 404 45
+"GET /api/profiles/by_user/3/ HTTP/1.1" 200 275
+"GET /api/profiles/by_user/2/ HTTP/1.1" 200 250
+"GET /api/profiles/by_user/2/ HTTP/1.1" 200 250
+"GET /api/profiles/by_user/3/ HTTP/1.1" 200 275
+"GET /api/profiles/by_user/3/ HTTP/1.1" 200 275
+"GET /api/notifications/ HTTP/1.1" 200 8317
+"GET /api/profiles/by_user/2/ HTTP/1.1" 200 250
+"GET /api/profiles/by_user/2/ HTTP/1.1" 200 250
+Not Found: /api/profiles/by_user/4/
+"GET /api/profiles/by_user/4/ HTTP/1.1" 404 45
+"GET /api/profiles/by_user/2/ HTTP/1.1" 200 250
+"GET /api/profiles/by_user/3/ HTTP/1.1" 200 275
+"GET /api/profiles/by_user/3/ HTTP/1.1" 200 275
+"GET /api/profiles/by_user/2/ HTTP/1.1" 200 250
+"GET /api/profiles/by_user/3/ HTTP/1.1" 200 275
+"GET /api/profiles/by_user/2/ HTTP/1.1" 200 250
+"GET /api/notifications/ HTTP/1.1" 200 8317
+"GET /api/profiles/by_user/2/ HTTP/1.1" 200 250
+Not Found: /api/profiles/by_user/4/
+"GET /api/profiles/by_user/2/ HTTP/1.1" 200 250
+"GET /api/profiles/by_user/3/ HTTP/1.1" 200 275
+"GET /api/profiles/by_user/4/ HTTP/1.1" 404 45
+"GET /api/profiles/by_user/2/ HTTP/1.1" 200 250
+"GET /api/profiles/by_user/3/ HTTP/1.1" 200 275
+"GET /api/profiles/by_user/2/ HTTP/1.1" 200 250
+"GET /api/profiles/by_user/3/ HTTP/1.1" 200 275
+"GET /api/profiles/by_user/2/ HTTP/1.1" 200 250
+"GET /api/notifications/ HTTP/1.1" 200 8317
+"GET /api/profiles/by_user/2/ HTTP/1.1" 200 250
+Not Found: /api/profiles/by_user/4/
+"GET /api/profiles/by_user/4/ HTTP/1.1" 404 45
+"GET /api/profiles/by_user/2/ HTTP/1.1" 200 250
+"GET /api/profiles/by_user/2/ HTTP/1.1" 200 250
+"GET /api/profiles/by_user/3/ HTTP/1.1" 200 275
+"GET /api/profiles/by_user/3/ HTTP/1.1" 200 275
+"GET /api/profiles/by_user/2/ HTTP/1.1" 200 250
+"GET /api/profiles/by_user/3/ HTTP/1.1" 200 275
+"GET /api/profiles/by_user/2/ HTTP/1.1" 200 250
+"GET /api/notifications/ HTTP/1.1" 200 8317
+Not Found: /api/profiles/by_user/4/
+"GET /api/profiles/by_user/4/ HTTP/1.1" 404 45
+"GET /api/profiles/by_user/2/ HTTP/1.1" 200 250
+"GET /api/profiles/by_user/3/ HTTP/1.1" 200 275
+"GET /api/profiles/by_user/2/ HTTP/1.1" 200 250
+"GET /api/profiles/by_user/2/ HTTP/1.1" 200 250
+"GET /api/profiles/by_user/3/ HTTP/1.1" 200 275
+"GET /api/profiles/by_user/3/ HTTP/1.1" 200 275
+"GET /api/profiles/by_user/2/ HTTP/1.1" 200 250
+"GET /api/profiles/by_user/2/ HTTP/1.1" 200 250
+"GET /api/notifications/ HTTP/1.1" 200 8317
+Not Found: /api/profiles/by_user/4/
+"GET /api/profiles/by_user/2/ HTTP/1.1" 200 250
+"GET /api/profiles/by_user/4/ HTTP/1.1" 404 45
+"GET /api/profiles/by_user/2/ HTTP/1.1" 200 250
+"GET /api/profiles/by_user/2/ HTTP/1.1" 200 250
+"GET /api/profiles/by_user/3/ HTTP/1.1" 200 275
+"GET /api/profiles/by_user/2/ HTTP/1.1" 200 250
+"GET /api/profiles/by_user/3/ HTTP/1.1" 200 275
+"GET /api/profiles/by_user/3/ HTTP/1.1" 200 275
+"GET /api/profiles/by_user/2/ HTTP/1.1" 200 250
+"GET /api/notifications/ HTTP/1.1" 200 8317
+"GET /api/profiles/by_user/2/ HTTP/1.1" 200 250
+Not Found: /api/profiles/by_user/4/
+"GET /api/profiles/by_user/2/ HTTP/1.1" 200 250
+"GET /api/profiles/by_user/3/ HTTP/1.1" 200 275
+"GET /api/profiles/by_user/2/ HTTP/1.1" 200 250
+"GET /api/profiles/by_user/4/ HTTP/1.1" 404 45
+"GET /api/profiles/by_user/3/ HTTP/1.1" 200 275
+"GET /api/profiles/by_user/2/ HTTP/1.1" 200 250
+"GET /api/profiles/by_user/3/ HTTP/1.1" 200 275
+"GET /api/profiles/by_user/2/ HTTP/1.1" 200 250
+"GET /api/notifications/ HTTP/1.1" 200 8317
+Not Found: /api/profiles/by_user/4/
+"GET /api/profiles/by_user/4/ HTTP/1.1" 404 45
+"GET /api/profiles/by_user/2/ HTTP/1.1" 200 250
+"GET /api/profiles/by_user/2/ HTTP/1.1" 200 250
+"GET /api/profiles/by_user/2/ HTTP/1.1" 200 250
+"GET /api/profiles/by_user/3/ HTTP/1.1" 200 275
+"GET /api/profiles/by_user/3/ HTTP/1.1" 200 275
+"GET /api/profiles/by_user/3/ HTTP/1.1" 200 275
+"GET /api/profiles/by_user/2/ HTTP/1.1" 200 250
+"GET /api/profiles/by_user/2/ HTTP/1.1" 200 250
+"GET /api/notifications/ HTTP/1.1" 200 8317
+Not Found: /api/profiles/by_user/4/
+"GET /api/profiles/by_user/2/ HTTP/1.1" 200 250
+"GET /api/profiles/by_user/2/ HTTP/1.1" 200 250
+"GET /api/profiles/by_user/4/ HTTP/1.1" 404 45
+"GET /api/profiles/by_user/2/ HTTP/1.1" 200 250
+"GET /api/social-posts/?_cache=1754931295446&_fields=id,user,content_type,media_url,caption,location,created_at,likes_count,comments_count,is_liked,is_saved,can_edit HTTP/1.1" 200 5844
+"GET /api/profiles/by_user/3/ HTTP/1.1" 200 275
+"GET /api/profiles/by_user/3/ HTTP/1.1" 200 275
+"GET /api/profiles/by_user/3/ HTTP/1.1" 200 275
+"GET /api/profiles/by_user/2/ HTTP/1.1" 200 250
+"GET /api/profiles/by_user/2/ HTTP/1.1" 200 250
+"GET /api/profiles/me/ HTTP/1.1" 200 265
+"GET /api/profiles/me/ HTTP/1.1" 200 265
+"GET /api/profiles/me/ HTTP/1.1" 200 265
+"GET /api/profiles/me/ HTTP/1.1" 200 265
+"GET /api/profiles/me/ HTTP/1.1" 200 265
+"GET /api/social-posts/?_cache=1754931330729&_fields=id,user,content_type,media_url,caption,location,created_at,likes_count,comments_count,is_liked,is_saved,can_edit HTTP/1.1" 200 5844
+"GET /api/notifications/ HTTP/1.1" 200 8317
+"GET /api/profiles/by_user/2/ HTTP/1.1" 200 250
+"GET /api/profiles/by_user/2/ HTTP/1.1" 200 250
+Not Found: /api/profiles/by_user/4/
+"GET /api/profiles/by_user/2/ HTTP/1.1" 200 250
+"GET /api/profiles/by_user/4/ HTTP/1.1" 404 45
+"GET /api/profiles/by_user/3/ HTTP/1.1" 200 275
+"GET /api/profiles/by_user/3/ HTTP/1.1" 200 275
+"GET /api/profiles/by_user/3/ HTTP/1.1" 200 275
+"GET /api/profiles/by_user/2/ HTTP/1.1" 200 250
+"GET /api/profiles/by_user/2/ HTTP/1.1" 200 250
+"GET /api/notifications/ HTTP/1.1" 200 8317
+"GET /api/profiles/by_user/2/ HTTP/1.1" 200 250
+"GET /api/profiles/by_user/2/ HTTP/1.1" 200 250
+"GET /api/profiles/by_user/3/ HTTP/1.1" 200 275
+Not Found: /api/profiles/by_user/4/
+"GET /api/profiles/by_user/2/ HTTP/1.1" 200 250
+"GET /api/profiles/by_user/4/ HTTP/1.1" 404 45
+"GET /api/profiles/by_user/2/ HTTP/1.1" 200 250
+"GET /api/profiles/by_user/2/ HTTP/1.1" 200 250
+"GET /api/profiles/by_user/3/ HTTP/1.1" 200 275
+"GET /api/profiles/by_user/3/ HTTP/1.1" 200 275
+"GET /api/notifications/ HTTP/1.1" 200 8317
+"GET /api/profiles/by_user/2/ HTTP/1.1" 200 250
+"GET /api/profiles/by_user/2/ HTTP/1.1" 200 250
+Not Found: /api/profiles/by_user/4/
+"GET /api/profiles/by_user/2/ HTTP/1.1" 200 250
+"GET /api/profiles/by_user/4/ HTTP/1.1" 404 45
+"GET /api/profiles/by_user/2/ HTTP/1.1" 200 250
+"GET /api/profiles/by_user/3/ HTTP/1.1" 200 275
+"GET /api/profiles/by_user/3/ HTTP/1.1" 200 275
+"GET /api/profiles/by_user/3/ HTTP/1.1" 200 275
+"GET /api/profiles/by_user/2/ HTTP/1.1" 200 250
+"GET /api/notifications/ HTTP/1.1" 200 8317
+"GET /api/profiles/by_user/2/ HTTP/1.1" 200 250
+"GET /api/profiles/by_user/2/ HTTP/1.1" 200 250
+"GET /api/profiles/by_user/3/ HTTP/1.1" 200 275
+"GET /api/profiles/by_user/2/ HTTP/1.1" 200 250
+Not Found: /api/profiles/by_user/4/
+"GET /api/profiles/by_user/4/ HTTP/1.1" 404 45
+"GET /api/profiles/by_user/2/ HTTP/1.1" 200 250
+"GET /api/profiles/by_user/3/ HTTP/1.1" 200 275
+"GET /api/profiles/by_user/3/ HTTP/1.1" 200 275
+"GET /api/profiles/by_user/2/ HTTP/1.1" 200 250
+"GET /api/notifications/ HTTP/1.1" 200 8317
+"GET /api/profiles/by_user/2/ HTTP/1.1" 200 250
+Not Found: /api/profiles/by_user/4/
+"GET /api/profiles/by_user/2/ HTTP/1.1" 200 250
+"GET /api/profiles/by_user/2/ HTTP/1.1" 200 250
+"GET /api/profiles/by_user/4/ HTTP/1.1" 404 45
+"GET /api/profiles/by_user/3/ HTTP/1.1" 200 275
+"GET /api/profiles/by_user/3/ HTTP/1.1" 200 275
+"GET /api/profiles/by_user/3/ HTTP/1.1" 200 275
+"GET /api/profiles/by_user/2/ HTTP/1.1" 200 250
+"GET /api/profiles/by_user/2/ HTTP/1.1" 200 250
+"GET /api/notifications/ HTTP/1.1" 200 8317
+"GET /api/profiles/by_user/2/ HTTP/1.1" 200 250
+Not Found: /api/profiles/by_user/4/
+"GET /api/profiles/by_user/4/ HTTP/1.1" 404 45
+"GET /api/profiles/by_user/2/ HTTP/1.1" 200 250
+"GET /api/profiles/by_user/2/ HTTP/1.1" 200 250
+"GET /api/profiles/by_user/3/ HTTP/1.1" 200 275
+"GET /api/profiles/by_user/3/ HTTP/1.1" 200 275
+"GET /api/profiles/by_user/3/ HTTP/1.1" 200 275
+"GET /api/profiles/by_user/2/ HTTP/1.1" 200 250
+"GET /api/profiles/by_user/2/ HTTP/1.1" 200 250
+"GET /api/notifications/ HTTP/1.1" 200 8317
+Not Found: /api/profiles/by_user/4/
+"GET /api/profiles/by_user/2/ HTTP/1.1" 200 250
+"GET /api/profiles/by_user/2/ HTTP/1.1" 200 250
+"GET /api/profiles/by_user/4/ HTTP/1.1" 404 45
+"GET /api/profiles/by_user/3/ HTTP/1.1" 200 275
+"GET /api/profiles/by_user/3/ HTTP/1.1" 200 275
+"GET /api/profiles/by_user/3/ HTTP/1.1" 200 275
+"GET /api/profiles/by_user/2/ HTTP/1.1" 200 250
+"GET /api/profiles/by_user/2/ HTTP/1.1" 200 250
+"GET /api/profiles/by_user/2/ HTTP/1.1" 200 250
+"GET /api/notifications/ HTTP/1.1" 200 8317
+Not Found: /api/profiles/by_user/4/
+"GET /api/profiles/by_user/2/ HTTP/1.1" 200 250
+"GET /api/profiles/by_user/2/ HTTP/1.1" 200 250
+"GET /api/profiles/by_user/4/ HTTP/1.1" 404 45
+"GET /api/profiles/by_user/3/ HTTP/1.1" 200 275
+"GET /api/profiles/by_user/3/ HTTP/1.1" 200 275
+"GET /api/profiles/by_user/3/ HTTP/1.1" 200 275
+"GET /api/profiles/by_user/2/ HTTP/1.1" 200 250
+"GET /api/profiles/by_user/2/ HTTP/1.1" 200 250
+"GET /api/profiles/by_user/2/ HTTP/1.1" 200 250
+"GET /api/notifications/ HTTP/1.1" 200 8317
+Not Found: /api/profiles/by_user/4/
+"GET /api/profiles/by_user/4/ HTTP/1.1" 404 45
+"GET /api/profiles/by_user/2/ HTTP/1.1" 200 250
+"GET /api/profiles/by_user/2/ HTTP/1.1" 200 250
+"GET /api/profiles/by_user/2/ HTTP/1.1" 200 250
+"GET /api/profiles/by_user/3/ HTTP/1.1" 200 275
+"GET /api/profiles/by_user/3/ HTTP/1.1" 200 275
+"GET /api/profiles/by_user/3/ HTTP/1.1" 200 275
+"GET /api/profiles/by_user/2/ HTTP/1.1" 200 250
+"GET /api/profiles/by_user/2/ HTTP/1.1" 200 250
+"GET /api/notifications/ HTTP/1.1" 200 8317
+"GET /api/profiles/by_user/2/ HTTP/1.1" 200 250
+Not Found: /api/profiles/by_user/4/
+"GET /api/profiles/by_user/2/ HTTP/1.1" 200 250
+"GET /api/profiles/by_user/4/ HTTP/1.1" 404 45
+"GET /api/profiles/by_user/2/ HTTP/1.1" 200 250
+"GET /api/profiles/by_user/3/ HTTP/1.1" 200 275
+"GET /api/profiles/by_user/2/ HTTP/1.1" 200 250
+"GET /api/profiles/by_user/3/ HTTP/1.1" 200 275
+"GET /api/profiles/by_user/3/ HTTP/1.1" 200 275
+"GET /api/profiles/by_user/2/ HTTP/1.1" 200 250
+"GET /api/social-posts/?_cache=1754931610509&_fields=id,user,content_type,media_url,caption,location,created_at,likes_count,comments_count,is_liked,is_saved,can_edit HTTP/1.1" 200 5844
+"GET /api/notifications/ HTTP/1.1" 200 8317
+"GET /api/profiles/by_user/2/ HTTP/1.1" 200 250
+Not Found: /api/profiles/by_user/4/
+"GET /api/profiles/by_user/2/ HTTP/1.1" 200 250
+"GET /api/profiles/by_user/4/ HTTP/1.1" 404 45
+"GET /api/profiles/by_user/3/ HTTP/1.1" 200 275
+"GET /api/profiles/by_user/2/ HTTP/1.1" 200 250
+"GET /api/profiles/by_user/3/ HTTP/1.1" 200 275
+"GET /api/profiles/by_user/2/ HTTP/1.1" 200 250
+"GET /api/profiles/by_user/2/ HTTP/1.1" 200 250
+"GET /api/profiles/by_user/3/ HTTP/1.1" 200 275
+"GET /api/social-posts/?_cache=1754931645872&_fields=id,user,content_type,media_url,caption,location,created_at,likes_count,comments_count,is_liked,is_saved,can_edit HTTP/1.1" 200 5844
+"GET /api/notifications/ HTTP/1.1" 200 8317
+"GET /api/profiles/by_user/2/ HTTP/1.1" 200 250
+Not Found: /api/profiles/by_user/4/
+"GET /api/profiles/by_user/3/ HTTP/1.1" 200 275
+"GET /api/profiles/by_user/2/ HTTP/1.1" 200 250
+"GET /api/profiles/by_user/2/ HTTP/1.1" 200 250
+"GET /api/profiles/by_user/4/ HTTP/1.1" 404 45
+"GET /api/profiles/by_user/3/ HTTP/1.1" 200 275
+"GET /api/profiles/by_user/3/ HTTP/1.1" 200 275
+"GET /api/profiles/by_user/2/ HTTP/1.1" 200 250
+"GET /api/profiles/by_user/2/ HTTP/1.1" 200 250
+"GET /api/notifications/ HTTP/1.1" 200 8317
+"GET /api/profiles/by_user/2/ HTTP/1.1" 200 250
+"GET /api/profiles/by_user/2/ HTTP/1.1" 200 250
+Not Found: /api/profiles/by_user/4/
+"GET /api/profiles/by_user/4/ HTTP/1.1" 404 45
+"GET /api/profiles/by_user/2/ HTTP/1.1" 200 250
+"GET /api/profiles/by_user/3/ HTTP/1.1" 200 275
+"GET /api/profiles/by_user/3/ HTTP/1.1" 200 275
+"GET /api/profiles/by_user/2/ HTTP/1.1" 200 250
+"GET /api/profiles/by_user/3/ HTTP/1.1" 200 275
+"GET /api/profiles/by_user/2/ HTTP/1.1" 200 250
+"GET /api/notifications/ HTTP/1.1" 200 8317
+"GET /api/profiles/by_user/2/ HTTP/1.1" 200 250
+Not Found: /api/profiles/by_user/4/
+"GET /api/profiles/by_user/2/ HTTP/1.1" 200 250
+"GET /api/profiles/by_user/4/ HTTP/1.1" 404 45
+"GET /api/profiles/by_user/3/ HTTP/1.1" 200 275
+"GET /api/profiles/by_user/2/ HTTP/1.1" 200 250
+"GET /api/profiles/by_user/2/ HTTP/1.1" 200 250
+"GET /api/profiles/by_user/3/ HTTP/1.1" 200 275
+"GET /api/profiles/by_user/2/ HTTP/1.1" 200 250
+"GET /api/profiles/by_user/3/ HTTP/1.1" 200 275
+"GET /api/notifications/ HTTP/1.1" 200 8317
+"GET /api/profiles/by_user/2/ HTTP/1.1" 200 250
+"GET /api/profiles/by_user/2/ HTTP/1.1" 200 250
+Not Found: /api/profiles/by_user/4/
+"GET /api/profiles/by_user/2/ HTTP/1.1" 200 250
+"GET /api/profiles/by_user/4/ HTTP/1.1" 404 45
+"GET /api/profiles/by_user/3/ HTTP/1.1" 200 275
+"GET /api/profiles/by_user/2/ HTTP/1.1" 200 250
+"GET /api/profiles/by_user/3/ HTTP/1.1" 200 275
+"GET /api/profiles/by_user/3/ HTTP/1.1" 200 275
+"GET /api/profiles/by_user/2/ HTTP/1.1" 200 250
+"GET /api/notifications/ HTTP/1.1" 200 8317
+"GET /api/profiles/by_user/2/ HTTP/1.1" 200 250
+"GET /api/profiles/by_user/2/ HTTP/1.1" 200 250
+Not Found: /api/profiles/by_user/4/
+"GET /api/profiles/by_user/4/ HTTP/1.1" 404 45
+"GET /api/profiles/by_user/2/ HTTP/1.1" 200 250
+"GET /api/profiles/by_user/3/ HTTP/1.1" 200 275
+"GET /api/profiles/by_user/2/ HTTP/1.1" 200 250
+"GET /api/profiles/by_user/3/ HTTP/1.1" 200 275
+"GET /api/profiles/by_user/2/ HTTP/1.1" 200 250
+"GET /api/profiles/by_user/3/ HTTP/1.1" 200 275
+"GET /api/notifications/ HTTP/1.1" 200 8317
+"GET /api/profiles/by_user/2/ HTTP/1.1" 200 250
+"GET /api/profiles/by_user/2/ HTTP/1.1" 200 250
+Not Found: /api/profiles/by_user/4/
+"GET /api/profiles/by_user/2/ HTTP/1.1" 200 250
+"GET /api/profiles/by_user/4/ HTTP/1.1" 404 45
+"GET /api/profiles/by_user/2/ HTTP/1.1" 200 250
+"GET /api/profiles/by_user/3/ HTTP/1.1" 200 275
+"GET /api/profiles/by_user/3/ HTTP/1.1" 200 275
+"GET /api/profiles/by_user/3/ HTTP/1.1" 200 275
+"GET /api/profiles/by_user/2/ HTTP/1.1" 200 250
+"GET /api/notifications/ HTTP/1.1" 200 8317
+"GET /api/profiles/by_user/2/ HTTP/1.1" 200 250
+Not Found: /api/profiles/by_user/4/
+"GET /api/profiles/by_user/4/ HTTP/1.1" 404 45
+"GET /api/profiles/by_user/2/ HTTP/1.1" 200 250
+"GET /api/profiles/by_user/2/ HTTP/1.1" 200 250
+"GET /api/profiles/by_user/3/ HTTP/1.1" 200 275
+"GET /api/profiles/by_user/2/ HTTP/1.1" 200 250
+"GET /api/profiles/by_user/3/ HTTP/1.1" 200 275
+"GET /api/profiles/by_user/2/ HTTP/1.1" 200 250
+"GET /api/profiles/by_user/3/ HTTP/1.1" 200 275
+"GET /api/notifications/ HTTP/1.1" 200 8317
+"GET /api/profiles/by_user/2/ HTTP/1.1" 200 250
+"GET /api/profiles/by_user/2/ HTTP/1.1" 200 250
+Not Found: /api/profiles/by_user/4/
+"GET /api/profiles/by_user/4/ HTTP/1.1" 404 45
+"GET /api/profiles/by_user/2/ HTTP/1.1" 200 250
+"GET /api/profiles/by_user/2/ HTTP/1.1" 200 250
+"GET /api/profiles/by_user/3/ HTTP/1.1" 200 275
+"GET /api/profiles/by_user/3/ HTTP/1.1" 200 275
+"GET /api/profiles/by_user/3/ HTTP/1.1" 200 275
+"GET /api/profiles/by_user/2/ HTTP/1.1" 200 250
+"GET /api/notifications/ HTTP/1.1" 200 8317
+Not Found: /api/profiles/by_user/4/
+"GET /api/profiles/by_user/2/ HTTP/1.1" 200 250
+"GET /api/profiles/by_user/4/ HTTP/1.1" 404 45
+"GET /api/profiles/by_user/2/ HTTP/1.1" 200 250
+"GET /api/profiles/by_user/2/ HTTP/1.1" 200 250
+"GET /api/profiles/by_user/3/ HTTP/1.1" 200 275
+"GET /api/profiles/by_user/3/ HTTP/1.1" 200 275
+"GET /api/profiles/by_user/2/ HTTP/1.1" 200 250
+"GET /api/profiles/by_user/2/ HTTP/1.1" 200 250
+"GET /api/profiles/by_user/3/ HTTP/1.1" 200 275
+"GET /api/social-posts/?_cache=1754931925803&_fields=id,user,content_type,media_url,caption,location,created_at,likes_count,comments_count,is_liked,is_saved,can_edit HTTP/1.1" 200 5844
+"GET /api/notifications/ HTTP/1.1" 200 8317
+"GET /api/profiles/by_user/2/ HTTP/1.1" 200 250
+Not Found: /api/profiles/by_user/4/
+"GET /api/profiles/by_user/4/ HTTP/1.1" 404 45
+"GET /api/profiles/by_user/2/ HTTP/1.1" 200 250
+"GET /api/profiles/by_user/2/ HTTP/1.1" 200 250
+"GET /api/profiles/by_user/3/ HTTP/1.1" 200 275
+"GET /api/profiles/by_user/3/ HTTP/1.1" 200 275
+"GET /api/profiles/by_user/3/ HTTP/1.1" 200 275
+"GET /api/profiles/by_user/2/ HTTP/1.1" 200 250
+"GET /api/profiles/by_user/2/ HTTP/1.1" 200 250
+"GET /api/notifications/ HTTP/1.1" 200 8317
+"GET /api/profiles/by_user/2/ HTTP/1.1" 200 250
+"GET /api/profiles/by_user/2/ HTTP/1.1" 200 250
+"GET /api/profiles/by_user/2/ HTTP/1.1" 200 250
+Not Found: /api/profiles/by_user/4/
+"GET /api/profiles/by_user/4/ HTTP/1.1" 404 45
+"GET /api/profiles/by_user/3/ HTTP/1.1" 200 275
+"GET /api/profiles/by_user/2/ HTTP/1.1" 200 250
+"GET /api/profiles/by_user/3/ HTTP/1.1" 200 275
+"GET /api/profiles/by_user/3/ HTTP/1.1" 200 275
+"GET /api/profiles/by_user/2/ HTTP/1.1" 200 250
+"GET /api/social-posts/?_cache=1754931961162&_fields=id,user,content_type,media_url,caption,location,created_at,likes_count,comments_count,is_liked,is_saved,can_edit HTTP/1.1" 200 5844
+"GET /api/notifications/ HTTP/1.1" 200 8317
+Not Found: /api/profiles/by_user/4/
+"GET /api/profiles/by_user/2/ HTTP/1.1" 200 250
+"GET /api/profiles/by_user/4/ HTTP/1.1" 404 45
+"GET /api/profiles/by_user/2/ HTTP/1.1" 200 250
+"GET /api/profiles/by_user/3/ HTTP/1.1" 200 275
+"GET /api/profiles/by_user/3/ HTTP/1.1" 200 275
+"GET /api/profiles/by_user/3/ HTTP/1.1" 200 275
+"GET /api/profiles/by_user/2/ HTTP/1.1" 200 250
+"GET /api/profiles/by_user/2/ HTTP/1.1" 200 250
+"GET /api/profiles/by_user/2/ HTTP/1.1" 200 250
+"GET /api/notifications/ HTTP/1.1" 200 8317
+"GET /api/profiles/by_user/2/ HTTP/1.1" 200 250
+"GET /api/profiles/by_user/2/ HTTP/1.1" 200 250
+Not Found: /api/profiles/by_user/4/
+"GET /api/profiles/by_user/2/ HTTP/1.1" 200 250
+"GET /api/profiles/by_user/4/ HTTP/1.1" 404 45
+"GET /api/profiles/by_user/3/ HTTP/1.1" 200 275
+"GET /api/profiles/by_user/2/ HTTP/1.1" 200 250
+"GET /api/profiles/by_user/3/ HTTP/1.1" 200 275
+"GET /api/profiles/by_user/2/ HTTP/1.1" 200 250
+"GET /api/profiles/by_user/3/ HTTP/1.1" 200 275
+"GET /api/profiles/me/ HTTP/1.1" 200 265
+"GET /api/profiles/me/ HTTP/1.1" 200 265
+"GET /api/notifications/ HTTP/1.1" 200 8317
+Not Found: /api/profiles/by_user/4/
+"GET /api/profiles/by_user/2/ HTTP/1.1" 200 250
+"GET /api/profiles/by_user/2/ HTTP/1.1" 200 250
+"GET /api/profiles/by_user/4/ HTTP/1.1" 404 45
+"GET /api/social-posts/?_cache=1754932054918&_fields=id,user,content_type,media_url,caption,location,created_at,likes_count,comments_count,is_liked,is_saved,can_edit HTTP/1.1" 200 5844
+"GET /api/profiles/by_user/2/ HTTP/1.1" 200 250
+"GET /api/profiles/by_user/3/ HTTP/1.1" 200 275
+"GET /api/profiles/by_user/3/ HTTP/1.1" 200 275
+"GET /api/social-posts/?_cache=1754932054935&_fields=id,user,content_type,media_url,caption,location,created_at,likes_count,comments_count,is_liked,is_saved,can_edit HTTP/1.1" 200 5844
+"GET /api/profiles/by_user/3/ HTTP/1.1" 200 275
+"GET /api/profiles/me/ HTTP/1.1" 200 265
+"GET /api/profiles/me/ HTTP/1.1" 200 265
+"GET /api/profiles/by_user/2/ HTTP/1.1" 200 250
+"GET /api/profiles/by_user/2/ HTTP/1.1" 200 250
+"GET /api/profiles/me/ HTTP/1.1" 200 265
+"GET /api/profiles/me/ HTTP/1.1" 200 265
+"GET /api/profiles/me/ HTTP/1.1" 200 265
+"GET /api/notifications/ HTTP/1.1" 200 8317
+"GET /api/profiles/by_user/2/ HTTP/1.1" 200 250
+Not Found: /api/profiles/by_user/4/
+"GET /api/profiles/by_user/4/ HTTP/1.1" 404 45
+"GET /api/profiles/by_user/2/ HTTP/1.1" 200 250
+"GET /api/profiles/by_user/3/ HTTP/1.1" 200 275
+"GET /api/profiles/by_user/2/ HTTP/1.1" 200 250
+"GET /api/profiles/by_user/2/ HTTP/1.1" 200 250
+"GET /api/profiles/by_user/2/ HTTP/1.1" 200 250
+"GET /api/profiles/by_user/3/ HTTP/1.1" 200 275
+"GET /api/profiles/by_user/3/ HTTP/1.1" 200 275
+"GET /api/profiles/me/ HTTP/1.1" 200 265
+"GET /api/profiles/me/ HTTP/1.1" 200 265
+"GET /api/notifications/ HTTP/1.1" 200 8317
+"GET /api/profiles/by_user/2/ HTTP/1.1" 200 250
+"GET /api/profiles/by_user/2/ HTTP/1.1" 200 250
+Not Found: /api/profiles/by_user/4/
+"GET /api/profiles/by_user/4/ HTTP/1.1" 404 45
+"GET /api/social-posts/?_cache=1754932182175&_fields=id,user,content_type,media_url,caption,location,created_at,likes_count,comments_count,is_liked,is_saved,can_edit HTTP/1.1" 200 5844
+"GET /api/profiles/by_user/3/ HTTP/1.1" 200 275
+"GET /api/profiles/by_user/3/ HTTP/1.1" 200 275
+"GET /api/profiles/by_user/2/ HTTP/1.1" 200 250
+"GET /api/profiles/me/ HTTP/1.1" 200 265
+"GET /api/social-posts/?_cache=1754932182158&_fields=id,user,content_type,media_url,caption,location,created_at,likes_count,comments_count,is_liked,is_saved,can_edit HTTP/1.1" 200 5844
+"GET /api/profiles/by_user/3/ HTTP/1.1" 200 275
+"GET /api/profiles/by_user/2/ HTTP/1.1" 200 250
+"GET /api/profiles/by_user/2/ HTTP/1.1" 200 250
+"GET /api/profiles/me/ HTTP/1.1" 200 265
+"GET /api/profiles/me/ HTTP/1.1" 200 265
+"GET /api/profiles/me/ HTTP/1.1" 200 265
+"GET /api/profiles/me/ HTTP/1.1" 200 265
+"GET /api/profiles/me/ HTTP/1.1" 200 265
+"GET /api/profiles/me/ HTTP/1.1" 200 265
+"GET /api/profiles/me/ HTTP/1.1" 200 265
+"GET /api/notifications/ HTTP/1.1" 200 8317
+Not Found: /api/profiles/by_user/4/
+"GET /api/profiles/by_user/4/ HTTP/1.1" 404 45
+"GET /api/profiles/by_user/2/ HTTP/1.1" 200 250
+"GET /api/profiles/by_user/3/ HTTP/1.1" 200 275
+"GET /api/profiles/by_user/2/ HTTP/1.1" 200 250
+"GET /api/profiles/by_user/2/ HTTP/1.1" 200 250
+"GET /api/profiles/by_user/3/ HTTP/1.1" 200 275
+"GET /api/profiles/by_user/2/ HTTP/1.1" 200 250
+"GET /api/profiles/by_user/3/ HTTP/1.1" 200 275
+"GET /api/profiles/by_user/2/ HTTP/1.1" 200 250
+"GET /api/profiles/me/ HTTP/1.1" 200 265
+"GET /api/notifications/ HTTP/1.1" 200 8317
+"GET /api/social-posts/?_cache=1754932451748&_fields=id,user,content_type,media_url,caption,location,created_at,likes_count,comments_count,is_liked,is_saved,can_edit HTTP/1.1" 200 5844
+"GET /api/social-posts/?_cache=1754932451747&_fields=id,user,content_type,media_url,caption,location,created_at,likes_count,comments_count,is_liked,is_saved,can_edit HTTP/1.1" 200 5844
+"GET /api/profiles/me/ HTTP/1.1" 200 265
+"GET /api/profiles/me/ HTTP/1.1" 200 265
+"GET /api/social-posts/?_cache=1754932458704&_fields=id,user,content_type,media_url,caption,location,created_at,likes_count,comments_count,is_liked,is_saved,can_edit HTTP/1.1" 200 5844
+"GET /api/social-posts/?_cache=1754932458705&_fields=id,user,content_type,media_url,caption,location,created_at,likes_count,comments_count,is_liked,is_saved,can_edit HTTP/1.1" 200 5844
+"GET /api/notifications/ HTTP/1.1" 200 8317
+Not Found: /api/profiles/by_user/4/
+"GET /api/profiles/by_user/4/ HTTP/1.1" 404 45
+"GET /api/profiles/by_user/2/ HTTP/1.1" 200 250
+"GET /api/profiles/by_user/2/ HTTP/1.1" 200 250
+"GET /api/social-posts/?_cache=1754932474497&_fields=id,user,content_type,media_url,caption,location,created_at,likes_count,comments_count,is_liked,is_saved,can_edit HTTP/1.1" 200 5844
+"GET /api/social-posts/?_cache=1754932474513&_fields=id,user,content_type,media_url,caption,location,created_at,likes_count,comments_count,is_liked,is_saved,can_edit HTTP/1.1" 200 5844
+"GET /api/profiles/by_user/3/ HTTP/1.1" 200 275
+"GET /api/profiles/by_user/3/ HTTP/1.1" 200 275
+"GET /api/profiles/by_user/2/ HTTP/1.1" 200 250
+"GET /api/profiles/by_user/3/ HTTP/1.1" 200 275
+"GET /api/profiles/by_user/2/ HTTP/1.1" 200 250
+"GET /api/profiles/me/ HTTP/1.1" 200 265
+"GET /api/profiles/me/ HTTP/1.1" 200 265
+"GET /api/profiles/me/ HTTP/1.1" 200 265
+"GET /api/profiles/by_user/2/ HTTP/1.1" 200 250
+"GET /api/profiles/me/ HTTP/1.1" 200 265
+"GET /api/profiles/me/ HTTP/1.1" 200 265
+"GET /api/notifications/ HTTP/1.1" 200 8317
+Not Found: /api/profiles/by_user/4/
+"GET /api/profiles/by_user/4/ HTTP/1.1" 404 45
+"GET /api/profiles/by_user/2/ HTTP/1.1" 200 250
+"GET /api/profiles/by_user/3/ HTTP/1.1" 200 275
+"GET /api/profiles/by_user/2/ HTTP/1.1" 200 250
+"GET /api/profiles/by_user/2/ HTTP/1.1" 200 250
+"GET /api/profiles/by_user/3/ HTTP/1.1" 200 275
+"GET /api/profiles/by_user/2/ HTTP/1.1" 200 250
+"GET /api/profiles/by_user/2/ HTTP/1.1" 200 250
+"GET /api/profiles/by_user/3/ HTTP/1.1" 200 275
+"GET /api/notifications/ HTTP/1.1" 200 8317
+"GET /api/profiles/by_user/2/ HTTP/1.1" 200 250
+Not Found: /api/profiles/by_user/4/
+"GET /api/profiles/by_user/4/ HTTP/1.1" 404 45
+"GET /api/profiles/by_user/3/ HTTP/1.1" 200 275
+"GET /api/profiles/by_user/2/ HTTP/1.1" 200 250
+"GET /api/profiles/by_user/2/ HTTP/1.1" 200 250
+"GET /api/profiles/by_user/2/ HTTP/1.1" 200 250
+"GET /api/profiles/by_user/3/ HTTP/1.1" 200 275
+"GET /api/profiles/by_user/2/ HTTP/1.1" 200 250
+"GET /api/profiles/by_user/3/ HTTP/1.1" 200 275
+"GET /api/notifications/ HTTP/1.1" 200 8317
+"GET /api/profiles/by_user/2/ HTTP/1.1" 200 250
+"GET /api/profiles/by_user/3/ HTTP/1.1" 200 275
+"GET /api/profiles/by_user/2/ HTTP/1.1" 200 250
+Not Found: /api/profiles/by_user/4/
+"GET /api/profiles/by_user/4/ HTTP/1.1" 404 45
+"GET /api/profiles/by_user/2/ HTTP/1.1" 200 250
+"GET /api/profiles/by_user/3/ HTTP/1.1" 200 275
+"GET /api/profiles/by_user/2/ HTTP/1.1" 200 250
+"GET /api/profiles/by_user/2/ HTTP/1.1" 200 250
+"GET /api/profiles/by_user/3/ HTTP/1.1" 200 275
+"GET /api/notifications/ HTTP/1.1" 200 8317
+Not Found: /api/profiles/by_user/4/
+"GET /api/profiles/by_user/4/ HTTP/1.1" 404 45
+"GET /api/profiles/by_user/2/ HTTP/1.1" 200 250
+"GET /api/profiles/by_user/3/ HTTP/1.1" 200 275
+"GET /api/profiles/by_user/2/ HTTP/1.1" 200 250
+"GET /api/profiles/by_user/2/ HTTP/1.1" 200 250
+"GET /api/profiles/by_user/3/ HTTP/1.1" 200 275
+"GET /api/profiles/by_user/2/ HTTP/1.1" 200 250
+"GET /api/profiles/by_user/2/ HTTP/1.1" 200 250
+"GET /api/profiles/by_user/3/ HTTP/1.1" 200 275
+"GET /api/social-posts/?_cache=1754932789567&_fields=id,user,content_type,media_url,caption,location,created_at,likes_count,comments_count,is_liked,is_saved,can_edit HTTP/1.1" 200 5844
+"GET /api/notifications/ HTTP/1.1" 200 8317
+"GET /api/profiles/by_user/3/ HTTP/1.1" 200 275
+"GET /api/profiles/by_user/2/ HTTP/1.1" 200 250
+"GET /api/profiles/by_user/2/ HTTP/1.1" 200 250
+Not Found: /api/profiles/by_user/4/
+"GET /api/profiles/by_user/2/ HTTP/1.1" 200 250
+"GET /api/profiles/by_user/4/ HTTP/1.1" 404 45
+"GET /api/profiles/by_user/2/ HTTP/1.1" 200 250
+"GET /api/profiles/by_user/3/ HTTP/1.1" 200 275
+"GET /api/profiles/by_user/2/ HTTP/1.1" 200 250
+"GET /api/profiles/by_user/3/ HTTP/1.1" 200 275
+"GET /api/profiles/me/ HTTP/1.1" 200 265
+"GET /api/profiles/me/ HTTP/1.1" 200 265
+"GET /api/profiles/me/ HTTP/1.1" 200 265
+"GET /api/notifications/ HTTP/1.1" 200 8317
+"GET /api/profiles/by_user/2/ HTTP/1.1" 200 250
+Not Found: /api/profiles/by_user/4/
+"GET /api/profiles/by_user/2/ HTTP/1.1" 200 250
+"GET /api/profiles/by_user/4/ HTTP/1.1" 404 45
+"GET /api/profiles/by_user/2/ HTTP/1.1" 200 250
+"GET /api/social-posts/?_cache=1754933126007&_fields=id,user,content_type,media_url,caption,location,created_at,likes_count,comments_count,is_liked,is_saved,can_edit HTTP/1.1" 200 5844
+"GET /api/profiles/by_user/3/ HTTP/1.1" 200 275
+"GET /api/profiles/by_user/3/ HTTP/1.1" 200 275
+"GET /api/profiles/by_user/2/ HTTP/1.1" 200 250
+"GET /api/profiles/by_user/3/ HTTP/1.1" 200 275
+"GET /api/profiles/by_user/2/ HTTP/1.1" 200 250
+"GET /api/notifications/ HTTP/1.1" 200 8317
+"GET /api/profiles/by_user/2/ HTTP/1.1" 200 250
+"GET /api/profiles/by_user/2/ HTTP/1.1" 200 250
+Not Found: /api/profiles/by_user/4/
+"GET /api/profiles/by_user/2/ HTTP/1.1" 200 250
+"GET /api/profiles/by_user/3/ HTTP/1.1" 200 275
+"GET /api/profiles/by_user/4/ HTTP/1.1" 404 45
+"GET /api/profiles/by_user/3/ HTTP/1.1" 200 275
+"GET /api/profiles/by_user/3/ HTTP/1.1" 200 275
+"GET /api/profiles/by_user/2/ HTTP/1.1" 200 250
+"GET /api/profiles/by_user/2/ HTTP/1.1" 200 250
+Unauthorized: /api/social-posts/
+"GET /api/social-posts/?_cache=1754937617180&_fields=id,user,content_type,media_url,caption,location,created_at,likes_count,comments_count,is_liked,is_saved,can_edit HTTP/1.1" 401 172
+Unauthorized: /api/notifications/
+"GET /api/notifications/ HTTP/1.1" 401 172
+Internal Server Error: /api/auth/token/refresh/
+Traceback (most recent call last):
+  File "C:\Users\ankom\AppData\Roaming\Python\Python313\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "C:\Users\ankom\AppData\Roaming\Python\Python313\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\ankom\AppData\Roaming\Python\Python313\site-packages\django\views\decorators\csrf.py", line 65, in _view_wrapper
+    return view_func(request, *args, **kwargs)
+  File "C:\Users\ankom\AppData\Roaming\Python\Python313\site-packages\django\views\generic\base.py", line 104, in view
+    return self.dispatch(request, *args, **kwargs)
+           ~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\ankom\AppData\Roaming\Python\Python313\site-packages\rest_framework\views.py", line 515, in dispatch
+    response = self.handle_exception(exc)
+  File "C:\Users\ankom\AppData\Roaming\Python\Python313\site-packages\rest_framework\views.py", line 475, in handle_exception
+    self.raise_uncaught_exception(exc)
+    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^
+  File "C:\Users\ankom\AppData\Roaming\Python\Python313\site-packages\rest_framework\views.py", line 486, in raise_uncaught_exception
+    raise exc
+  File "C:\Users\ankom\AppData\Roaming\Python\Python313\site-packages\rest_framework\views.py", line 512, in dispatch
+    response = handler(request, *args, **kwargs)
+  File "C:\Users\ankom\AppData\Roaming\Python\Python313\site-packages\rest_framework_simplejwt\views.py", line 44, in post
+    serializer.is_valid(raise_exception=True)
+    ~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\ankom\AppData\Roaming\Python\Python313\site-packages\rest_framework\serializers.py", line 225, in is_valid
+    self._validated_data = self.run_validation(self.initial_data)
+                           ~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\ankom\AppData\Roaming\Python\Python313\site-packages\rest_framework\serializers.py", line 447, in run_validation
+    value = self.validate(value)
+  File "C:\Users\ankom\AppData\Roaming\Python\Python313\site-packages\rest_framework_simplejwt\serializers.py", line 141, in validate
+    refresh.outstand()
+    ~~~~~~~~~~~~~~~~^^
+  File "C:\Users\ankom\AppData\Roaming\Python\Python313\site-packages\rest_framework_simplejwt\tokens.py", line 222, in outstand
+    return OutstandingToken.objects.get_or_create(
+           ^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: type object 'OutstandingToken' has no attribute 'objects'
+Internal Server Error: /api/auth/token/refresh/
+Traceback (most recent call last):
+  File "C:\Users\ankom\AppData\Roaming\Python\Python313\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "C:\Users\ankom\AppData\Roaming\Python\Python313\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\ankom\AppData\Roaming\Python\Python313\site-packages\django\views\decorators\csrf.py", line 65, in _view_wrapper
+    return view_func(request, *args, **kwargs)
+  File "C:\Users\ankom\AppData\Roaming\Python\Python313\site-packages\django\views\generic\base.py", line 104, in view
+    return self.dispatch(request, *args, **kwargs)
+           ~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\ankom\AppData\Roaming\Python\Python313\site-packages\rest_framework\views.py", line 515, in dispatch
+    response = self.handle_exception(exc)
+  File "C:\Users\ankom\AppData\Roaming\Python\Python313\site-packages\rest_framework\views.py", line 475, in handle_exception
+    self.raise_uncaught_exception(exc)
+    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^
+  File "C:\Users\ankom\AppData\Roaming\Python\Python313\site-packages\rest_framework\views.py", line 486, in raise_uncaught_exception
+    raise exc
+  File "C:\Users\ankom\AppData\Roaming\Python\Python313\site-packages\rest_framework\views.py", line 512, in dispatch
+    response = handler(request, *args, **kwargs)
+  File "C:\Users\ankom\AppData\Roaming\Python\Python313\site-packages\rest_framework_simplejwt\views.py", line 44, in post
+    serializer.is_valid(raise_exception=True)
+    ~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\ankom\AppData\Roaming\Python\Python313\site-packages\rest_framework\serializers.py", line 225, in is_valid
+    self._validated_data = self.run_validation(self.initial_data)
+                           ~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\ankom\AppData\Roaming\Python\Python313\site-packages\rest_framework\serializers.py", line 447, in run_validation
+    value = self.validate(value)
+  File "C:\Users\ankom\AppData\Roaming\Python\Python313\site-packages\rest_framework_simplejwt\serializers.py", line 141, in validate
+    refresh.outstand()
+    ~~~~~~~~~~~~~~~~^^
+  File "C:\Users\ankom\AppData\Roaming\Python\Python313\site-packages\rest_framework_simplejwt\tokens.py", line 222, in outstand
+    return OutstandingToken.objects.get_or_create(
+           ^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: type object 'OutstandingToken' has no attribute 'objects'
+"POST /api/auth/token/refresh/ HTTP/1.1" 500 145
+"POST /api/auth/token/refresh/ HTTP/1.1" 500 145
+Internal Server Error: /api/auth/token/refresh/
+Traceback (most recent call last):
+  File "C:\Users\ankom\AppData\Roaming\Python\Python313\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "C:\Users\ankom\AppData\Roaming\Python\Python313\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\ankom\AppData\Roaming\Python\Python313\site-packages\django\views\decorators\csrf.py", line 65, in _view_wrapper
+    return view_func(request, *args, **kwargs)
+  File "C:\Users\ankom\AppData\Roaming\Python\Python313\site-packages\django\views\generic\base.py", line 104, in view
+    return self.dispatch(request, *args, **kwargs)
+           ~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\ankom\AppData\Roaming\Python\Python313\site-packages\rest_framework\views.py", line 515, in dispatch
+    response = self.handle_exception(exc)
+  File "C:\Users\ankom\AppData\Roaming\Python\Python313\site-packages\rest_framework\views.py", line 475, in handle_exception
+    self.raise_uncaught_exception(exc)
+    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^
+  File "C:\Users\ankom\AppData\Roaming\Python\Python313\site-packages\rest_framework\views.py", line 486, in raise_uncaught_exception
+    raise exc
+  File "C:\Users\ankom\AppData\Roaming\Python\Python313\site-packages\rest_framework\views.py", line 512, in dispatch
+    response = handler(request, *args, **kwargs)
+  File "C:\Users\ankom\AppData\Roaming\Python\Python313\site-packages\rest_framework_simplejwt\views.py", line 44, in post
+    serializer.is_valid(raise_exception=True)
+    ~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\ankom\AppData\Roaming\Python\Python313\site-packages\rest_framework\serializers.py", line 225, in is_valid
+    self._validated_data = self.run_validation(self.initial_data)
+                           ~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\ankom\AppData\Roaming\Python\Python313\site-packages\rest_framework\serializers.py", line 447, in run_validation
+    value = self.validate(value)
+  File "C:\Users\ankom\AppData\Roaming\Python\Python313\site-packages\rest_framework_simplejwt\serializers.py", line 141, in validate
+    refresh.outstand()
+    ~~~~~~~~~~~~~~~~^^
+  File "C:\Users\ankom\AppData\Roaming\Python\Python313\site-packages\rest_framework_simplejwt\tokens.py", line 222, in outstand
+    return OutstandingToken.objects.get_or_create(
+           ^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: type object 'OutstandingToken' has no attribute 'objects'
+Internal Server Error: /api/auth/token/refresh/
+Traceback (most recent call last):
+  File "C:\Users\ankom\AppData\Roaming\Python\Python313\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "C:\Users\ankom\AppData\Roaming\Python\Python313\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\ankom\AppData\Roaming\Python\Python313\site-packages\django\views\decorators\csrf.py", line 65, in _view_wrapper
+    return view_func(request, *args, **kwargs)
+  File "C:\Users\ankom\AppData\Roaming\Python\Python313\site-packages\django\views\generic\base.py", line 104, in view
+    return self.dispatch(request, *args, **kwargs)
+           ~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\ankom\AppData\Roaming\Python\Python313\site-packages\rest_framework\views.py", line 515, in dispatch
+    response = self.handle_exception(exc)
+  File "C:\Users\ankom\AppData\Roaming\Python\Python313\site-packages\rest_framework\views.py", line 475, in handle_exception
+    self.raise_uncaught_exception(exc)
+    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^
+  File "C:\Users\ankom\AppData\Roaming\Python\Python313\site-packages\rest_framework\views.py", line 486, in raise_uncaught_exception
+    raise exc
+  File "C:\Users\ankom\AppData\Roaming\Python\Python313\site-packages\rest_framework\views.py", line 512, in dispatch
+    response = handler(request, *args, **kwargs)
+  File "C:\Users\ankom\AppData\Roaming\Python\Python313\site-packages\rest_framework_simplejwt\views.py", line 44, in post
+    serializer.is_valid(raise_exception=True)
+    ~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\ankom\AppData\Roaming\Python\Python313\site-packages\rest_framework\serializers.py", line 225, in is_valid
+    self._validated_data = self.run_validation(self.initial_data)
+                           ~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\ankom\AppData\Roaming\Python\Python313\site-packages\rest_framework\serializers.py", line 447, in run_validation
+    value = self.validate(value)
+  File "C:\Users\ankom\AppData\Roaming\Python\Python313\site-packages\rest_framework_simplejwt\serializers.py", line 141, in validate
+    refresh.outstand()
+    ~~~~~~~~~~~~~~~~^^
+  File "C:\Users\ankom\AppData\Roaming\Python\Python313\site-packages\rest_framework_simplejwt\tokens.py", line 222, in outstand
+    return OutstandingToken.objects.get_or_create(
+           ^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: type object 'OutstandingToken' has no attribute 'objects'
+"POST /api/auth/token/refresh/ HTTP/1.1" 500 145
+"POST /api/auth/token/refresh/ HTTP/1.1" 500 145
+Unauthorized: /api/social-posts/
+Unauthorized: /api/profiles/me/
+Unauthorized: /api/social-posts/
+Unauthorized: /api/profiles/me/
+"GET /api/social-posts/?_cache=1754937636260&_fields=id,user,content_type,media_url,caption,location,created_at,likes_count,comments_count,is_liked,is_saved,can_edit HTTP/1.1" 401 172
+"GET /api/profiles/me/ HTTP/1.1" 401 172
+"GET /api/social-posts/?_cache=1754937636278&_fields=id,user,content_type,media_url,caption,location,created_at,likes_count,comments_count,is_liked,is_saved,can_edit HTTP/1.1" 401 172
+"GET /api/profiles/me/ HTTP/1.1" 401 172
+Unauthorized: /api/notifications/
+"GET /api/notifications/ HTTP/1.1" 401 172
+Internal Server Error: /api/auth/token/refresh/
+Traceback (most recent call last):
+  File "C:\Users\ankom\AppData\Roaming\Python\Python313\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "C:\Users\ankom\AppData\Roaming\Python\Python313\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\ankom\AppData\Roaming\Python\Python313\site-packages\django\views\decorators\csrf.py", line 65, in _view_wrapper
+    return view_func(request, *args, **kwargs)
+  File "C:\Users\ankom\AppData\Roaming\Python\Python313\site-packages\django\views\generic\base.py", line 104, in view
+    return self.dispatch(request, *args, **kwargs)
+           ~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\ankom\AppData\Roaming\Python\Python313\site-packages\rest_framework\views.py", line 515, in dispatch
+    response = self.handle_exception(exc)
+  File "C:\Users\ankom\AppData\Roaming\Python\Python313\site-packages\rest_framework\views.py", line 475, in handle_exception
+    self.raise_uncaught_exception(exc)
+    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^
+  File "C:\Users\ankom\AppData\Roaming\Python\Python313\site-packages\rest_framework\views.py", line 486, in raise_uncaught_exception
+    raise exc
+  File "C:\Users\ankom\AppData\Roaming\Python\Python313\site-packages\rest_framework\views.py", line 512, in dispatch
+    response = handler(request, *args, **kwargs)
+  File "C:\Users\ankom\AppData\Roaming\Python\Python313\site-packages\rest_framework_simplejwt\views.py", line 44, in post
+    serializer.is_valid(raise_exception=True)
+    ~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\ankom\AppData\Roaming\Python\Python313\site-packages\rest_framework\serializers.py", line 225, in is_valid
+    self._validated_data = self.run_validation(self.initial_data)
+                           ~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\ankom\AppData\Roaming\Python\Python313\site-packages\rest_framework\serializers.py", line 447, in run_validation
+    value = self.validate(value)
+  File "C:\Users\ankom\AppData\Roaming\Python\Python313\site-packages\rest_framework_simplejwt\serializers.py", line 141, in validate
+    refresh.outstand()
+    ~~~~~~~~~~~~~~~~^^
+  File "C:\Users\ankom\AppData\Roaming\Python\Python313\site-packages\rest_framework_simplejwt\tokens.py", line 222, in outstand
+    return OutstandingToken.objects.get_or_create(
+           ^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: type object 'OutstandingToken' has no attribute 'objects'
+"POST /api/auth/token/refresh/ HTTP/1.1" 500 145
+Internal Server Error: /api/auth/token/refresh/
+Traceback (most recent call last):
+  File "C:\Users\ankom\AppData\Roaming\Python\Python313\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "C:\Users\ankom\AppData\Roaming\Python\Python313\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\ankom\AppData\Roaming\Python\Python313\site-packages\django\views\decorators\csrf.py", line 65, in _view_wrapper
+    return view_func(request, *args, **kwargs)
+  File "C:\Users\ankom\AppData\Roaming\Python\Python313\site-packages\django\views\generic\base.py", line 104, in view
+    return self.dispatch(request, *args, **kwargs)
+           ~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\ankom\AppData\Roaming\Python\Python313\site-packages\rest_framework\views.py", line 515, in dispatch
+    response = self.handle_exception(exc)
+  File "C:\Users\ankom\AppData\Roaming\Python\Python313\site-packages\rest_framework\views.py", line 475, in handle_exception
+    self.raise_uncaught_exception(exc)
+    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^
+  File "C:\Users\ankom\AppData\Roaming\Python\Python313\site-packages\rest_framework\views.py", line 486, in raise_uncaught_exception
+    raise exc
+  File "C:\Users\ankom\AppData\Roaming\Python\Python313\site-packages\rest_framework\views.py", line 512, in dispatch
+    response = handler(request, *args, **kwargs)
+  File "C:\Users\ankom\AppData\Roaming\Python\Python313\site-packages\rest_framework_simplejwt\views.py", line 44, in post
+    serializer.is_valid(raise_exception=True)
+    ~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\ankom\AppData\Roaming\Python\Python313\site-packages\rest_framework\serializers.py", line 225, in is_valid
+    self._validated_data = self.run_validation(self.initial_data)
+                           ~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\ankom\AppData\Roaming\Python\Python313\site-packages\rest_framework\serializers.py", line 447, in run_validation
+    value = self.validate(value)
+  File "C:\Users\ankom\AppData\Roaming\Python\Python313\site-packages\rest_framework_simplejwt\serializers.py", line 141, in validate
+    refresh.outstand()
+    ~~~~~~~~~~~~~~~~^^
+  File "C:\Users\ankom\AppData\Roaming\Python\Python313\site-packages\rest_framework_simplejwt\tokens.py", line 222, in outstand
+    return OutstandingToken.objects.get_or_create(
+           ^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: type object 'OutstandingToken' has no attribute 'objects'
+"POST /api/auth/token/refresh/ HTTP/1.1" 500 145
+Internal Server Error: /api/auth/token/refresh/
+Traceback (most recent call last):
+  File "C:\Users\ankom\AppData\Roaming\Python\Python313\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "C:\Users\ankom\AppData\Roaming\Python\Python313\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\ankom\AppData\Roaming\Python\Python313\site-packages\django\views\decorators\csrf.py", line 65, in _view_wrapper
+    return view_func(request, *args, **kwargs)
+  File "C:\Users\ankom\AppData\Roaming\Python\Python313\site-packages\django\views\generic\base.py", line 104, in view
+    return self.dispatch(request, *args, **kwargs)
+           ~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\ankom\AppData\Roaming\Python\Python313\site-packages\rest_framework\views.py", line 515, in dispatch
+    response = self.handle_exception(exc)
+  File "C:\Users\ankom\AppData\Roaming\Python\Python313\site-packages\rest_framework\views.py", line 475, in handle_exception
+    self.raise_uncaught_exception(exc)
+    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^
+  File "C:\Users\ankom\AppData\Roaming\Python\Python313\site-packages\rest_framework\views.py", line 486, in raise_uncaught_exception
+    raise exc
+  File "C:\Users\ankom\AppData\Roaming\Python\Python313\site-packages\rest_framework\views.py", line 512, in dispatch
+    response = handler(request, *args, **kwargs)
+  File "C:\Users\ankom\AppData\Roaming\Python\Python313\site-packages\rest_framework_simplejwt\views.py", line 44, in post
+    serializer.is_valid(raise_exception=True)
+    ~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\ankom\AppData\Roaming\Python\Python313\site-packages\rest_framework\serializers.py", line 225, in is_valid
+    self._validated_data = self.run_validation(self.initial_data)
+                           ~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\ankom\AppData\Roaming\Python\Python313\site-packages\rest_framework\serializers.py", line 447, in run_validation
+    value = self.validate(value)
+  File "C:\Users\ankom\AppData\Roaming\Python\Python313\site-packages\rest_framework_simplejwt\serializers.py", line 141, in validate
+    refresh.outstand()
+    ~~~~~~~~~~~~~~~~^^
+  File "C:\Users\ankom\AppData\Roaming\Python\Python313\site-packages\rest_framework_simplejwt\tokens.py", line 222, in outstand
+    return OutstandingToken.objects.get_or_create(
+           ^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: type object 'OutstandingToken' has no attribute 'objects'
+"POST /api/auth/token/refresh/ HTTP/1.1" 500 145
+Internal Server Error: /api/auth/token/refresh/
+Traceback (most recent call last):
+  File "C:\Users\ankom\AppData\Roaming\Python\Python313\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "C:\Users\ankom\AppData\Roaming\Python\Python313\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\ankom\AppData\Roaming\Python\Python313\site-packages\django\views\decorators\csrf.py", line 65, in _view_wrapper
+    return view_func(request, *args, **kwargs)
+  File "C:\Users\ankom\AppData\Roaming\Python\Python313\site-packages\django\views\generic\base.py", line 104, in view
+    return self.dispatch(request, *args, **kwargs)
+           ~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\ankom\AppData\Roaming\Python\Python313\site-packages\rest_framework\views.py", line 515, in dispatch
+    response = self.handle_exception(exc)
+  File "C:\Users\ankom\AppData\Roaming\Python\Python313\site-packages\rest_framework\views.py", line 475, in handle_exception
+    self.raise_uncaught_exception(exc)
+    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^
+  File "C:\Users\ankom\AppData\Roaming\Python\Python313\site-packages\rest_framework\views.py", line 486, in raise_uncaught_exception
+    raise exc
+  File "C:\Users\ankom\AppData\Roaming\Python\Python313\site-packages\rest_framework\views.py", line 512, in dispatch
+    response = handler(request, *args, **kwargs)
+  File "C:\Users\ankom\AppData\Roaming\Python\Python313\site-packages\rest_framework_simplejwt\views.py", line 44, in post
+    serializer.is_valid(raise_exception=True)
+    ~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\ankom\AppData\Roaming\Python\Python313\site-packages\rest_framework\serializers.py", line 225, in is_valid
+    self._validated_data = self.run_validation(self.initial_data)
+                           ~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\ankom\AppData\Roaming\Python\Python313\site-packages\rest_framework\serializers.py", line 447, in run_validation
+    value = self.validate(value)
+  File "C:\Users\ankom\AppData\Roaming\Python\Python313\site-packages\rest_framework_simplejwt\serializers.py", line 141, in validate
+    refresh.outstand()
+    ~~~~~~~~~~~~~~~~^^
+  File "C:\Users\ankom\AppData\Roaming\Python\Python313\site-packages\rest_framework_simplejwt\tokens.py", line 222, in outstand
+    return OutstandingToken.objects.get_or_create(
+           ^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: type object 'OutstandingToken' has no attribute 'objects'
+"POST /api/auth/token/refresh/ HTTP/1.1" 500 145
+Internal Server Error: /api/auth/token/refresh/
+Traceback (most recent call last):
+  File "C:\Users\ankom\AppData\Roaming\Python\Python313\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "C:\Users\ankom\AppData\Roaming\Python\Python313\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\ankom\AppData\Roaming\Python\Python313\site-packages\django\views\decorators\csrf.py", line 65, in _view_wrapper
+    return view_func(request, *args, **kwargs)
+  File "C:\Users\ankom\AppData\Roaming\Python\Python313\site-packages\django\views\generic\base.py", line 104, in view
+    return self.dispatch(request, *args, **kwargs)
+           ~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\ankom\AppData\Roaming\Python\Python313\site-packages\rest_framework\views.py", line 515, in dispatch
+    response = self.handle_exception(exc)
+  File "C:\Users\ankom\AppData\Roaming\Python\Python313\site-packages\rest_framework\views.py", line 475, in handle_exception
+    self.raise_uncaught_exception(exc)
+    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^
+  File "C:\Users\ankom\AppData\Roaming\Python\Python313\site-packages\rest_framework\views.py", line 486, in raise_uncaught_exception
+    raise exc
+  File "C:\Users\ankom\AppData\Roaming\Python\Python313\site-packages\rest_framework\views.py", line 512, in dispatch
+    response = handler(request, *args, **kwargs)
+  File "C:\Users\ankom\AppData\Roaming\Python\Python313\site-packages\rest_framework_simplejwt\views.py", line 44, in post
+    serializer.is_valid(raise_exception=True)
+    ~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\ankom\AppData\Roaming\Python\Python313\site-packages\rest_framework\serializers.py", line 225, in is_valid
+    self._validated_data = self.run_validation(self.initial_data)
+                           ~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\ankom\AppData\Roaming\Python\Python313\site-packages\rest_framework\serializers.py", line 447, in run_validation
+    value = self.validate(value)
+  File "C:\Users\ankom\AppData\Roaming\Python\Python313\site-packages\rest_framework_simplejwt\serializers.py", line 141, in validate
+    refresh.outstand()
+    ~~~~~~~~~~~~~~~~^^
+  File "C:\Users\ankom\AppData\Roaming\Python\Python313\site-packages\rest_framework_simplejwt\tokens.py", line 222, in outstand
+    return OutstandingToken.objects.get_or_create(
+           ^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: type object 'OutstandingToken' has no attribute 'objects'
+"POST /api/auth/token/refresh/ HTTP/1.1" 500 145
+Internal Server Error: /api/auth/token/refresh/
+Traceback (most recent call last):
+  File "C:\Users\ankom\AppData\Roaming\Python\Python313\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "C:\Users\ankom\AppData\Roaming\Python\Python313\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\ankom\AppData\Roaming\Python\Python313\site-packages\django\views\decorators\csrf.py", line 65, in _view_wrapper
+    return view_func(request, *args, **kwargs)
+  File "C:\Users\ankom\AppData\Roaming\Python\Python313\site-packages\django\views\generic\base.py", line 104, in view
+    return self.dispatch(request, *args, **kwargs)
+           ~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\ankom\AppData\Roaming\Python\Python313\site-packages\rest_framework\views.py", line 515, in dispatch
+    response = self.handle_exception(exc)
+  File "C:\Users\ankom\AppData\Roaming\Python\Python313\site-packages\rest_framework\views.py", line 475, in handle_exception
+    self.raise_uncaught_exception(exc)
+    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^
+  File "C:\Users\ankom\AppData\Roaming\Python\Python313\site-packages\rest_framework\views.py", line 486, in raise_uncaught_exception
+    raise exc
+  File "C:\Users\ankom\AppData\Roaming\Python\Python313\site-packages\rest_framework\views.py", line 512, in dispatch
+    response = handler(request, *args, **kwargs)
+  File "C:\Users\ankom\AppData\Roaming\Python\Python313\site-packages\rest_framework_simplejwt\views.py", line 44, in post
+    serializer.is_valid(raise_exception=True)
+    ~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\ankom\AppData\Roaming\Python\Python313\site-packages\rest_framework\serializers.py", line 225, in is_valid
+    self._validated_data = self.run_validation(self.initial_data)
+                           ~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\ankom\AppData\Roaming\Python\Python313\site-packages\rest_framework\serializers.py", line 447, in run_validation
+    value = self.validate(value)
+  File "C:\Users\ankom\AppData\Roaming\Python\Python313\site-packages\rest_framework_simplejwt\serializers.py", line 141, in validate
+    refresh.outstand()
+    ~~~~~~~~~~~~~~~~^^
+  File "C:\Users\ankom\AppData\Roaming\Python\Python313\site-packages\rest_framework_simplejwt\tokens.py", line 222, in outstand
+    return OutstandingToken.objects.get_or_create(
+           ^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: type object 'OutstandingToken' has no attribute 'objects'
+"POST /api/auth/token/refresh/ HTTP/1.1" 500 145
+Internal Server Error: /api/auth/token/refresh/
+Traceback (most recent call last):
+  File "C:\Users\ankom\AppData\Roaming\Python\Python313\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "C:\Users\ankom\AppData\Roaming\Python\Python313\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\ankom\AppData\Roaming\Python\Python313\site-packages\django\views\decorators\csrf.py", line 65, in _view_wrapper
+    return view_func(request, *args, **kwargs)
+  File "C:\Users\ankom\AppData\Roaming\Python\Python313\site-packages\django\views\generic\base.py", line 104, in view
+    return self.dispatch(request, *args, **kwargs)
+           ~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\ankom\AppData\Roaming\Python\Python313\site-packages\rest_framework\views.py", line 515, in dispatch
+    response = self.handle_exception(exc)
+  File "C:\Users\ankom\AppData\Roaming\Python\Python313\site-packages\rest_framework\views.py", line 475, in handle_exception
+    self.raise_uncaught_exception(exc)
+    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^
+  File "C:\Users\ankom\AppData\Roaming\Python\Python313\site-packages\rest_framework\views.py", line 486, in raise_uncaught_exception
+    raise exc
+  File "C:\Users\ankom\AppData\Roaming\Python\Python313\site-packages\rest_framework\views.py", line 512, in dispatch
+    response = handler(request, *args, **kwargs)
+  File "C:\Users\ankom\AppData\Roaming\Python\Python313\site-packages\rest_framework_simplejwt\views.py", line 44, in post
+    serializer.is_valid(raise_exception=True)
+    ~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\ankom\AppData\Roaming\Python\Python313\site-packages\rest_framework\serializers.py", line 225, in is_valid
+    self._validated_data = self.run_validation(self.initial_data)
+                           ~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\ankom\AppData\Roaming\Python\Python313\site-packages\rest_framework\serializers.py", line 447, in run_validation
+    value = self.validate(value)
+  File "C:\Users\ankom\AppData\Roaming\Python\Python313\site-packages\rest_framework_simplejwt\serializers.py", line 141, in validate
+    refresh.outstand()
+    ~~~~~~~~~~~~~~~~^^
+  File "C:\Users\ankom\AppData\Roaming\Python\Python313\site-packages\rest_framework_simplejwt\tokens.py", line 222, in outstand
+    return OutstandingToken.objects.get_or_create(
+           ^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: type object 'OutstandingToken' has no attribute 'objects'
+"POST /api/auth/token/refresh/ HTTP/1.1" 500 145
+"POST /api/auth/token/ HTTP/1.1" 200 483
+"GET /api/profiles/me/ HTTP/1.1" 200 265
+"GET /api/profiles/me/ HTTP/1.1" 200 265
+"GET /api/profiles/me/ HTTP/1.1" 200 265
+"GET /api/social-posts/?_cache=1754937671509&_fields=id,user,content_type,media_url,caption,location,created_at,likes_count,comments_count,is_liked,is_saved,can_edit HTTP/1.1" 200 5844
+"GET /api/profiles/me/ HTTP/1.1" 200 265
+"GET /api/profiles/me/ HTTP/1.1" 200 265
+"GET /api/social-posts/?_cache=1754937671509&_fields=id,user,content_type,media_url,caption,location,created_at,likes_count,comments_count,is_liked,is_saved,can_edit HTTP/1.1" 200 5844
+"GET /api/profiles/me/ HTTP/1.1" 200 265
+"GET /api/profiles/me/ HTTP/1.1" 200 265
+"GET /api/profiles/me/ HTTP/1.1" 200 265
+"GET /api/profiles/me/ HTTP/1.1" 200 265
+"GET /api/profiles/me/ HTTP/1.1" 200 265
+"GET /api/profiles/me/ HTTP/1.1" 200 265
+"GET /api/notifications/ HTTP/1.1" 200 8317
+"GET /api/notifications/ HTTP/1.1" 200 8317
+"POST /api/auth/signup/ HTTP/1.1" 201 42
+"POST /api/auth/token/ HTTP/1.1" 200 483
+Bad Request: /api/auth/signup/
+"POST /api/auth/signup/ HTTP/1.1" 400 58
+Bad Request: /api/auth/signup/
+"POST /api/auth/signup/ HTTP/1.1" 400 58
+"POST /api/auth/signup/ HTTP/1.1" 201 42
+"POST /api/auth/token/ HTTP/1.1" 200 483
+Watching for file changes with StatReloader
+Not Found: /
+"GET / HTTP/1.1" 404 179
+Not Found: /favicon.ico
+"GET /favicon.ico HTTP/1.1" 404 179
+Not Found: /
+"GET / HTTP/1.1" 404 179
+"GET /admin HTTP/1.1" 301 0
+"GET /admin/ HTTP/1.1" 302 0
+"GET /admin/login/?next=/admin/ HTTP/1.1" 200 4184
+Not Found: /static/admin/css/base.css
+Not Found: /static/admin/css/dark_mode.css
+Not Found: /static/admin/css/nav_sidebar.css
+Not Found: /static/admin/css/login.css
+"GET /static/admin/css/base.css HTTP/1.1" 404 179
+"GET /static/admin/css/dark_mode.css HTTP/1.1" 404 179
+Not Found: /static/admin/css/responsive.css
+"GET /static/admin/css/nav_sidebar.css HTTP/1.1" 404 179
+"GET /static/admin/css/login.css HTTP/1.1" 404 179
+Not Found: /static/admin/js/theme.js
+"GET /static/admin/css/responsive.css HTTP/1.1" 404 179
+"GET /static/admin/js/theme.js HTTP/1.1" 404 179
+Not Found: /static/admin/js/nav_sidebar.js
+Not Found: /static/admin/css/nav_sidebar.css
+Not Found: /static/admin/css/responsive.css
+Not Found: /static/admin/css/login.css
+"GET /static/admin/js/nav_sidebar.js HTTP/1.1" 404 179
+"GET /static/admin/css/nav_sidebar.css HTTP/1.1" 404 179
+"GET /static/admin/css/responsive.css HTTP/1.1" 404 179
+"GET /static/admin/css/login.css HTTP/1.1" 404 179
+- Broken pipe from ('192.168.1.126', 50851)
+- Broken pipe from ('192.168.1.126', 50850)
+"POST /admin/login/?next=/admin/ HTTP/1.1" 200 4351
+Not Found: /static/admin/css/base.css
+"GET /static/admin/css/base.css HTTP/1.1" 404 179
+Not Found: /static/admin/css/dark_mode.css
+Not Found: /static/admin/js/theme.js
+Not Found: /static/admin/css/nav_sidebar.css
+"GET /static/admin/css/dark_mode.css HTTP/1.1" 404 179
+Not Found: /static/admin/css/login.css
+"GET /static/admin/js/theme.js HTTP/1.1" 404 179
+"GET /static/admin/css/nav_sidebar.css HTTP/1.1" 404 179
+Not Found: /static/admin/css/responsive.css
+"GET /static/admin/css/login.css HTTP/1.1" 404 179
+Not Found: /static/admin/css/nav_sidebar.css
+Not Found: /static/admin/js/nav_sidebar.js
+"GET /static/admin/css/responsive.css HTTP/1.1" 404 179
+"GET /static/admin/css/nav_sidebar.css HTTP/1.1" 404 179
+"GET /static/admin/js/nav_sidebar.js HTTP/1.1" 404 179
+- Broken pipe from ('192.168.1.126', 50852)
+"GET /admin/ HTTP/1.1" 302 0
+"GET /admin/login/?next=/admin/ HTTP/1.1" 200 4184
+Not Found: /static/admin/css/base.css
+Not Found: /static/admin/css/dark_mode.css
+Not Found: /static/admin/js/theme.js
+Not Found: /static/admin/css/nav_sidebar.css
+"GET /static/admin/css/dark_mode.css HTTP/1.1" 404 179
+"GET /static/admin/js/theme.js HTTP/1.1" 404 179
+"GET /static/admin/css/base.css HTTP/1.1" 404 179
+- Broken pipe from ('192.168.1.126', 50847)
+"GET /static/admin/css/nav_sidebar.css HTTP/1.1" 404 179
+Not Found: /static/admin/css/login.css
+Not Found: /static/admin/css/responsive.css
+Not Found: /static/admin/css/nav_sidebar.css
+Not Found: /static/admin/js/nav_sidebar.js
+"GET /static/admin/css/login.css HTTP/1.1" 404 179
+"GET /static/admin/css/responsive.css HTTP/1.1" 404 179
+"GET /static/admin/css/nav_sidebar.css HTTP/1.1" 404 179
+"GET /static/admin/js/nav_sidebar.js HTTP/1.1" 404 179
+- Broken pipe from ('192.168.1.126', 50877)
+- Broken pipe from ('192.168.1.126', 50849)
+- Broken pipe from ('192.168.1.126', 50863)
+"POST /admin/login/?next=/admin/ HTTP/1.1" 200 4351
+Not Found: /static/admin/css/dark_mode.css
+Not Found: /static/admin/css/base.css
+Not Found: /static/admin/js/theme.js
+Not Found: /static/admin/css/login.css
+Not Found: /static/admin/css/nav_sidebar.css
+Not Found: /static/admin/css/responsive.css
+"GET /static/admin/css/base.css HTTP/1.1" 404 179
+"GET /static/admin/css/dark_mode.css HTTP/1.1" 404 179
+"GET /static/admin/js/theme.js HTTP/1.1" 404 179
+"GET /static/admin/css/login.css HTTP/1.1" 404 179
+"GET /static/admin/css/nav_sidebar.css HTTP/1.1" 404 179
+"GET /static/admin/css/responsive.css HTTP/1.1" 404 179
+Not Found: /static/admin/js/nav_sidebar.js
+"GET /static/admin/js/nav_sidebar.js HTTP/1.1" 404 179
+"POST /admin/login/?next=/admin/ HTTP/1.1" 200 4351
+Not Found: /static/admin/css/base.css
+Not Found: /static/admin/css/dark_mode.css
+Not Found: /static/admin/css/nav_sidebar.css
+Not Found: /static/admin/css/login.css
+Not Found: /static/admin/css/responsive.css
+Not Found: /static/admin/js/theme.js
+"GET /static/admin/css/base.css HTTP/1.1" 404 179
+"GET /static/admin/css/dark_mode.css HTTP/1.1" 404 179
+"GET /static/admin/css/nav_sidebar.css HTTP/1.1" 404 179
+"GET /static/admin/css/login.css HTTP/1.1" 404 179
+"GET /static/admin/css/responsive.css HTTP/1.1" 404 179
+"GET /static/admin/js/theme.js HTTP/1.1" 404 179
+Not Found: /static/admin/js/nav_sidebar.js
+Not Found: /static/admin/css/nav_sidebar.css
+Not Found: /static/admin/css/responsive.css
+Not Found: /static/admin/css/login.css
+"GET /static/admin/js/nav_sidebar.js HTTP/1.1" 404 179
+"GET /static/admin/css/nav_sidebar.css HTTP/1.1" 404 179
+"GET /static/admin/css/responsive.css HTTP/1.1" 404 179
+"GET /static/admin/css/login.css HTTP/1.1" 404 179
+"POST /admin/login/?next=/admin/ HTTP/1.1" 200 4351
+Not Found: /static/admin/css/base.css
+Not Found: /static/admin/css/dark_mode.css
+Not Found: /static/admin/css/nav_sidebar.css
+Not Found: /static/admin/css/login.css
+Not Found: /static/admin/css/responsive.css
+Not Found: /static/admin/js/theme.js
+"GET /static/admin/css/dark_mode.css HTTP/1.1" 404 179
+"GET /static/admin/css/base.css HTTP/1.1" 404 179
+"GET /static/admin/css/nav_sidebar.css HTTP/1.1" 404 179
+"GET /static/admin/css/responsive.css HTTP/1.1" 404 179
+"GET /static/admin/css/login.css HTTP/1.1" 404 179
+"GET /static/admin/js/theme.js HTTP/1.1" 404 179
+Not Found: /static/admin/js/nav_sidebar.js
+Not Found: /static/admin/css/nav_sidebar.css
+Not Found: /static/admin/css/login.css
+Not Found: /static/admin/css/responsive.css
+"GET /static/admin/js/nav_sidebar.js HTTP/1.1" 404 179
+"GET /static/admin/css/login.css HTTP/1.1" 404 179
+"GET /static/admin/css/nav_sidebar.css HTTP/1.1" 404 179
+"GET /static/admin/css/responsive.css HTTP/1.1" 404 179
+Not Found: /
+"GET / HTTP/1.1" 404 179
+"GET /admin/ HTTP/1.1" 302 0
+"GET /admin/login/?next=/admin/ HTTP/1.1" 200 4184
+Not Found: /static/admin/css/base.css
+"GET /static/admin/css/base.css HTTP/1.1" 404 179
+Not Found: /static/admin/css/dark_mode.css
+Not Found: /static/admin/css/nav_sidebar.css
+Not Found: /static/admin/css/login.css
+Not Found: /static/admin/css/responsive.css
+Not Found: /static/admin/js/theme.js
+"GET /static/admin/css/nav_sidebar.css HTTP/1.1" 404 179
+"GET /static/admin/css/dark_mode.css HTTP/1.1" 404 179
+"GET /static/admin/css/login.css HTTP/1.1" 404 179
+"GET /static/admin/css/responsive.css HTTP/1.1" 404 179
+"GET /static/admin/js/theme.js HTTP/1.1" 404 179
+Not Found: /static/admin/js/nav_sidebar.js
+Not Found: /static/admin/css/nav_sidebar.css
+"GET /static/admin/js/nav_sidebar.js HTTP/1.1" 404 179
+Not Found: /static/admin/css/responsive.css
+Not Found: /static/admin/css/login.css
+"GET /static/admin/css/nav_sidebar.css HTTP/1.1" 404 179
+"GET /static/admin/css/responsive.css HTTP/1.1" 404 179
+"GET /static/admin/css/login.css HTTP/1.1" 404 179
+"GET /admin/ HTTP/1.1" 302 0
+"GET /admin/login/?next=/admin/ HTTP/1.1" 200 4184
+Not Found: /static/admin/css/base.css
+"GET /static/admin/css/base.css HTTP/1.1" 404 179
+Not Found: /static/admin/css/dark_mode.css
+Not Found: /static/admin/css/nav_sidebar.css
+Not Found: /static/admin/css/login.css
+Not Found: /static/admin/css/responsive.css
+Not Found: /static/admin/js/theme.js
+"GET /static/admin/css/dark_mode.css HTTP/1.1" 404 179
+"GET /static/admin/css/login.css HTTP/1.1" 404 179
+"GET /static/admin/css/nav_sidebar.css HTTP/1.1" 404 179
+"GET /static/admin/css/responsive.css HTTP/1.1" 404 179
+"GET /static/admin/js/theme.js HTTP/1.1" 404 179
+Not Found: /static/admin/js/nav_sidebar.js
+Not Found: /static/admin/css/nav_sidebar.css
+Not Found: /static/admin/css/login.css
+Not Found: /static/admin/css/responsive.css
+"GET /static/admin/js/nav_sidebar.js HTTP/1.1" 404 179
+"GET /static/admin/css/nav_sidebar.css HTTP/1.1" 404 179
+"GET /static/admin/css/login.css HTTP/1.1" 404 179
+"GET /static/admin/css/responsive.css HTTP/1.1" 404 179
+"POST /admin/login/?next=/admin/ HTTP/1.1" 200 4351
+Not Found: /static/admin/css/base.css
+Not Found: /static/admin/css/dark_mode.css
+Not Found: /static/admin/css/nav_sidebar.css
+Not Found: /static/admin/css/login.css
+Not Found: /static/admin/css/responsive.css
+Not Found: /static/admin/js/theme.js
+"GET /static/admin/css/base.css HTTP/1.1" 404 179
+"GET /static/admin/css/dark_mode.css HTTP/1.1" 404 179
+"GET /static/admin/css/nav_sidebar.css HTTP/1.1" 404 179
+"GET /static/admin/css/responsive.css HTTP/1.1" 404 179
+"GET /static/admin/css/login.css HTTP/1.1" 404 179
+"GET /static/admin/js/theme.js HTTP/1.1" 404 179
+Not Found: /static/admin/js/nav_sidebar.js
+Not Found: /static/admin/css/login.css
+Not Found: /static/admin/css/responsive.css
+Not Found: /static/admin/css/nav_sidebar.css
+"GET /static/admin/css/login.css HTTP/1.1" 404 179
+"GET /static/admin/js/nav_sidebar.js HTTP/1.1" 404 179
+"GET /static/admin/css/responsive.css HTTP/1.1" 404 179
+"GET /static/admin/css/nav_sidebar.css HTTP/1.1" 404 179
+"GET /admin/ HTTP/1.1" 302 0
+"GET /admin/login/?next=/admin/ HTTP/1.1" 200 4184
+Not Found: /static/admin/css/base.css
+Not Found: /static/admin/css/dark_mode.css
+Not Found: /static/admin/css/responsive.css
+Not Found: /static/admin/js/theme.js
+Not Found: /static/admin/css/nav_sidebar.css
+Not Found: /static/admin/css/login.css
+"GET /static/admin/css/base.css HTTP/1.1" 404 179
+"GET /static/admin/css/dark_mode.css HTTP/1.1" 404 179
+"GET /static/admin/js/theme.js HTTP/1.1" 404 179
+"GET /static/admin/css/responsive.css HTTP/1.1" 404 179
+"GET /static/admin/css/nav_sidebar.css HTTP/1.1" 404 179
+"GET /static/admin/css/login.css HTTP/1.1" 404 179
+Not Found: /static/admin/js/nav_sidebar.js
+Not Found: /static/admin/css/nav_sidebar.css
+Not Found: /static/admin/css/responsive.css
+Not Found: /static/admin/css/login.css
+"GET /static/admin/css/nav_sidebar.css HTTP/1.1" 404 179
+"GET /static/admin/js/nav_sidebar.js HTTP/1.1" 404 179
+"GET /static/admin/css/responsive.css HTTP/1.1" 404 179
+"GET /static/admin/css/login.css HTTP/1.1" 404 179
+"POST /admin/login/?next=/admin/ HTTP/1.1" 200 4351
+Not Found: /static/admin/css/base.css
+Not Found: /static/admin/css/dark_mode.css
+Not Found: /static/admin/css/nav_sidebar.css
+Not Found: /static/admin/css/login.css
+Not Found: /static/admin/css/responsive.css
+Not Found: /static/admin/js/theme.js
+"GET /static/admin/css/base.css HTTP/1.1" 404 179
+"GET /static/admin/css/dark_mode.css HTTP/1.1" 404 179
+"GET /static/admin/css/nav_sidebar.css HTTP/1.1" 404 179
+"GET /static/admin/css/login.css HTTP/1.1" 404 179
+"GET /static/admin/css/responsive.css HTTP/1.1" 404 179
+"GET /static/admin/js/theme.js HTTP/1.1" 404 179
+Not Found: /static/admin/js/nav_sidebar.js
+"GET /static/admin/js/nav_sidebar.js HTTP/1.1" 404 179
+Not Found: /static/admin/css/nav_sidebar.css
+Not Found: /static/admin/css/login.css
+Not Found: /static/admin/css/responsive.css
+"GET /static/admin/css/nav_sidebar.css HTTP/1.1" 404 179
+"GET /static/admin/css/login.css HTTP/1.1" 404 179
+"GET /static/admin/css/responsive.css HTTP/1.1" 404 179
+"POST /admin/login/?next=/admin/ HTTP/1.1" 200 4351
+Not Found: /static/admin/css/base.css
+"GET /static/admin/css/base.css HTTP/1.1" 404 179
+Not Found: /static/admin/css/dark_mode.css
+Not Found: /static/admin/js/theme.js
+Not Found: /static/admin/css/login.css
+Not Found: /static/admin/css/responsive.css
+Not Found: /static/admin/css/nav_sidebar.css
+"GET /static/admin/css/dark_mode.css HTTP/1.1" 404 179
+"GET /static/admin/js/theme.js HTTP/1.1" 404 179
+"GET /static/admin/css/login.css HTTP/1.1" 404 179
+"GET /static/admin/css/responsive.css HTTP/1.1" 404 179
+"GET /static/admin/css/nav_sidebar.css HTTP/1.1" 404 179
+Not Found: /static/admin/css/login.css
+Not Found: /static/admin/js/nav_sidebar.js
+"GET /static/admin/css/login.css HTTP/1.1" 404 179
+"GET /static/admin/js/nav_sidebar.js HTTP/1.1" 404 179
+"GET /admin/ HTTP/1.1" 302 0
+"GET /admin/login/?next=/admin/ HTTP/1.1" 200 4184
+Not Found: /static/admin/css/base.css
+Not Found: /static/admin/css/dark_mode.css
+Not Found: /static/admin/css/nav_sidebar.css
+Not Found: /static/admin/css/login.css
+Not Found: /static/admin/js/theme.js
+Not Found: /static/admin/css/responsive.css
+"GET /static/admin/css/base.css HTTP/1.1" 404 179
+"GET /static/admin/css/dark_mode.css HTTP/1.1" 404 179
+"GET /static/admin/css/nav_sidebar.css HTTP/1.1" 404 179
+"GET /static/admin/js/theme.js HTTP/1.1" 404 179
+"GET /static/admin/css/login.css HTTP/1.1" 404 179
+"GET /static/admin/css/responsive.css HTTP/1.1" 404 179
+Not Found: /static/admin/js/nav_sidebar.js
+Not Found: /static/admin/css/nav_sidebar.css
+Not Found: /static/admin/css/responsive.css
+Not Found: /static/admin/css/login.css
+"GET /static/admin/js/nav_sidebar.js HTTP/1.1" 404 179
+"GET /static/admin/css/nav_sidebar.css HTTP/1.1" 404 179
+"GET /static/admin/css/responsive.css HTTP/1.1" 404 179
+"GET /static/admin/css/login.css HTTP/1.1" 404 179
+- Broken pipe from ('192.168.1.126', 50878)
+"POST /admin/login/?next=/admin/ HTTP/1.1" 200 4351
+Not Found: /static/admin/css/login.css
+Not Found: /static/admin/css/responsive.css
+Not Found: /static/admin/css/dark_mode.css
+Not Found: /static/admin/js/theme.js
+Not Found: /static/admin/css/nav_sidebar.css
+Not Found: /static/admin/css/base.css
+"GET /static/admin/css/login.css HTTP/1.1" 404 179
+"GET /static/admin/css/responsive.css HTTP/1.1" 404 179
+"GET /static/admin/css/dark_mode.css HTTP/1.1" 404 179
+"GET /static/admin/js/theme.js HTTP/1.1" 404 179
+"GET /static/admin/css/nav_sidebar.css HTTP/1.1" 404 179
+"GET /static/admin/css/base.css HTTP/1.1" 404 179
+Not Found: /static/admin/js/nav_sidebar.js
+Not Found: /static/admin/css/login.css
+Not Found: /static/admin/css/responsive.css
+Not Found: /static/admin/css/nav_sidebar.css
+"GET /static/admin/js/nav_sidebar.js HTTP/1.1" 404 179
+"GET /static/admin/css/login.css HTTP/1.1" 404 179
+"GET /static/admin/css/nav_sidebar.css HTTP/1.1" 404 179
+"GET /static/admin/css/responsive.css HTTP/1.1" 404 179
+"GET /admin/ HTTP/1.1" 302 0
+"GET /admin/login/?next=/admin/ HTTP/1.1" 200 4184
+Not Found: /static/admin/css/base.css
+"GET /static/admin/css/base.css HTTP/1.1" 404 179
+Not Found: /static/admin/css/dark_mode.css
+Not Found: /static/admin/js/theme.js
+Not Found: /static/admin/css/login.css
+Not Found: /static/admin/css/responsive.css
+Not Found: /static/admin/css/nav_sidebar.css
+"GET /static/admin/css/dark_mode.css HTTP/1.1" 404 179
+"GET /static/admin/js/theme.js HTTP/1.1" 404 179
+"GET /static/admin/css/login.css HTTP/1.1" 404 179
+"GET /static/admin/css/responsive.css HTTP/1.1" 404 179
+"GET /static/admin/css/nav_sidebar.css HTTP/1.1" 404 179
+Not Found: /static/admin/css/login.css
+Not Found: /static/admin/js/nav_sidebar.js
+"GET /static/admin/css/login.css HTTP/1.1" 404 179
+"GET /static/admin/js/nav_sidebar.js HTTP/1.1" 404 179
+"POST /admin/login/?next=/admin/ HTTP/1.1" 200 4351
+Not Found: /static/admin/css/base.css
+Not Found: /static/admin/css/dark_mode.css
+Not Found: /static/admin/css/nav_sidebar.css
+Not Found: /static/admin/css/login.css
+Not Found: /static/admin/css/responsive.css
+Not Found: /static/admin/js/theme.js
+"GET /static/admin/css/base.css HTTP/1.1" 404 179
+"GET /static/admin/css/dark_mode.css HTTP/1.1" 404 179
+"GET /static/admin/css/nav_sidebar.css HTTP/1.1" 404 179
+"GET /static/admin/css/responsive.css HTTP/1.1" 404 179
+"GET /static/admin/css/login.css HTTP/1.1" 404 179
+"GET /static/admin/js/theme.js HTTP/1.1" 404 179
+Not Found: /static/admin/js/nav_sidebar.js
+Not Found: /static/admin/css/login.css
+Not Found: /static/admin/css/responsive.css
+Not Found: /static/admin/css/nav_sidebar.css
+"GET /static/admin/js/nav_sidebar.js HTTP/1.1" 404 179
+"GET /static/admin/css/login.css HTTP/1.1" 404 179
+"GET /static/admin/css/responsive.css HTTP/1.1" 404 179
+"GET /static/admin/css/nav_sidebar.css HTTP/1.1" 404 179
+Not Found: /
+"GET / HTTP/1.1" 404 179
+"POST /api/auth/signup/ HTTP/1.1" 201 42
+"POST /api/auth/token/ HTTP/1.1" 200 483
+"POST /api/auth/signup/ HTTP/1.1" 201 42
+Unauthorized: /api/auth/token/
+"POST /api/auth/token/ HTTP/1.1" 401 63
+Unauthorized: /api/auth/token/
+"POST /api/auth/token/ HTTP/1.1" 401 63
+Unauthorized: /api/auth/token/
+"POST /api/auth/token/ HTTP/1.1" 401 63
+Unauthorized: /api/auth/token/
+"POST /api/auth/token/ HTTP/1.1" 401 63
+Unauthorized: /api/auth/token/
+"POST /api/auth/token/ HTTP/1.1" 401 63
+Unauthorized: /api/auth/token/
+"POST /api/auth/token/ HTTP/1.1" 401 63
+Unauthorized: /api/auth/token/
+"POST /api/auth/token/ HTTP/1.1" 401 63
+Unauthorized: /api/auth/token/
+"POST /api/auth/token/ HTTP/1.1" 401 63
+Unauthorized: /api/auth/token/
+"POST /api/auth/token/ HTTP/1.1" 401 63
+"POST /api/auth/token/ HTTP/1.1" 200 483
+Not Found: /api/profiles/me/
+"GET /api/profiles/me/ HTTP/1.1" 404 50
+"POST /api/auth/token/ HTTP/1.1" 200 483
+Not Found: /api/profiles/me/
+"GET /api/profiles/me/ HTTP/1.1" 404 50
+"GET /api/social-posts/?_cache=1754939015200&_fields=id,user,content_type,media_url,caption,location,created_at,likes_count,comments_count,is_liked,is_saved,can_edit HTTP/1.1" 200 5853
+Not Found: /api/profiles/me/
+"GET /api/profiles/me/ HTTP/1.1" 404 50
+Not Found: /api/profiles/me/
+"GET /api/profiles/me/ HTTP/1.1" 404 50
+Not Found: /api/profiles/me/
+"GET /api/profiles/me/ HTTP/1.1" 404 50
+Not Found: /api/profiles/me/
+"GET /api/profiles/me/ HTTP/1.1" 404 50
+Not Found: /api/profiles/me/
+"GET /api/profiles/me/ HTTP/1.1" 404 50
+Not Found: /api/profiles/me/
+"GET /api/profiles/me/ HTTP/1.1" 404 50
+"POST /api/auth/token/ HTTP/1.1" 200 483
+Not Found: /api/profiles/me/
+"GET /api/profiles/me/ HTTP/1.1" 404 50
+Not Found: /api/profiles/me/
+"GET /api/profiles/me/ HTTP/1.1" 404 50
+"GET /api/notifications/ HTTP/1.1" 200 2
+Not Found: /api/profiles/me/
+"GET /api/profiles/me/ HTTP/1.1" 404 50
+"POST /api/auth/token/ HTTP/1.1" 200 483
+Not Found: /api/profiles/me/
+"GET /api/profiles/me/ HTTP/1.1" 404 50
+"GET /api/notifications/ HTTP/1.1" 200 2
+Not Found: /api/profiles/me/
+"GET /api/profiles/me/ HTTP/1.1" 404 50
+Not Found: /api/profiles/me/
+"GET /api/profiles/me/ HTTP/1.1" 404 50
+"GET /api/notifications/ HTTP/1.1" 200 2
+Bad Request: /api/auth/signup/
+"POST /api/auth/signup/ HTTP/1.1" 400 58
+"GET /api/social-posts/?_cache=1754939134100&_fields=id,user,content_type,media_url,caption,location,created_at,likes_count,comments_count,is_liked,is_saved,can_edit HTTP/1.1" 200 5853
+"GET /api/social-posts/?_cache=1754939134084&_fields=id,user,content_type,media_url,caption,location,created_at,likes_count,comments_count,is_liked,is_saved,can_edit HTTP/1.1" 200 5853
+Bad Request: /api/auth/signup/
+"POST /api/auth/signup/ HTTP/1.1" 400 58
+"POST /api/auth/signup/ HTTP/1.1" 201 42
+Bad Request: /api/auth/signup/
+"POST /api/auth/signup/ HTTP/1.1" 400 58
+"POST /api/auth/token/ HTTP/1.1" 200 483
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+"POST /api/auth/token/ HTTP/1.1" 200 483
+"GET /api/profiles/me/ HTTP/1.1" 200 265
+"GET /api/profiles/me/ HTTP/1.1" 200 265
+"GET /api/profiles/me/ HTTP/1.1" 200 265
+"POST /api/auth/token/ HTTP/1.1" 200 483
+"GET /api/profiles/me/ HTTP/1.1" 200 265
+"GET /api/social-posts/?_cache=1755105461862&_fields=id,user,content_type,media_url,caption,location,created_at,likes_count,comments_count,is_liked,is_saved,can_edit HTTP/1.1" 200 5844
+"GET /api/profiles/me/ HTTP/1.1" 200 265
+"GET /api/profiles/me/ HTTP/1.1" 200 265
+"GET /api/notifications/ HTTP/1.1" 200 8317
+"GET /api/profiles/me/ HTTP/1.1" 200 265
+"GET /api/profiles/me/ HTTP/1.1" 200 265
+"GET /api/profiles/me/ HTTP/1.1" 200 265
+"GET /api/social-posts/?_cache=1755105461862&_fields=id,user,content_type,media_url,caption,location,created_at,likes_count,comments_count,is_liked,is_saved,can_edit HTTP/1.1" 200 5844
+"GET /api/profiles/me/ HTTP/1.1" 200 265
+"GET /api/profiles/me/ HTTP/1.1" 200 265
+"GET /api/profiles/me/ HTTP/1.1" 200 265
+"GET /api/profiles/by_user/2/ HTTP/1.1" 200 250
+Not Found: /api/profiles/by_user/4/
+"GET /api/profiles/by_user/4/ HTTP/1.1" 404 45
+"GET /api/profiles/by_user/2/ HTTP/1.1" 200 250
+"GET /api/profiles/by_user/2/ HTTP/1.1" 200 250
+"GET /api/profiles/by_user/3/ HTTP/1.1" 200 275
+"GET /api/profiles/by_user/3/ HTTP/1.1" 200 275
+"GET /api/profiles/by_user/3/ HTTP/1.1" 200 275
+"GET /api/profiles/by_user/2/ HTTP/1.1" 200 250
+"GET /api/profiles/by_user/2/ HTTP/1.1" 200 250
+"GET /api/notifications/ HTTP/1.1" 200 8317
+"GET /api/profiles/by_user/2/ HTTP/1.1" 200 250
+Not Found: /api/profiles/by_user/4/
+"GET /api/profiles/by_user/4/ HTTP/1.1" 404 45
+"GET /api/profiles/by_user/2/ HTTP/1.1" 200 250
+"GET /api/profiles/by_user/2/ HTTP/1.1" 200 250
+"GET /api/profiles/by_user/3/ HTTP/1.1" 200 275
+"GET /api/profiles/by_user/3/ HTTP/1.1" 200 275
+"GET /api/profiles/by_user/2/ HTTP/1.1" 200 250
+"GET /api/profiles/by_user/2/ HTTP/1.1" 200 250
+"GET /api/profiles/by_user/3/ HTTP/1.1" 200 275
+"GET /api/notifications/ HTTP/1.1" 200 8317
+"GET /api/profiles/by_user/2/ HTTP/1.1" 200 250
+"GET /api/profiles/by_user/2/ HTTP/1.1" 200 250
+Not Found: /api/profiles/by_user/4/
+"GET /api/profiles/by_user/2/ HTTP/1.1" 200 250
+"GET /api/profiles/by_user/4/ HTTP/1.1" 404 45
+"GET /api/profiles/by_user/3/ HTTP/1.1" 200 275
+"GET /api/profiles/by_user/3/ HTTP/1.1" 200 275
+"GET /api/profiles/by_user/3/ HTTP/1.1" 200 275
+"GET /api/profiles/by_user/2/ HTTP/1.1" 200 250
+"GET /api/profiles/by_user/2/ HTTP/1.1" 200 250
+"GET /api/notifications/ HTTP/1.1" 200 8317
+Not Found: /api/profiles/by_user/4/
+"GET /api/profiles/by_user/2/ HTTP/1.1" 200 250
+"GET /api/profiles/by_user/2/ HTTP/1.1" 200 250
+"GET /api/profiles/by_user/2/ HTTP/1.1" 200 250
+"GET /api/profiles/by_user/3/ HTTP/1.1" 200 275
+"GET /api/profiles/by_user/4/ HTTP/1.1" 404 45
+"GET /api/profiles/by_user/2/ HTTP/1.1" 200 250
+"GET /api/profiles/by_user/3/ HTTP/1.1" 200 275
+"GET /api/profiles/by_user/3/ HTTP/1.1" 200 275
+"GET /api/profiles/by_user/2/ HTTP/1.1" 200 250
+"GET /api/notifications/ HTTP/1.1" 200 8317
+"GET /api/profiles/by_user/2/ HTTP/1.1" 200 250
+Not Found: /api/profiles/by_user/4/
+"GET /api/profiles/by_user/4/ HTTP/1.1" 404 45
+"GET /api/profiles/by_user/2/ HTTP/1.1" 200 250
+"GET /api/profiles/by_user/2/ HTTP/1.1" 200 250
+"GET /api/profiles/by_user/3/ HTTP/1.1" 200 275
+"GET /api/profiles/by_user/3/ HTTP/1.1" 200 275
+"GET /api/profiles/by_user/3/ HTTP/1.1" 200 275
+"GET /api/profiles/by_user/2/ HTTP/1.1" 200 250
+"GET /api/profiles/by_user/2/ HTTP/1.1" 200 250
+"GET /api/notifications/ HTTP/1.1" 200 8317
+Not Found: /api/profiles/by_user/4/
+"GET /api/profiles/by_user/2/ HTTP/1.1" 200 250
+"GET /api/profiles/by_user/4/ HTTP/1.1" 404 45
+"GET /api/profiles/by_user/2/ HTTP/1.1" 200 250
+"GET /api/profiles/by_user/2/ HTTP/1.1" 200 250
+"GET /api/profiles/by_user/3/ HTTP/1.1" 200 275
+"GET /api/profiles/by_user/2/ HTTP/1.1" 200 250
+"GET /api/profiles/by_user/2/ HTTP/1.1" 200 250
+"GET /api/profiles/by_user/3/ HTTP/1.1" 200 275
+"GET /api/profiles/by_user/3/ HTTP/1.1" 200 275
+"GET /api/notifications/ HTTP/1.1" 200 8317
+"GET /api/profiles/by_user/2/ HTTP/1.1" 200 250
+"GET /api/profiles/by_user/2/ HTTP/1.1" 200 250
+Not Found: /api/profiles/by_user/4/
+"GET /api/profiles/by_user/4/ HTTP/1.1" 404 45
+"GET /api/profiles/by_user/2/ HTTP/1.1" 200 250
+"GET /api/profiles/by_user/3/ HTTP/1.1" 200 275
+"GET /api/profiles/by_user/3/ HTTP/1.1" 200 275
+"GET /api/profiles/by_user/3/ HTTP/1.1" 200 275
+"GET /api/profiles/by_user/2/ HTTP/1.1" 200 250
+"GET /api/profiles/by_user/2/ HTTP/1.1" 200 250
+"GET /api/notifications/ HTTP/1.1" 200 8317
+"GET /api/profiles/by_user/2/ HTTP/1.1" 200 250
+"GET /api/profiles/by_user/2/ HTTP/1.1" 200 250
+Not Found: /api/profiles/by_user/4/
+"GET /api/profiles/by_user/3/ HTTP/1.1" 200 275
+"GET /api/profiles/by_user/2/ HTTP/1.1" 200 250
+"GET /api/profiles/by_user/4/ HTTP/1.1" 404 45
+"GET /api/profiles/by_user/3/ HTTP/1.1" 200 275
+"GET /api/profiles/by_user/2/ HTTP/1.1" 200 250
+"GET /api/profiles/by_user/3/ HTTP/1.1" 200 275
+"GET /api/profiles/by_user/2/ HTTP/1.1" 200 250
+"GET /api/notifications/ HTTP/1.1" 200 8317
+Not Found: /api/profiles/by_user/4/
+"GET /api/profiles/by_user/2/ HTTP/1.1" 200 250
+"GET /api/profiles/by_user/2/ HTTP/1.1" 200 250
+"GET /api/profiles/by_user/4/ HTTP/1.1" 404 45
+"GET /api/social-posts/?_cache=1755105715692&_fields=id,user,content_type,media_url,caption,location,created_at,likes_count,comments_count,is_liked,is_saved,can_edit HTTP/1.1" 200 5844
+"GET /api/profiles/by_user/2/ HTTP/1.1" 200 250
+"GET /api/profiles/by_user/3/ HTTP/1.1" 200 275
+"GET /api/profiles/by_user/3/ HTTP/1.1" 200 275
+"GET /api/profiles/by_user/3/ HTTP/1.1" 200 275
+"GET /api/profiles/me/ HTTP/1.1" 200 265
+"GET /api/profiles/by_user/2/ HTTP/1.1" 200 250
+"GET /api/profiles/by_user/2/ HTTP/1.1" 200 250
+"GET /api/profiles/me/ HTTP/1.1" 200 265
+"GET /api/profiles/me/ HTTP/1.1" 200 265
+"GET /api/profiles/me/ HTTP/1.1" 200 265
+"GET /api/profiles/me/ HTTP/1.1" 200 265
+"GET /api/profiles/me/ HTTP/1.1" 200 265
+"GET /api/profiles/me/ HTTP/1.1" 200 265
+"GET /api/profiles/me/ HTTP/1.1" 200 265
+"GET /api/notifications/ HTTP/1.1" 200 8317
+"GET /api/profiles/by_user/3/ HTTP/1.1" 200 275
+"GET /api/profiles/by_user/2/ HTTP/1.1" 200 250
+"GET /api/profiles/by_user/2/ HTTP/1.1" 200 250
+Not Found: /api/profiles/by_user/4/
+"GET /api/profiles/by_user/2/ HTTP/1.1" 200 250
+"GET /api/profiles/by_user/4/ HTTP/1.1" 404 45
+"GET /api/profiles/by_user/2/ HTTP/1.1" 200 250
+"GET /api/profiles/by_user/3/ HTTP/1.1" 200 275
+"GET /api/profiles/by_user/2/ HTTP/1.1" 200 250
+"GET /api/profiles/by_user/3/ HTTP/1.1" 200 275
+"GET /api/notifications/ HTTP/1.1" 200 8317
+"GET /api/profiles/by_user/2/ HTTP/1.1" 200 250
+Not Found: /api/profiles/by_user/4/
+"GET /api/profiles/by_user/2/ HTTP/1.1" 200 250
+"GET /api/profiles/by_user/4/ HTTP/1.1" 404 45
+"GET /api/profiles/by_user/3/ HTTP/1.1" 200 275
+"GET /api/profiles/by_user/3/ HTTP/1.1" 200 275
+"GET /api/profiles/by_user/2/ HTTP/1.1" 200 250
+"GET /api/profiles/by_user/2/ HTTP/1.1" 200 250
+"GET /api/social-posts/?_cache=1755105776929&_fields=id,user,content_type,media_url,caption,location,created_at,likes_count,comments_count,is_liked,is_saved,can_edit HTTP/1.1" 200 5844
+"GET /api/profiles/by_user/3/ HTTP/1.1" 200 275
+"GET /api/profiles/by_user/2/ HTTP/1.1" 200 250
+"POST /api/auth/signup/ HTTP/1.1" 201 42
+"GET /api/notifications/ HTTP/1.1" 200 8317
+"POST /api/auth/token/ HTTP/1.1" 200 486
+"POST /api/auth/signup/ HTTP/1.1" 201 42
+"POST /api/auth/token/ HTTP/1.1" 200 486
+Not Found: /api/profiles/me/
+Not Found: /api/profiles/me/
+"GET /api/notifications/ HTTP/1.1" 200 2
+"GET /api/profiles/me/ HTTP/1.1" 404 50
+"GET /api/profiles/me/ HTTP/1.1" 404 50
+"GET /api/social-posts/?_cache=1755107841053&_fields=id,user,content_type,media_url,caption,location,created_at,likes_count,comments_count,is_liked,is_saved,can_edit HTTP/1.1" 200 5853
+Not Found: /api/profiles/me/
+"GET /api/profiles/me/ HTTP/1.1" 404 50
+Not Found: /api/profiles/me/
+"GET /api/profiles/me/ HTTP/1.1" 404 50
+Not Found: /api/profiles/me/
+"GET /api/profiles/me/ HTTP/1.1" 404 50
+Not Found: /api/profiles/me/
+"GET /api/profiles/me/ HTTP/1.1" 404 50
+Not Found: /api/profiles/me/
+"GET /api/profiles/me/ HTTP/1.1" 404 50
+"GET /api/social-posts/?_cache=1755107841055&_fields=id,user,content_type,media_url,caption,location,created_at,likes_count,comments_count,is_liked,is_saved,can_edit HTTP/1.1" 200 5853
+"GET /api/notifications/ HTTP/1.1" 200 2
+"GET /api/notifications/ HTTP/1.1" 200 2
+"GET /api/notifications/ HTTP/1.1" 200 2
+"GET /api/notifications/ HTTP/1.1" 200 2
+"GET /api/notifications/ HTTP/1.1" 200 2
+"GET /api/notifications/ HTTP/1.1" 200 2
+"GET /api/notifications/ HTTP/1.1" 200 2
+"GET /api/social-posts/?_cache=1755108064343&_fields=id,user,content_type,media_url,caption,location,created_at,likes_count,comments_count,is_liked,is_saved,can_edit HTTP/1.1" 200 5853
+"GET /api/notifications/ HTTP/1.1" 200 2
+Not Found: /api/profiles/me/
+Not Found: /api/profiles/me/
+"GET /api/profiles/me/ HTTP/1.1" 404 50
+"GET /api/profiles/me/ HTTP/1.1" 404 50
+Not Found: /api/profiles/me/
+"GET /api/profiles/me/ HTTP/1.1" 404 50
+Not Found: /api/profiles/me/
+Not Found: /api/profiles/me/
+"GET /api/profiles/me/ HTTP/1.1" 404 50
+"GET /api/profiles/me/ HTTP/1.1" 404 50
+"GET /api/notifications/ HTTP/1.1" 200 2
+"GET /api/notifications/ HTTP/1.1" 200 2
+"GET /api/social-posts/?_cache=1755108156155&_fields=id,user,content_type,media_url,caption,location,created_at,likes_count,comments_count,is_liked,is_saved,can_edit HTTP/1.1" 200 5853
+"GET /api/notifications/ HTTP/1.1" 200 2
+"GET /api/notifications/ HTTP/1.1" 200 2
+"GET /api/notifications/ HTTP/1.1" 200 2
+"GET /api/notifications/ HTTP/1.1" 200 2
+"GET /api/notifications/ HTTP/1.1" 200 2
+"GET /api/notifications/ HTTP/1.1" 200 2
+Not Found: /api/profiles/me/
+"GET /api/profiles/me/ HTTP/1.1" 404 50
+Not Found: /api/profiles/me/
+"GET /api/profiles/me/ HTTP/1.1" 404 50
+Not Found: /api/profiles/me/
+"GET /api/profiles/me/ HTTP/1.1" 404 50
+"GET /api/notifications/ HTTP/1.1" 200 2
+"GET /api/notifications/ HTTP/1.1" 200 2
+"GET /api/social-posts/?_cache=1755108415305&_fields=id,user,content_type,media_url,caption,location,created_at,likes_count,comments_count,is_liked,is_saved,can_edit HTTP/1.1" 200 5853
+"GET /api/notifications/ HTTP/1.1" 200 2
+"GET /api/notifications/ HTTP/1.1" 200 2
+"GET /api/social-posts/?_cache=1755108471342&_fields=id,user,content_type,media_url,caption,location,created_at,likes_count,comments_count,is_liked,is_saved,can_edit HTTP/1.1" 200 5853
+"GET /api/notifications/ HTTP/1.1" 200 2
+"GET /api/notifications/ HTTP/1.1" 200 2
+"GET /api/notifications/ HTTP/1.1" 200 2
+"GET /api/notifications/ HTTP/1.1" 200 2
+"GET /api/social-posts/?_cache=1755111383026&_fields=id,user,content_type,media_url,caption,location,created_at,likes_count,comments_count,is_liked,is_saved,can_edit HTTP/1.1" 200 5853
+"GET /api/social-posts/?_cache=1755111383016&_fields=id,user,content_type,media_url,caption,location,created_at,likes_count,comments_count,is_liked,is_saved,can_edit HTTP/1.1" 200 5853
+"POST /api/auth/signup/ HTTP/1.1" 201 42
+"POST /api/auth/token/ HTTP/1.1" 200 486
+Not Found: /api/profiles/me/
+"GET /api/profiles/me/ HTTP/1.1" 404 50
+"GET /api/notifications/ HTTP/1.1" 200 2
+"GET /api/notifications/ HTTP/1.1" 200 2
+Starting new HTTPS connection (1): api.cloudinary.com:443
+"GET /api/notifications/ HTTP/1.1" 200 2
+"GET /api/notifications/ HTTP/1.1" 200 2
+Starting new HTTPS connection (2): api.cloudinary.com:443
+https://api.cloudinary.com:443 "POST /v1_1/dxdmo9j4v/image/upload HTTP/1.1" 200 None
+"POST /api/profiles/create_profile/ HTTP/1.1" 201 251
+Bad Request: /api/profiles/create_profile/
+"POST /api/profiles/create_profile/ HTTP/1.1" 400 50
+https://api.cloudinary.com:443 "POST /v1_1/dxdmo9j4v/image/upload HTTP/1.1" 200 None
+Connection pool is full, discarding connection: api.cloudinary.com. Connection pool size: 1
+Bad Request: /api/profiles/create_profile/
+"POST /api/profiles/create_profile/ HTTP/1.1" 400 27
+Bad Request: /api/profiles/create_profile/
+"POST /api/profiles/create_profile/ HTTP/1.1" 400 50
+"GET /api/notifications/ HTTP/1.1" 200 2
+"GET /api/notifications/ HTTP/1.1" 200 2
+"POST /api/auth/token/ HTTP/1.1" 200 486
+"GET /api/profiles/me/ HTTP/1.1" 200 251
+"GET /api/profiles/me/ HTTP/1.1" 200 251
+"GET /api/profiles/me/ HTTP/1.1" 200 251
+"GET /api/notifications/ HTTP/1.1" 200 2
+"GET /api/social-posts/?_cache=1755111586070&_fields=id,user,content_type,media_url,caption,location,created_at,likes_count,comments_count,is_liked,is_saved,can_edit HTTP/1.1" 200 5853
+"GET /api/social-posts/?_cache=1755111586068&_fields=id,user,content_type,media_url,caption,location,created_at,likes_count,comments_count,is_liked,is_saved,can_edit HTTP/1.1" 200 5853
+"GET /api/profiles/me/ HTTP/1.1" 200 251
+"GET /api/profiles/me/ HTTP/1.1" 200 251
+"GET /api/profiles/me/ HTTP/1.1" 200 251
+"GET /api/profiles/me/ HTTP/1.1" 200 251
+"GET /api/profiles/me/ HTTP/1.1" 200 251
+"GET /api/profiles/me/ HTTP/1.1" 200 251
+"GET /api/profiles/me/ HTTP/1.1" 200 251
+"GET /api/profiles/me/ HTTP/1.1" 200 251
+"GET /api/notifications/ HTTP/1.1" 200 2
+"GET /api/notifications/ HTTP/1.1" 200 2
+"GET /api/notifications/ HTTP/1.1" 200 2
+"GET /api/notifications/ HTTP/1.1" 200 2
+"GET /api/notifications/ HTTP/1.1" 200 2
+"GET /api/notifications/ HTTP/1.1" 200 2
+"GET /api/social-posts/?_cache=1755111698464&_fields=id,user,content_type,media_url,caption,location,created_at,likes_count,comments_count,is_liked,is_saved,can_edit HTTP/1.1" 200 5853
+"GET /api/social-posts/?_cache=1755111698468&_fields=id,user,content_type,media_url,caption,location,created_at,likes_count,comments_count,is_liked,is_saved,can_edit HTTP/1.1" 200 5853
+"GET /api/notifications/ HTTP/1.1" 200 2
+"GET /api/notifications/ HTTP/1.1" 200 2
+"GET /api/notifications/ HTTP/1.1" 200 2
+"GET /api/notifications/ HTTP/1.1" 200 2
+"GET /api/notifications/ HTTP/1.1" 200 2
+"GET /api/notifications/ HTTP/1.1" 200 2
+"GET /api/notifications/ HTTP/1.1" 200 2
+"GET /api/notifications/ HTTP/1.1" 200 2
+"GET /api/social-posts/?_cache=1755112760053&_fields=id,user,content_type,media_url,caption,location,created_at,likes_count,comments_count,is_liked,is_saved,can_edit HTTP/1.1" 200 5853
+"GET /api/social-posts/?_cache=1755112760049&_fields=id,user,content_type,media_url,caption,location,created_at,likes_count,comments_count,is_liked,is_saved,can_edit HTTP/1.1" 200 5853
+"GET /api/social-posts/?_cache=1755112760055&_fields=id,user,content_type,media_url,caption,location,created_at,likes_count,comments_count,is_liked,is_saved,can_edit HTTP/1.1" 200 5853
+"GET /api/notifications/ HTTP/1.1" 200 2
+"GET /api/notifications/ HTTP/1.1" 200 2
+"GET /api/notifications/ HTTP/1.1" 200 2
+"GET /api/social-posts/?_cache=1755114429747&_fields=id,user,content_type,media_url,caption,location,created_at,likes_count,comments_count,is_liked,is_saved,can_edit HTTP/1.1" 200 5853
+"GET /api/social-posts/?_cache=1755114429749&_fields=id,user,content_type,media_url,caption,location,created_at,likes_count,comments_count,is_liked,is_saved,can_edit HTTP/1.1" 200 5853
+"GET /api/social-posts/?_cache=1755114429744&_fields=id,user,content_type,media_url,caption,location,created_at,likes_count,comments_count,is_liked,is_saved,can_edit HTTP/1.1" 200 5853
+"GET /api/profiles/me/ HTTP/1.1" 200 251
+"GET /api/notifications/ HTTP/1.1" 200 2
+"GET /api/profiles/me/ HTTP/1.1" 200 251
+"GET /api/social-posts/?_cache=1755114665716&_fields=id,user,content_type,media_url,caption,location,created_at,likes_count,comments_count,is_liked,is_saved,can_edit HTTP/1.1" 200 5853
+"GET /api/social-posts/?_cache=1755114665699&_fields=id,user,content_type,media_url,caption,location,created_at,likes_count,comments_count,is_liked,is_saved,can_edit HTTP/1.1" 200 5853
+"GET /api/profiles/me/ HTTP/1.1" 200 251
+"GET /api/profiles/me/ HTTP/1.1" 200 251
+"GET /api/profiles/me/ HTTP/1.1" 200 251
+"GET /api/profiles/me/ HTTP/1.1" 200 251
+"GET /api/profiles/me/ HTTP/1.1" 200 251
+"GET /api/profiles/me/ HTTP/1.1" 200 251
+"GET /api/profiles/me/ HTTP/1.1" 200 251
+"GET /api/profiles/me/ HTTP/1.1" 200 251
+"GET /api/social-posts/?_cache=1755114693857&_fields=id,user,content_type,media_url,caption,location,created_at,likes_count,comments_count,is_liked,is_saved,can_edit HTTP/1.1" 200 5853
+"POST /api/auth/signup/ HTTP/1.1" 201 42
+"POST /api/auth/token/ HTTP/1.1" 200 486
+Not Found: /api/profiles/me/
+"GET /api/profiles/me/ HTTP/1.1" 404 50
+"GET /api/notifications/ HTTP/1.1" 200 2
+"GET /api/notifications/ HTTP/1.1" 200 2
+"GET /api/notifications/ HTTP/1.1" 200 2
+Resetting dropped connection: api.cloudinary.com
+https://api.cloudinary.com:443 "POST /v1_1/dxdmo9j4v/image/upload HTTP/1.1" 200 None
+"POST /api/profiles/create_profile/ HTTP/1.1" 201 271
+"GET /api/profiles/me/ HTTP/1.1" 200 271
+"GET /api/profiles/me/ HTTP/1.1" 200 271
+"GET /api/notifications/ HTTP/1.1" 200 2
+"GET /api/social-posts/?_cache=1755114926451&_fields=id,user,content_type,media_url,caption,location,created_at,likes_count,comments_count,is_liked,is_saved,can_edit HTTP/1.1" 200 5853
+"GET /api/social-posts/?_cache=1755114926450&_fields=id,user,content_type,media_url,caption,location,created_at,likes_count,comments_count,is_liked,is_saved,can_edit HTTP/1.1" 200 5853
+"GET /api/profiles/me/ HTTP/1.1" 200 271
+"GET /api/profiles/me/ HTTP/1.1" 200 271
+"GET /api/profiles/me/ HTTP/1.1" 200 271
+"GET /api/profiles/me/ HTTP/1.1" 200 271
+"GET /api/profiles/me/ HTTP/1.1" 200 271
+"GET /api/profiles/me/ HTTP/1.1" 200 271
+"GET /api/profiles/me/ HTTP/1.1" 200 271
+"GET /api/profiles/me/ HTTP/1.1" 200 271
+"GET /api/notifications/ HTTP/1.1" 200 2
+"GET /api/notifications/ HTTP/1.1" 200 2
+"GET /api/social-posts/?_cache=1755115009323&_fields=id,user,content_type,media_url,caption,location,created_at,likes_count,comments_count,is_liked,is_saved,can_edit HTTP/1.1" 200 5853
+"GET /api/notifications/ HTTP/1.1" 200 2
+"GET /api/notifications/ HTTP/1.1" 200 2
+"GET /api/notifications/ HTTP/1.1" 200 2
+"GET /api/notifications/ HTTP/1.1" 200 2
+"GET /api/notifications/ HTTP/1.1" 200 2
+"GET /api/notifications/ HTTP/1.1" 200 2
+"GET /api/notifications/ HTTP/1.1" 200 2
+"GET /api/notifications/ HTTP/1.1" 200 2
+"GET /api/social-posts/?_cache=1755115306028&_fields=id,user,content_type,media_url,caption,location,created_at,likes_count,comments_count,is_liked,is_saved,can_edit HTTP/1.1" 200 5853
+"GET /api/social-posts/?_cache=1755115324574&_fields=id,user,content_type,media_url,caption,location,created_at,likes_count,comments_count,is_liked,is_saved,can_edit HTTP/1.1" 200 5853
+"GET /api/notifications/ HTTP/1.1" 200 2
+"GET /api/notifications/ HTTP/1.1" 200 2
+"GET /api/notifications/ HTTP/1.1" 200 2
+"GET /api/notifications/ HTTP/1.1" 200 2
+"GET /api/notifications/ HTTP/1.1" 200 2
+"GET /api/notifications/ HTTP/1.1" 200 2
+"GET /api/notifications/ HTTP/1.1" 200 2
+"GET /api/notifications/ HTTP/1.1" 200 2
+"GET /api/notifications/ HTTP/1.1" 200 2
+"GET /api/notifications/ HTTP/1.1" 200 2
+"GET /api/social-posts/?_cache=1755115621467&_fields=id,user,content_type,media_url,caption,location,created_at,likes_count,comments_count,is_liked,is_saved,can_edit HTTP/1.1" 200 5853
+"GET /api/social-posts/?_cache=1755115639764&_fields=id,user,content_type,media_url,caption,location,created_at,likes_count,comments_count,is_liked,is_saved,can_edit HTTP/1.1" 200 5853
+"GET /api/notifications/ HTTP/1.1" 200 2
+"GET /api/notifications/ HTTP/1.1" 200 2
+"GET /api/notifications/ HTTP/1.1" 200 2
+"GET /api/notifications/ HTTP/1.1" 200 2
+"GET /api/notifications/ HTTP/1.1" 200 2
+"GET /api/notifications/ HTTP/1.1" 200 2
+"GET /api/notifications/ HTTP/1.1" 200 2
+"GET /api/notifications/ HTTP/1.1" 200 2
+"GET /api/notifications/ HTTP/1.1" 200 2
+"GET /api/notifications/ HTTP/1.1" 200 2
+"GET /api/social-posts/?_cache=1755115936819&_fields=id,user,content_type,media_url,caption,location,created_at,likes_count,comments_count,is_liked,is_saved,can_edit HTTP/1.1" 200 5853
+"GET /api/notifications/ HTTP/1.1" 200 2
+"GET /api/notifications/ HTTP/1.1" 200 2
+"GET /api/social-posts/?_cache=1755115955057&_fields=id,user,content_type,media_url,caption,location,created_at,likes_count,comments_count,is_liked,is_saved,can_edit HTTP/1.1" 200 5853
+"GET /api/notifications/ HTTP/1.1" 200 2
+"GET /api/notifications/ HTTP/1.1" 200 2
+"GET /api/notifications/ HTTP/1.1" 200 2
+"GET /api/notifications/ HTTP/1.1" 200 2
+"GET /api/notifications/ HTTP/1.1" 200 2
+"GET /api/notifications/ HTTP/1.1" 200 2
+"GET /api/notifications/ HTTP/1.1" 200 2
+"GET /api/notifications/ HTTP/1.1" 200 2
+"GET /api/notifications/ HTTP/1.1" 200 2
+"GET /api/notifications/ HTTP/1.1" 200 2
+"GET /api/social-posts/?_cache=1755116252171&_fields=id,user,content_type,media_url,caption,location,created_at,likes_count,comments_count,is_liked,is_saved,can_edit HTTP/1.1" 200 5853
+"GET /api/social-posts/?_cache=1755116270483&_fields=id,user,content_type,media_url,caption,location,created_at,likes_count,comments_count,is_liked,is_saved,can_edit HTTP/1.1" 200 5853
+"GET /api/notifications/ HTTP/1.1" 200 2
+"GET /api/notifications/ HTTP/1.1" 200 2
+"GET /api/notifications/ HTTP/1.1" 200 2
+"GET /api/notifications/ HTTP/1.1" 200 2
+"GET /api/notifications/ HTTP/1.1" 200 2
+"GET /api/notifications/ HTTP/1.1" 200 2
+"GET /api/profiles/me/ HTTP/1.1" 200 271
+"GET /api/profiles/me/ HTTP/1.1" 200 271
+"GET /api/notifications/ HTTP/1.1" 200 2
+"GET /api/social-posts/?_cache=1755116476469&_fields=id,user,content_type,media_url,caption,location,created_at,likes_count,comments_count,is_liked,is_saved,can_edit HTTP/1.1" 200 5853
+"GET /api/social-posts/?_cache=1755116476470&_fields=id,user,content_type,media_url,caption,location,created_at,likes_count,comments_count,is_liked,is_saved,can_edit HTTP/1.1" 200 5853
+"GET /api/profiles/me/ HTTP/1.1" 200 271
+"GET /api/profiles/me/ HTTP/1.1" 200 271
+"GET /api/profiles/me/ HTTP/1.1" 200 271
+"GET /api/profiles/me/ HTTP/1.1" 200 271
+"GET /api/profiles/me/ HTTP/1.1" 200 271
+"GET /api/profiles/me/ HTTP/1.1" 200 271
+"GET /api/profiles/me/ HTTP/1.1" 200 271
+"GET /api/profiles/me/ HTTP/1.1" 200 271
+"GET /api/notifications/ HTTP/1.1" 200 2
+"GET /api/notifications/ HTTP/1.1" 200 2
+"GET /api/notifications/ HTTP/1.1" 200 2
+"GET /api/notifications/ HTTP/1.1" 200 2
+"GET /api/profiles/me/ HTTP/1.1" 200 271
+"GET /api/notifications/ HTTP/1.1" 200 2
+"GET /api/profiles/me/ HTTP/1.1" 200 271
+"GET /api/social-posts/?_cache=1755116782117&_fields=id,user,content_type,media_url,caption,location,created_at,likes_count,comments_count,is_liked,is_saved,can_edit HTTP/1.1" 200 5853
+"GET /api/profiles/me/ HTTP/1.1" 200 271
+"GET /api/profiles/me/ HTTP/1.1" 200 271
+"GET /api/profiles/me/ HTTP/1.1" 200 271
+"GET /api/profiles/me/ HTTP/1.1" 200 271
+"GET /api/profiles/me/ HTTP/1.1" 200 271
+"GET /api/profiles/me/ HTTP/1.1" 200 271
+"GET /api/profiles/me/ HTTP/1.1" 200 271
+"GET /api/profiles/me/ HTTP/1.1" 200 271
+"GET /api/social-posts/?_cache=1755116782119&_fields=id,user,content_type,media_url,caption,location,created_at,likes_count,comments_count,is_liked,is_saved,can_edit HTTP/1.1" 200 5853
+"GET /api/profiles/me/ HTTP/1.1" 200 271
+"GET /api/profiles/me/ HTTP/1.1" 200 271
+"GET /api/profiles/me/ HTTP/1.1" 200 271
+"GET /api/profiles/me/ HTTP/1.1" 200 271
+"GET /api/notifications/ HTTP/1.1" 200 2
+"GET /api/profiles/me/ HTTP/1.1" 200 271
+"GET /api/social-posts/?_cache=1755117523228&_fields=id,user,content_type,media_url,caption,location,created_at,likes_count,comments_count,is_liked,is_saved,can_edit HTTP/1.1" 200 5853
+"GET /api/profiles/me/ HTTP/1.1" 200 271
+"GET /api/profiles/me/ HTTP/1.1" 200 271
+"GET /api/profiles/me/ HTTP/1.1" 200 271
+"GET /api/profiles/me/ HTTP/1.1" 200 271
+"GET /api/profiles/me/ HTTP/1.1" 200 271
+"GET /api/social-posts/?_cache=1755117523230&_fields=id,user,content_type,media_url,caption,location,created_at,likes_count,comments_count,is_liked,is_saved,can_edit HTTP/1.1" 200 5853
+"POST /api/auth/token/ HTTP/1.1" 200 483
+"GET /api/profiles/me/ HTTP/1.1" 200 265
+"GET /api/profiles/me/ HTTP/1.1" 200 265
+"GET /api/profiles/me/ HTTP/1.1" 200 265
+"GET /api/profiles/me/ HTTP/1.1" 200 265
+"GET /api/notifications/ HTTP/1.1" 200 8317
+"GET /api/profiles/by_user/2/ HTTP/1.1" 200 250
+Not Found: /api/profiles/by_user/4/
+"GET /api/profiles/by_user/4/ HTTP/1.1" 404 45
+"GET /api/profiles/by_user/3/ HTTP/1.1" 200 275
+"GET /api/profiles/by_user/2/ HTTP/1.1" 200 250
+"GET /api/social-posts/?_cache=1755117914746&_fields=id,user,content_type,media_url,caption,location,created_at,likes_count,comments_count,is_liked,is_saved,can_edit HTTP/1.1" 200 5844
+"GET /api/social-posts/?_cache=1755117914745&_fields=id,user,content_type,media_url,caption,location,created_at,likes_count,comments_count,is_liked,is_saved,can_edit HTTP/1.1" 200 5844
+"GET /api/profiles/by_user/3/ HTTP/1.1" 200 275
+"GET /api/profiles/by_user/3/ HTTP/1.1" 200 275
+"GET /api/profiles/by_user/2/ HTTP/1.1" 200 250
+"GET /api/profiles/by_user/2/ HTTP/1.1" 200 250
+"GET /api/profiles/by_user/2/ HTTP/1.1" 200 250
+"GET /api/profiles/me/ HTTP/1.1" 200 265
+"GET /api/profiles/me/ HTTP/1.1" 200 265
+"GET /api/profiles/me/ HTTP/1.1" 200 265
+"GET /api/profiles/me/ HTTP/1.1" 200 265
+"GET /api/profiles/me/ HTTP/1.1" 200 265
+"POST /api/auth/token/ HTTP/1.1" 200 486
+"GET /api/profiles/me/ HTTP/1.1" 200 271
+"GET /api/profiles/me/ HTTP/1.1" 200 271
+"GET /api/profiles/me/ HTTP/1.1" 200 271
+"GET /api/notifications/ HTTP/1.1" 200 2
+"GET /api/profiles/me/ HTTP/1.1" 200 271
+"GET /api/social-posts/?_cache=1755117954192&_fields=id,user,content_type,media_url,caption,location,created_at,likes_count,comments_count,is_liked,is_saved,can_edit HTTP/1.1" 200 5853
+"GET /api/social-posts/?_cache=1755117954191&_fields=id,user,content_type,media_url,caption,location,created_at,likes_count,comments_count,is_liked,is_saved,can_edit HTTP/1.1" 200 5853
+"GET /api/profiles/me/ HTTP/1.1" 200 271
+"GET /api/profiles/me/ HTTP/1.1" 200 271
+"GET /api/profiles/me/ HTTP/1.1" 200 271
+"GET /api/profiles/me/ HTTP/1.1" 200 271
+"GET /api/profiles/me/ HTTP/1.1" 200 271
+"GET /api/profiles/me/ HTTP/1.1" 200 271
+"GET /api/profiles/me/ HTTP/1.1" 200 271
+"GET /api/profiles/me/ HTTP/1.1" 200 271
+"GET /api/notifications/ HTTP/1.1" 200 2
+"POST /api/social-posts/31/like/ HTTP/1.1" 200 52
+"GET /api/notifications/ HTTP/1.1" 200 2
+"GET /api/notifications/ HTTP/1.1" 200 2
+"GET /api/notifications/ HTTP/1.1" 200 2
+"GET /api/notifications/ HTTP/1.1" 200 2
+"GET /api/notifications/ HTTP/1.1" 200 2
+"GET /api/notifications/ HTTP/1.1" 200 2
+"GET /api/profiles/me/ HTTP/1.1" 200 271
+"GET /api/notifications/ HTTP/1.1" 200 2
+"GET /api/profiles/me/ HTTP/1.1" 200 271
+"GET /api/profiles/me/ HTTP/1.1" 200 271
+"GET /api/notifications/ HTTP/1.1" 200 2
+"GET /api/profiles/me/ HTTP/1.1" 200 271
+"GET /api/notifications/ HTTP/1.1" 200 2
+"GET /api/notifications/ HTTP/1.1" 200 2
+"GET /api/notifications/ HTTP/1.1" 200 2
+"GET /api/social-posts/?_cache=1755118184466&_fields=id,user,content_type,media_url,caption,location,created_at,likes_count,comments_count,is_liked,is_saved,can_edit HTTP/1.1" 200 5852
+"GET /api/profiles/me/ HTTP/1.1" 200 271
+"GET /api/profiles/me/ HTTP/1.1" 200 271
+"GET /api/profiles/me/ HTTP/1.1" 200 271
+"GET /api/profiles/me/ HTTP/1.1" 200 271
+"GET /api/profiles/me/ HTTP/1.1" 200 271
+"GET /api/profiles/me/ HTTP/1.1" 200 271
+"GET /api/profiles/me/ HTTP/1.1" 200 271
+"GET /api/profiles/me/ HTTP/1.1" 200 271
+"GET /api/notifications/ HTTP/1.1" 200 2
+"GET /api/notifications/ HTTP/1.1" 200 2
+"GET /api/social-posts/?_cache=1755118229848&_fields=id,user,content_type,media_url,caption,location,created_at,likes_count,comments_count,is_liked,is_saved,can_edit HTTP/1.1" 200 5852
+"GET /api/notifications/ HTTP/1.1" 200 2
+"GET /api/social-posts/?_cache=1755118269290&_fields=id,user,content_type,media_url,caption,location,created_at,likes_count,comments_count,is_liked,is_saved,can_edit HTTP/1.1" 200 5852
+"GET /api/notifications/ HTTP/1.1" 200 2
+"GET /api/notifications/ HTTP/1.1" 200 2
+"GET /api/notifications/ HTTP/1.1" 200 2
+"GET /api/notifications/ HTTP/1.1" 200 2
+"GET /api/notifications/ HTTP/1.1" 200 2
+"GET /api/notifications/ HTTP/1.1" 200 2
+"GET /api/notifications/ HTTP/1.1" 200 2
+"GET /api/notifications/ HTTP/1.1" 200 2
+"GET /api/notifications/ HTTP/1.1" 200 2
+"GET /api/notifications/ HTTP/1.1" 200 2
+"GET /api/notifications/ HTTP/1.1" 200 2
+"GET /api/notifications/ HTTP/1.1" 200 2
+"GET /api/social-posts/?_cache=1755118499557&_fields=id,user,content_type,media_url,caption,location,created_at,likes_count,comments_count,is_liked,is_saved,can_edit HTTP/1.1" 200 5852
+"GET /api/notifications/ HTTP/1.1" 200 2
+"GET /api/notifications/ HTTP/1.1" 200 2
+"GET /api/notifications/ HTTP/1.1" 200 2
+"GET /api/social-posts/?_cache=1755118545241&_fields=id,user,content_type,media_url,caption,location,created_at,likes_count,comments_count,is_liked,is_saved,can_edit HTTP/1.1" 200 5852
+"GET /api/notifications/ HTTP/1.1" 200 2
+"GET /api/notifications/ HTTP/1.1" 200 2
+"GET /api/social-posts/?_cache=1755118584673&_fields=id,user,content_type,media_url,caption,location,created_at,likes_count,comments_count,is_liked,is_saved,can_edit HTTP/1.1" 200 5852
+"GET /api/notifications/ HTTP/1.1" 200 2
+"GET /api/notifications/ HTTP/1.1" 200 2
+"GET /api/notifications/ HTTP/1.1" 200 2
+"GET /api/notifications/ HTTP/1.1" 200 2
+"GET /api/notifications/ HTTP/1.1" 200 2
+"GET /api/notifications/ HTTP/1.1" 200 2
+"GET /api/notifications/ HTTP/1.1" 200 2
+"GET /api/notifications/ HTTP/1.1" 200 2
+"GET /api/notifications/ HTTP/1.1" 200 2
+"GET /api/notifications/ HTTP/1.1" 200 2
+"GET /api/social-posts/?_cache=1755118814828&_fields=id,user,content_type,media_url,caption,location,created_at,likes_count,comments_count,is_liked,is_saved,can_edit HTTP/1.1" 200 5852
+"GET /api/notifications/ HTTP/1.1" 200 2
+"GET /api/notifications/ HTTP/1.1" 200 2
+"GET /api/notifications/ HTTP/1.1" 200 2
+"GET /api/social-posts/?_cache=1755118860680&_fields=id,user,content_type,media_url,caption,location,created_at,likes_count,comments_count,is_liked,is_saved,can_edit HTTP/1.1" 200 5852
+"GET /api/notifications/ HTTP/1.1" 200 2
+"GET /api/notifications/ HTTP/1.1" 200 2
+"GET /api/notifications/ HTTP/1.1" 200 2
+"GET /api/social-posts/?_cache=1755118899902&_fields=id,user,content_type,media_url,caption,location,created_at,likes_count,comments_count,is_liked,is_saved,can_edit HTTP/1.1" 200 5852
+"GET /api/notifications/ HTTP/1.1" 200 2
+"GET /api/notifications/ HTTP/1.1" 200 2
+"GET /api/notifications/ HTTP/1.1" 200 2
+"GET /api/notifications/ HTTP/1.1" 200 2
+"GET /api/notifications/ HTTP/1.1" 200 2
+"GET /api/notifications/ HTTP/1.1" 200 2
+"GET /api/notifications/ HTTP/1.1" 200 2
+"GET /api/notifications/ HTTP/1.1" 200 2
+"GET /api/notifications/ HTTP/1.1" 200 2
+"GET /api/notifications/ HTTP/1.1" 200 2
+"GET /api/notifications/ HTTP/1.1" 200 2
+"GET /api/social-posts/?_cache=1755119130064&_fields=id,user,content_type,media_url,caption,location,created_at,likes_count,comments_count,is_liked,is_saved,can_edit HTTP/1.1" 200 5852
+"GET /api/notifications/ HTTP/1.1" 200 2
+"GET /api/social-posts/?_cache=1755119175855&_fields=id,user,content_type,media_url,caption,location,created_at,likes_count,comments_count,is_liked,is_saved,can_edit HTTP/1.1" 200 5852
+"GET /api/notifications/ HTTP/1.1" 200 2
+"GET /api/notifications/ HTTP/1.1" 200 2
+"GET /api/notifications/ HTTP/1.1" 200 2
+"GET /api/social-posts/?_cache=1755119215318&_fields=id,user,content_type,media_url,caption,location,created_at,likes_count,comments_count,is_liked,is_saved,can_edit HTTP/1.1" 200 5852
+"GET /api/notifications/ HTTP/1.1" 200 2
+"GET /api/notifications/ HTTP/1.1" 200 2
+"GET /api/notifications/ HTTP/1.1" 200 2
+"GET /api/notifications/ HTTP/1.1" 200 2
+"GET /api/notifications/ HTTP/1.1" 200 2
+"GET /api/notifications/ HTTP/1.1" 200 2
+"GET /api/notifications/ HTTP/1.1" 200 2
+"GET /api/notifications/ HTTP/1.1" 200 2
+"GET /api/notifications/ HTTP/1.1" 200 2
+"GET /api/notifications/ HTTP/1.1" 200 2
+"GET /api/notifications/ HTTP/1.1" 200 2
+"GET /api/notifications/ HTTP/1.1" 200 2
+"GET /api/social-posts/?_cache=1755119445454&_fields=id,user,content_type,media_url,caption,location,created_at,likes_count,comments_count,is_liked,is_saved,can_edit HTTP/1.1" 200 5852
+"GET /api/notifications/ HTTP/1.1" 200 2
+"GET /api/notifications/ HTTP/1.1" 200 2
+"GET /api/social-posts/?_cache=1755119491184&_fields=id,user,content_type,media_url,caption,location,created_at,likes_count,comments_count,is_liked,is_saved,can_edit HTTP/1.1" 200 5852
+"GET /api/notifications/ HTTP/1.1" 200 2
+"GET /api/social-posts/?_cache=1755119530749&_fields=id,user,content_type,media_url,caption,location,created_at,likes_count,comments_count,is_liked,is_saved,can_edit HTTP/1.1" 200 5852
+"GET /api/notifications/ HTTP/1.1" 200 2
+"POST /api/auth/signup/ HTTP/1.1" 201 42
+"POST /api/auth/token/ HTTP/1.1" 200 486
+Not Found: /api/profiles/me/
+"GET /api/profiles/me/ HTTP/1.1" 404 50
+Not Found: /api/profiles/me/
+Not Found: /api/profiles/me/
+"GET /api/profiles/me/ HTTP/1.1" 404 50
+"GET /api/profiles/me/ HTTP/1.1" 404 50
+"GET /api/notifications/ HTTP/1.1" 200 2
+Not Found: /api/profiles/me/
+"GET /api/profiles/me/ HTTP/1.1" 404 50
+"GET /api/notifications/ HTTP/1.1" 200 2
+"GET /api/notifications/ HTTP/1.1" 200 2
+"GET /api/notifications/ HTTP/1.1" 200 2
+"GET /api/social-posts/?_cache=1755119615582&_fields=id,user,content_type,media_url,caption,location,created_at,likes_count,comments_count,is_liked,is_saved,can_edit HTTP/1.1" 200 5853
+"GET /api/social-posts/?_cache=1755119615584&_fields=id,user,content_type,media_url,caption,location,created_at,likes_count,comments_count,is_liked,is_saved,can_edit HTTP/1.1" 200 5853
+Not Found: /api/profiles/me/
+"GET /api/profiles/me/ HTTP/1.1" 404 50
+Not Found: /api/profiles/me/
+"GET /api/profiles/me/ HTTP/1.1" 404 50
+Not Found: /api/profiles/me/
+"GET /api/profiles/me/ HTTP/1.1" 404 50
+Not Found: /api/profiles/me/
+Not Found: /api/profiles/me/
+"GET /api/profiles/me/ HTTP/1.1" 404 50
+"GET /api/profiles/me/ HTTP/1.1" 404 50
+Unauthorized: /api/notifications/
+"GET /api/notifications/ HTTP/1.1" 401 51
+Unauthorized: /api/notifications/
+"GET /api/notifications/ HTTP/1.1" 401 51
+Internal Server Error: /api/auth/token/refresh/
+Traceback (most recent call last):
+  File "C:\Users\ankom\AppData\Roaming\Python\Python313\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "C:\Users\ankom\AppData\Roaming\Python\Python313\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\ankom\AppData\Roaming\Python\Python313\site-packages\django\views\decorators\csrf.py", line 65, in _view_wrapper
+    return view_func(request, *args, **kwargs)
+  File "C:\Users\ankom\AppData\Roaming\Python\Python313\site-packages\django\views\generic\base.py", line 104, in view
+    return self.dispatch(request, *args, **kwargs)
+           ~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\ankom\AppData\Roaming\Python\Python313\site-packages\rest_framework\views.py", line 515, in dispatch
+    response = self.handle_exception(exc)
+  File "C:\Users\ankom\AppData\Roaming\Python\Python313\site-packages\rest_framework\views.py", line 475, in handle_exception
+    self.raise_uncaught_exception(exc)
+    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^
+  File "C:\Users\ankom\AppData\Roaming\Python\Python313\site-packages\rest_framework\views.py", line 486, in raise_uncaught_exception
+    raise exc
+  File "C:\Users\ankom\AppData\Roaming\Python\Python313\site-packages\rest_framework\views.py", line 512, in dispatch
+    response = handler(request, *args, **kwargs)
+  File "C:\Users\ankom\AppData\Roaming\Python\Python313\site-packages\rest_framework_simplejwt\views.py", line 44, in post
+    serializer.is_valid(raise_exception=True)
+    ~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\ankom\AppData\Roaming\Python\Python313\site-packages\rest_framework\serializers.py", line 225, in is_valid
+    self._validated_data = self.run_validation(self.initial_data)
+                           ~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\ankom\AppData\Roaming\Python\Python313\site-packages\rest_framework\serializers.py", line 447, in run_validation
+    value = self.validate(value)
+  File "C:\Users\ankom\AppData\Roaming\Python\Python313\site-packages\rest_framework_simplejwt\serializers.py", line 116, in validate
+    user := get_user_model().objects.get(
+            ~~~~~~~~~~~~~~~~~~~~~~~~~~~~^
+        **{api_settings.USER_ID_FIELD: user_id}
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "C:\Users\ankom\AppData\Roaming\Python\Python313\site-packages\django\db\models\manager.py", line 87, in manager_method
+    return getattr(self.get_queryset(), name)(*args, **kwargs)
+           ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^
+  File "C:\Users\ankom\AppData\Roaming\Python\Python313\site-packages\django\db\models\query.py", line 633, in get
+    raise self.model.DoesNotExist(
+        "%s matching query does not exist." % self.model._meta.object_name
+    )
+songs.models.User.DoesNotExist: User matching query does not exist.
+Internal Server Error: /api/auth/token/refresh/
+Traceback (most recent call last):
+  File "C:\Users\ankom\AppData\Roaming\Python\Python313\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "C:\Users\ankom\AppData\Roaming\Python\Python313\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\ankom\AppData\Roaming\Python\Python313\site-packages\django\views\decorators\csrf.py", line 65, in _view_wrapper
+    return view_func(request, *args, **kwargs)
+  File "C:\Users\ankom\AppData\Roaming\Python\Python313\site-packages\django\views\generic\base.py", line 104, in view
+    return self.dispatch(request, *args, **kwargs)
+           ~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\ankom\AppData\Roaming\Python\Python313\site-packages\rest_framework\views.py", line 515, in dispatch
+    response = self.handle_exception(exc)
+  File "C:\Users\ankom\AppData\Roaming\Python\Python313\site-packages\rest_framework\views.py", line 475, in handle_exception
+    self.raise_uncaught_exception(exc)
+    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^
+  File "C:\Users\ankom\AppData\Roaming\Python\Python313\site-packages\rest_framework\views.py", line 486, in raise_uncaught_exception
+    raise exc
+  File "C:\Users\ankom\AppData\Roaming\Python\Python313\site-packages\rest_framework\views.py", line 512, in dispatch
+    response = handler(request, *args, **kwargs)
+  File "C:\Users\ankom\AppData\Roaming\Python\Python313\site-packages\rest_framework_simplejwt\views.py", line 44, in post
+    serializer.is_valid(raise_exception=True)
+    ~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\ankom\AppData\Roaming\Python\Python313\site-packages\rest_framework\serializers.py", line 225, in is_valid
+    self._validated_data = self.run_validation(self.initial_data)
+                           ~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\ankom\AppData\Roaming\Python\Python313\site-packages\rest_framework\serializers.py", line 447, in run_validation
+    value = self.validate(value)
+  File "C:\Users\ankom\AppData\Roaming\Python\Python313\site-packages\rest_framework_simplejwt\serializers.py", line 116, in validate
+    user := get_user_model().objects.get(
+            ~~~~~~~~~~~~~~~~~~~~~~~~~~~~^
+        **{api_settings.USER_ID_FIELD: user_id}
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "C:\Users\ankom\AppData\Roaming\Python\Python313\site-packages\django\db\models\manager.py", line 87, in manager_method
+    return getattr(self.get_queryset(), name)(*args, **kwargs)
+           ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^
+  File "C:\Users\ankom\AppData\Roaming\Python\Python313\site-packages\django\db\models\query.py", line 633, in get
+    raise self.model.DoesNotExist(
+        "%s matching query does not exist." % self.model._meta.object_name
+    )
+songs.models.User.DoesNotExist: User matching query does not exist.
+"POST /api/auth/token/refresh/ HTTP/1.1" 500 145
+"POST /api/auth/token/refresh/ HTTP/1.1" 500 145
+Internal Server Error: /api/auth/token/refresh/
+Traceback (most recent call last):
+  File "C:\Users\ankom\AppData\Roaming\Python\Python313\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "C:\Users\ankom\AppData\Roaming\Python\Python313\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\ankom\AppData\Roaming\Python\Python313\site-packages\django\views\decorators\csrf.py", line 65, in _view_wrapper
+    return view_func(request, *args, **kwargs)
+  File "C:\Users\ankom\AppData\Roaming\Python\Python313\site-packages\django\views\generic\base.py", line 104, in view
+    return self.dispatch(request, *args, **kwargs)
+           ~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\ankom\AppData\Roaming\Python\Python313\site-packages\rest_framework\views.py", line 515, in dispatch
+    response = self.handle_exception(exc)
+  File "C:\Users\ankom\AppData\Roaming\Python\Python313\site-packages\rest_framework\views.py", line 475, in handle_exception
+    self.raise_uncaught_exception(exc)
+    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^
+  File "C:\Users\ankom\AppData\Roaming\Python\Python313\site-packages\rest_framework\views.py", line 486, in raise_uncaught_exception
+    raise exc
+  File "C:\Users\ankom\AppData\Roaming\Python\Python313\site-packages\rest_framework\views.py", line 512, in dispatch
+    response = handler(request, *args, **kwargs)
+  File "C:\Users\ankom\AppData\Roaming\Python\Python313\site-packages\rest_framework_simplejwt\views.py", line 44, in post
+    serializer.is_valid(raise_exception=True)
+    ~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\ankom\AppData\Roaming\Python\Python313\site-packages\rest_framework\serializers.py", line 225, in is_valid
+    self._validated_data = self.run_validation(self.initial_data)
+                           ~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\ankom\AppData\Roaming\Python\Python313\site-packages\rest_framework\serializers.py", line 447, in run_validation
+    value = self.validate(value)
+  File "C:\Users\ankom\AppData\Roaming\Python\Python313\site-packages\rest_framework_simplejwt\serializers.py", line 116, in validate
+    user := get_user_model().objects.get(
+            ~~~~~~~~~~~~~~~~~~~~~~~~~~~~^
+        **{api_settings.USER_ID_FIELD: user_id}
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "C:\Users\ankom\AppData\Roaming\Python\Python313\site-packages\django\db\models\manager.py", line 87, in manager_method
+    return getattr(self.get_queryset(), name)(*args, **kwargs)
+           ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^
+  File "C:\Users\ankom\AppData\Roaming\Python\Python313\site-packages\django\db\models\query.py", line 633, in get
+    raise self.model.DoesNotExist(
+        "%s matching query does not exist." % self.model._meta.object_name
+    )
+songs.models.User.DoesNotExist: User matching query does not exist.
+"POST /api/auth/token/refresh/ HTTP/1.1" 500 145
+Internal Server Error: /api/auth/token/refresh/
+Traceback (most recent call last):
+  File "C:\Users\ankom\AppData\Roaming\Python\Python313\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "C:\Users\ankom\AppData\Roaming\Python\Python313\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\ankom\AppData\Roaming\Python\Python313\site-packages\django\views\decorators\csrf.py", line 65, in _view_wrapper
+    return view_func(request, *args, **kwargs)
+  File "C:\Users\ankom\AppData\Roaming\Python\Python313\site-packages\django\views\generic\base.py", line 104, in view
+    return self.dispatch(request, *args, **kwargs)
+           ~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\ankom\AppData\Roaming\Python\Python313\site-packages\rest_framework\views.py", line 515, in dispatch
+    response = self.handle_exception(exc)
+  File "C:\Users\ankom\AppData\Roaming\Python\Python313\site-packages\rest_framework\views.py", line 475, in handle_exception
+    self.raise_uncaught_exception(exc)
+    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^
+  File "C:\Users\ankom\AppData\Roaming\Python\Python313\site-packages\rest_framework\views.py", line 486, in raise_uncaught_exception
+    raise exc
+  File "C:\Users\ankom\AppData\Roaming\Python\Python313\site-packages\rest_framework\views.py", line 512, in dispatch
+    response = handler(request, *args, **kwargs)
+  File "C:\Users\ankom\AppData\Roaming\Python\Python313\site-packages\rest_framework_simplejwt\views.py", line 44, in post
+    serializer.is_valid(raise_exception=True)
+    ~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\ankom\AppData\Roaming\Python\Python313\site-packages\rest_framework\serializers.py", line 225, in is_valid
+    self._validated_data = self.run_validation(self.initial_data)
+                           ~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\ankom\AppData\Roaming\Python\Python313\site-packages\rest_framework\serializers.py", line 447, in run_validation
+    value = self.validate(value)
+  File "C:\Users\ankom\AppData\Roaming\Python\Python313\site-packages\rest_framework_simplejwt\serializers.py", line 116, in validate
+    user := get_user_model().objects.get(
+            ~~~~~~~~~~~~~~~~~~~~~~~~~~~~^
+        **{api_settings.USER_ID_FIELD: user_id}
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "C:\Users\ankom\AppData\Roaming\Python\Python313\site-packages\django\db\models\manager.py", line 87, in manager_method
+    return getattr(self.get_queryset(), name)(*args, **kwargs)
+           ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^
+  File "C:\Users\ankom\AppData\Roaming\Python\Python313\site-packages\django\db\models\query.py", line 633, in get
+    raise self.model.DoesNotExist(
+        "%s matching query does not exist." % self.model._meta.object_name
+    )
+songs.models.User.DoesNotExist: User matching query does not exist.
+"POST /api/auth/token/refresh/ HTTP/1.1" 500 145
+"POST /api/auth/signup/ HTTP/1.1" 201 42
+"POST /api/auth/token/ HTTP/1.1" 200 486
+Not Found: /api/profiles/me/
+"GET /api/profiles/me/ HTTP/1.1" 404 50
+Not Found: /api/profiles/me/
+Not Found: /api/profiles/me/
+"GET /api/profiles/me/ HTTP/1.1" 404 50
+"GET /api/profiles/me/ HTTP/1.1" 404 50
+"GET /api/notifications/ HTTP/1.1" 200 2
+Not Found: /api/profiles/me/
+"GET /api/profiles/me/ HTTP/1.1" 404 50
+Not Found: /api/profiles/me/
+"GET /api/profiles/me/ HTTP/1.1" 404 50
+"GET /api/social-posts/?_cache=1755119775068&_fields=id,user,content_type,media_url,caption,location,created_at,likes_count,comments_count,is_liked,is_saved,can_edit HTTP/1.1" 200 5853
+"GET /api/social-posts/?_cache=1755119775066&_fields=id,user,content_type,media_url,caption,location,created_at,likes_count,comments_count,is_liked,is_saved,can_edit HTTP/1.1" 200 5853
+Not Found: /api/profiles/me/
+"GET /api/profiles/me/ HTTP/1.1" 404 50
+Not Found: /api/profiles/me/
+"GET /api/profiles/me/ HTTP/1.1" 404 50
+Not Found: /api/profiles/me/
+"GET /api/profiles/me/ HTTP/1.1" 404 50
+"GET /api/notifications/ HTTP/1.1" 200 2
+Unauthorized: /api/social-posts/
+"GET /api/social-posts/?_cache=1755119837207&_fields=id,user,content_type,media_url,caption,location,created_at,likes_count,comments_count,is_liked,is_saved,can_edit HTTP/1.1" 401 51
+Unauthorized: /api/social-posts/
+"GET /api/social-posts/?_cache=1755119837208&_fields=id,user,content_type,media_url,caption,location,created_at,likes_count,comments_count,is_liked,is_saved,can_edit HTTP/1.1" 401 51
+Unauthorized: /api/profiles/me/
+"GET /api/profiles/me/ HTTP/1.1" 401 51
+Internal Server Error: /api/auth/token/refresh/
+Traceback (most recent call last):
+  File "C:\Users\ankom\AppData\Roaming\Python\Python313\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "C:\Users\ankom\AppData\Roaming\Python\Python313\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\ankom\AppData\Roaming\Python\Python313\site-packages\django\views\decorators\csrf.py", line 65, in _view_wrapper
+    return view_func(request, *args, **kwargs)
+  File "C:\Users\ankom\AppData\Roaming\Python\Python313\site-packages\django\views\generic\base.py", line 104, in view
+    return self.dispatch(request, *args, **kwargs)
+           ~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\ankom\AppData\Roaming\Python\Python313\site-packages\rest_framework\views.py", line 515, in dispatch
+    response = self.handle_exception(exc)
+  File "C:\Users\ankom\AppData\Roaming\Python\Python313\site-packages\rest_framework\views.py", line 475, in handle_exception
+    self.raise_uncaught_exception(exc)
+    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^
+  File "C:\Users\ankom\AppData\Roaming\Python\Python313\site-packages\rest_framework\views.py", line 486, in raise_uncaught_exception
+    raise exc
+  File "C:\Users\ankom\AppData\Roaming\Python\Python313\site-packages\rest_framework\views.py", line 512, in dispatch
+    response = handler(request, *args, **kwargs)
+  File "C:\Users\ankom\AppData\Roaming\Python\Python313\site-packages\rest_framework_simplejwt\views.py", line 44, in post
+    serializer.is_valid(raise_exception=True)
+    ~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\ankom\AppData\Roaming\Python\Python313\site-packages\rest_framework\serializers.py", line 225, in is_valid
+    self._validated_data = self.run_validation(self.initial_data)
+                           ~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\ankom\AppData\Roaming\Python\Python313\site-packages\rest_framework\serializers.py", line 447, in run_validation
+    value = self.validate(value)
+  File "C:\Users\ankom\AppData\Roaming\Python\Python313\site-packages\rest_framework_simplejwt\serializers.py", line 116, in validate
+    user := get_user_model().objects.get(
+            ~~~~~~~~~~~~~~~~~~~~~~~~~~~~^
+        **{api_settings.USER_ID_FIELD: user_id}
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "C:\Users\ankom\AppData\Roaming\Python\Python313\site-packages\django\db\models\manager.py", line 87, in manager_method
+    return getattr(self.get_queryset(), name)(*args, **kwargs)
+           ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^
+  File "C:\Users\ankom\AppData\Roaming\Python\Python313\site-packages\django\db\models\query.py", line 633, in get
+    raise self.model.DoesNotExist(
+        "%s matching query does not exist." % self.model._meta.object_name
+    )
+songs.models.User.DoesNotExist: User matching query does not exist.
+"POST /api/auth/token/refresh/ HTTP/1.1" 500 145
+Internal Server Error: /api/auth/token/refresh/
+Traceback (most recent call last):
+  File "C:\Users\ankom\AppData\Roaming\Python\Python313\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "C:\Users\ankom\AppData\Roaming\Python\Python313\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\ankom\AppData\Roaming\Python\Python313\site-packages\django\views\decorators\csrf.py", line 65, in _view_wrapper
+    return view_func(request, *args, **kwargs)
+  File "C:\Users\ankom\AppData\Roaming\Python\Python313\site-packages\django\views\generic\base.py", line 104, in view
+    return self.dispatch(request, *args, **kwargs)
+           ~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\ankom\AppData\Roaming\Python\Python313\site-packages\rest_framework\views.py", line 515, in dispatch
+    response = self.handle_exception(exc)
+  File "C:\Users\ankom\AppData\Roaming\Python\Python313\site-packages\rest_framework\views.py", line 475, in handle_exception
+    self.raise_uncaught_exception(exc)
+    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^
+  File "C:\Users\ankom\AppData\Roaming\Python\Python313\site-packages\rest_framework\views.py", line 486, in raise_uncaught_exception
+    raise exc
+  File "C:\Users\ankom\AppData\Roaming\Python\Python313\site-packages\rest_framework\views.py", line 512, in dispatch
+    response = handler(request, *args, **kwargs)
+  File "C:\Users\ankom\AppData\Roaming\Python\Python313\site-packages\rest_framework_simplejwt\views.py", line 44, in post
+    serializer.is_valid(raise_exception=True)
+    ~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\ankom\AppData\Roaming\Python\Python313\site-packages\rest_framework\serializers.py", line 225, in is_valid
+    self._validated_data = self.run_validation(self.initial_data)
+                           ~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\ankom\AppData\Roaming\Python\Python313\site-packages\rest_framework\serializers.py", line 447, in run_validation
+    value = self.validate(value)
+  File "C:\Users\ankom\AppData\Roaming\Python\Python313\site-packages\rest_framework_simplejwt\serializers.py", line 116, in validate
+    user := get_user_model().objects.get(
+            ~~~~~~~~~~~~~~~~~~~~~~~~~~~~^
+        **{api_settings.USER_ID_FIELD: user_id}
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "C:\Users\ankom\AppData\Roaming\Python\Python313\site-packages\django\db\models\manager.py", line 87, in manager_method
+    return getattr(self.get_queryset(), name)(*args, **kwargs)
+           ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^
+  File "C:\Users\ankom\AppData\Roaming\Python\Python313\site-packages\django\db\models\query.py", line 633, in get
+    raise self.model.DoesNotExist(
+        "%s matching query does not exist." % self.model._meta.object_name
+    )
+songs.models.User.DoesNotExist: User matching query does not exist.
+Internal Server Error: /api/auth/token/refresh/
+Traceback (most recent call last):
+  File "C:\Users\ankom\AppData\Roaming\Python\Python313\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "C:\Users\ankom\AppData\Roaming\Python\Python313\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\ankom\AppData\Roaming\Python\Python313\site-packages\django\views\decorators\csrf.py", line 65, in _view_wrapper
+    return view_func(request, *args, **kwargs)
+  File "C:\Users\ankom\AppData\Roaming\Python\Python313\site-packages\django\views\generic\base.py", line 104, in view
+    return self.dispatch(request, *args, **kwargs)
+           ~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\ankom\AppData\Roaming\Python\Python313\site-packages\rest_framework\views.py", line 515, in dispatch
+    response = self.handle_exception(exc)
+  File "C:\Users\ankom\AppData\Roaming\Python\Python313\site-packages\rest_framework\views.py", line 475, in handle_exception
+    self.raise_uncaught_exception(exc)
+    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^
+  File "C:\Users\ankom\AppData\Roaming\Python\Python313\site-packages\rest_framework\views.py", line 486, in raise_uncaught_exception
+    raise exc
+  File "C:\Users\ankom\AppData\Roaming\Python\Python313\site-packages\rest_framework\views.py", line 512, in dispatch
+    response = handler(request, *args, **kwargs)
+  File "C:\Users\ankom\AppData\Roaming\Python\Python313\site-packages\rest_framework_simplejwt\views.py", line 44, in post
+    serializer.is_valid(raise_exception=True)
+    ~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\ankom\AppData\Roaming\Python\Python313\site-packages\rest_framework\serializers.py", line 225, in is_valid
+    self._validated_data = self.run_validation(self.initial_data)
+                           ~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\ankom\AppData\Roaming\Python\Python313\site-packages\rest_framework\serializers.py", line 447, in run_validation
+    value = self.validate(value)
+  File "C:\Users\ankom\AppData\Roaming\Python\Python313\site-packages\rest_framework_simplejwt\serializers.py", line 116, in validate
+    user := get_user_model().objects.get(
+            ~~~~~~~~~~~~~~~~~~~~~~~~~~~~^
+        **{api_settings.USER_ID_FIELD: user_id}
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "C:\Users\ankom\AppData\Roaming\Python\Python313\site-packages\django\db\models\manager.py", line 87, in manager_method
+    return getattr(self.get_queryset(), name)(*args, **kwargs)
+           ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^
+  File "C:\Users\ankom\AppData\Roaming\Python\Python313\site-packages\django\db\models\query.py", line 633, in get
+    raise self.model.DoesNotExist(
+        "%s matching query does not exist." % self.model._meta.object_name
+    )
+songs.models.User.DoesNotExist: User matching query does not exist.
+"POST /api/auth/token/refresh/ HTTP/1.1" 500 145
+"POST /api/auth/token/refresh/ HTTP/1.1" 500 145
+Internal Server Error: /api/auth/token/refresh/
+Traceback (most recent call last):
+  File "C:\Users\ankom\AppData\Roaming\Python\Python313\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "C:\Users\ankom\AppData\Roaming\Python\Python313\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\ankom\AppData\Roaming\Python\Python313\site-packages\django\views\decorators\csrf.py", line 65, in _view_wrapper
+    return view_func(request, *args, **kwargs)
+  File "C:\Users\ankom\AppData\Roaming\Python\Python313\site-packages\django\views\generic\base.py", line 104, in view
+    return self.dispatch(request, *args, **kwargs)
+           ~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\ankom\AppData\Roaming\Python\Python313\site-packages\rest_framework\views.py", line 515, in dispatch
+    response = self.handle_exception(exc)
+  File "C:\Users\ankom\AppData\Roaming\Python\Python313\site-packages\rest_framework\views.py", line 475, in handle_exception
+    self.raise_uncaught_exception(exc)
+    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^
+  File "C:\Users\ankom\AppData\Roaming\Python\Python313\site-packages\rest_framework\views.py", line 486, in raise_uncaught_exception
+    raise exc
+  File "C:\Users\ankom\AppData\Roaming\Python\Python313\site-packages\rest_framework\views.py", line 512, in dispatch
+    response = handler(request, *args, **kwargs)
+  File "C:\Users\ankom\AppData\Roaming\Python\Python313\site-packages\rest_framework_simplejwt\views.py", line 44, in post
+    serializer.is_valid(raise_exception=True)
+    ~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\ankom\AppData\Roaming\Python\Python313\site-packages\rest_framework\serializers.py", line 225, in is_valid
+    self._validated_data = self.run_validation(self.initial_data)
+                           ~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\ankom\AppData\Roaming\Python\Python313\site-packages\rest_framework\serializers.py", line 447, in run_validation
+    value = self.validate(value)
+  File "C:\Users\ankom\AppData\Roaming\Python\Python313\site-packages\rest_framework_simplejwt\serializers.py", line 116, in validate
+    user := get_user_model().objects.get(
+            ~~~~~~~~~~~~~~~~~~~~~~~~~~~~^
+        **{api_settings.USER_ID_FIELD: user_id}
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "C:\Users\ankom\AppData\Roaming\Python\Python313\site-packages\django\db\models\manager.py", line 87, in manager_method
+    return getattr(self.get_queryset(), name)(*args, **kwargs)
+           ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^
+  File "C:\Users\ankom\AppData\Roaming\Python\Python313\site-packages\django\db\models\query.py", line 633, in get
+    raise self.model.DoesNotExist(
+        "%s matching query does not exist." % self.model._meta.object_name
+    )
+songs.models.User.DoesNotExist: User matching query does not exist.
+"POST /api/auth/token/refresh/ HTTP/1.1" 500 145
+Internal Server Error: /api/auth/token/refresh/
+Traceback (most recent call last):
+  File "C:\Users\ankom\AppData\Roaming\Python\Python313\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "C:\Users\ankom\AppData\Roaming\Python\Python313\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\ankom\AppData\Roaming\Python\Python313\site-packages\django\views\decorators\csrf.py", line 65, in _view_wrapper
+    return view_func(request, *args, **kwargs)
+  File "C:\Users\ankom\AppData\Roaming\Python\Python313\site-packages\django\views\generic\base.py", line 104, in view
+    return self.dispatch(request, *args, **kwargs)
+           ~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\ankom\AppData\Roaming\Python\Python313\site-packages\rest_framework\views.py", line 515, in dispatch
+    response = self.handle_exception(exc)
+  File "C:\Users\ankom\AppData\Roaming\Python\Python313\site-packages\rest_framework\views.py", line 475, in handle_exception
+    self.raise_uncaught_exception(exc)
+    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^
+  File "C:\Users\ankom\AppData\Roaming\Python\Python313\site-packages\rest_framework\views.py", line 486, in raise_uncaught_exception
+    raise exc
+  File "C:\Users\ankom\AppData\Roaming\Python\Python313\site-packages\rest_framework\views.py", line 512, in dispatch
+    response = handler(request, *args, **kwargs)
+  File "C:\Users\ankom\AppData\Roaming\Python\Python313\site-packages\rest_framework_simplejwt\views.py", line 44, in post
+    serializer.is_valid(raise_exception=True)
+    ~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\ankom\AppData\Roaming\Python\Python313\site-packages\rest_framework\serializers.py", line 225, in is_valid
+    self._validated_data = self.run_validation(self.initial_data)
+                           ~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\ankom\AppData\Roaming\Python\Python313\site-packages\rest_framework\serializers.py", line 447, in run_validation
+    value = self.validate(value)
+  File "C:\Users\ankom\AppData\Roaming\Python\Python313\site-packages\rest_framework_simplejwt\serializers.py", line 116, in validate
+    user := get_user_model().objects.get(
+            ~~~~~~~~~~~~~~~~~~~~~~~~~~~~^
+        **{api_settings.USER_ID_FIELD: user_id}
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "C:\Users\ankom\AppData\Roaming\Python\Python313\site-packages\django\db\models\manager.py", line 87, in manager_method
+    return getattr(self.get_queryset(), name)(*args, **kwargs)
+           ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^
+  File "C:\Users\ankom\AppData\Roaming\Python\Python313\site-packages\django\db\models\query.py", line 633, in get
+    raise self.model.DoesNotExist(
+        "%s matching query does not exist." % self.model._meta.object_name
+    )
+songs.models.User.DoesNotExist: User matching query does not exist.
+"POST /api/auth/token/refresh/ HTTP/1.1" 500 145
+Internal Server Error: /api/auth/token/refresh/
+Traceback (most recent call last):
+  File "C:\Users\ankom\AppData\Roaming\Python\Python313\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "C:\Users\ankom\AppData\Roaming\Python\Python313\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\ankom\AppData\Roaming\Python\Python313\site-packages\django\views\decorators\csrf.py", line 65, in _view_wrapper
+    return view_func(request, *args, **kwargs)
+  File "C:\Users\ankom\AppData\Roaming\Python\Python313\site-packages\django\views\generic\base.py", line 104, in view
+    return self.dispatch(request, *args, **kwargs)
+           ~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\ankom\AppData\Roaming\Python\Python313\site-packages\rest_framework\views.py", line 515, in dispatch
+    response = self.handle_exception(exc)
+  File "C:\Users\ankom\AppData\Roaming\Python\Python313\site-packages\rest_framework\views.py", line 475, in handle_exception
+    self.raise_uncaught_exception(exc)
+    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^
+  File "C:\Users\ankom\AppData\Roaming\Python\Python313\site-packages\rest_framework\views.py", line 486, in raise_uncaught_exception
+    raise exc
+  File "C:\Users\ankom\AppData\Roaming\Python\Python313\site-packages\rest_framework\views.py", line 512, in dispatch
+    response = handler(request, *args, **kwargs)
+  File "C:\Users\ankom\AppData\Roaming\Python\Python313\site-packages\rest_framework_simplejwt\views.py", line 44, in post
+    serializer.is_valid(raise_exception=True)
+    ~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\ankom\AppData\Roaming\Python\Python313\site-packages\rest_framework\serializers.py", line 225, in is_valid
+    self._validated_data = self.run_validation(self.initial_data)
+                           ~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\ankom\AppData\Roaming\Python\Python313\site-packages\rest_framework\serializers.py", line 447, in run_validation
+    value = self.validate(value)
+  File "C:\Users\ankom\AppData\Roaming\Python\Python313\site-packages\rest_framework_simplejwt\serializers.py", line 116, in validate
+    user := get_user_model().objects.get(
+            ~~~~~~~~~~~~~~~~~~~~~~~~~~~~^
+        **{api_settings.USER_ID_FIELD: user_id}
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "C:\Users\ankom\AppData\Roaming\Python\Python313\site-packages\django\db\models\manager.py", line 87, in manager_method
+    return getattr(self.get_queryset(), name)(*args, **kwargs)
+           ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^
+  File "C:\Users\ankom\AppData\Roaming\Python\Python313\site-packages\django\db\models\query.py", line 633, in get
+    raise self.model.DoesNotExist(
+        "%s matching query does not exist." % self.model._meta.object_name
+    )
+songs.models.User.DoesNotExist: User matching query does not exist.
+"POST /api/auth/token/refresh/ HTTP/1.1" 500 145
+"POST /api/auth/signup/ HTTP/1.1" 201 42
+"POST /api/auth/token/ HTTP/1.1" 200 486
+Not Found: /api/profiles/me/
+"GET /api/profiles/me/ HTTP/1.1" 404 50
+"GET /api/notifications/ HTTP/1.1" 200 2
+"GET /api/notifications/ HTTP/1.1" 200 2
+Resetting dropped connection: api.cloudinary.com
+https://api.cloudinary.com:443 "POST /v1_1/dxdmo9j4v/image/upload HTTP/1.1" 200 None
+"POST /api/profiles/create_profile/ HTTP/1.1" 201 261
+"GET /api/profiles/me/ HTTP/1.1" 200 261
+"GET /api/profiles/me/ HTTP/1.1" 200 261
+"GET /api/notifications/ HTTP/1.1" 200 2
+"GET /api/profiles/me/ HTTP/1.1" 200 261
+"GET /api/notifications/ HTTP/1.1" 200 2
+"GET /api/social-posts/?_cache=1755120019018&_fields=id,user,content_type,media_url,caption,location,created_at,likes_count,comments_count,is_liked,is_saved,can_edit HTTP/1.1" 200 5853
+"GET /api/social-posts/?_cache=1755120019019&_fields=id,user,content_type,media_url,caption,location,created_at,likes_count,comments_count,is_liked,is_saved,can_edit HTTP/1.1" 200 5853
+"GET /api/profiles/me/ HTTP/1.1" 200 261
+"GET /api/profiles/me/ HTTP/1.1" 200 261
+"GET /api/profiles/me/ HTTP/1.1" 200 261
+"GET /api/profiles/me/ HTTP/1.1" 200 261
+"GET /api/profiles/me/ HTTP/1.1" 200 261
+"GET /api/profiles/me/ HTTP/1.1" 200 261
+"GET /api/profiles/me/ HTTP/1.1" 200 261
+"GET /api/profiles/me/ HTTP/1.1" 200 261
+"POST /api/users/4/follow/ HTTP/1.1" 200 100
+"POST /api/social-posts/31/like/ HTTP/1.1" 200 52
+"GET /api/notifications/ HTTP/1.1" 200 2
+"POST /api/users/3/follow/ HTTP/1.1" 200 98
+"POST /api/social-posts/29/like/ HTTP/1.1" 200 52
+"GET /api/notifications/ HTTP/1.1" 200 2
+"GET /api/profiles/me/ HTTP/1.1" 200 261
+"GET /api/notifications/ HTTP/1.1" 200 2
+"GET /api/notifications/ HTTP/1.1" 200 2
+"GET /api/tracks/ HTTP/1.1" 200 9707
+"GET /api/profiles/me/ HTTP/1.1" 200 261
+"GET /api/profiles/by_user/1/ HTTP/1.1" 200 265
+"GET /api/profiles/me/ HTTP/1.1" 200 261
+"GET /api/profiles/by_user/2/ HTTP/1.1" 200 250
+"GET /api/profiles/me/ HTTP/1.1" 200 261
+"GET /api/profiles/by_user/2/ HTTP/1.1" 200 250
+"GET /api/profiles/me/ HTTP/1.1" 200 261
+"GET /api/tracks/8/comments/ HTTP/1.1" 200 2081
+"GET /api/profiles/me/ HTTP/1.1" 200 261
+"GET /api/profiles/me/ HTTP/1.1" 200 261
+"GET /api/notifications/ HTTP/1.1" 200 2
+"GET /api/profiles/by_user/3/ HTTP/1.1" 200 275
+"GET /api/social-posts/?_cache=1755120138694&_fields=id,user,content_type,media_url,caption,location,created_at,likes_count,comments_count,is_liked,is_saved,can_edit HTTP/1.1" 200 5851
+"GET /api/tracks/7/comments/ HTTP/1.1" 200 4301
+"GET /api/profiles/me/ HTTP/1.1" 200 261
+"GET /api/profiles/me/ HTTP/1.1" 200 261
+"GET /api/profiles/me/ HTTP/1.1" 200 261
+"GET /api/profiles/me/ HTTP/1.1" 200 261
+"GET /api/profiles/me/ HTTP/1.1" 200 261
+"GET /api/profiles/me/ HTTP/1.1" 200 261
+"GET /api/profiles/me/ HTTP/1.1" 200 261
+"GET /api/profiles/me/ HTTP/1.1" 200 261
+"GET /api/profiles/by_user/1/ HTTP/1.1" 200 265
+"GET /api/notifications/ HTTP/1.1" 200 2
+"GET /api/tracks/6/comments/ HTTP/1.1" 200 12850
+"GET /api/profiles/by_user/2/ HTTP/1.1" 200 250
+"GET /api/profiles/by_user/2/ HTTP/1.1" 200 250
+"GET /api/profiles/by_user/1/ HTTP/1.1" 200 265
+"GET /api/notifications/ HTTP/1.1" 200 2
+"GET /api/profiles/me/ HTTP/1.1" 200 261
+"GET /api/profiles/me/ HTTP/1.1" 200 261
+"GET /api/notifications/ HTTP/1.1" 200 2
+"GET /api/profiles/me/ HTTP/1.1" 200 261
+"GET /api/notifications/ HTTP/1.1" 200 2
+"GET /api/social-posts/?_cache=1755120211870&_fields=id,user,content_type,media_url,caption,location,created_at,likes_count,comments_count,is_liked,is_saved,can_edit HTTP/1.1" 200 5851
+"GET /api/social-posts/?_cache=1755120211872&_fields=id,user,content_type,media_url,caption,location,created_at,likes_count,comments_count,is_liked,is_saved,can_edit HTTP/1.1" 200 5851
+"GET /api/notifications/ HTTP/1.1" 200 2
+"GET /api/profiles/me/ HTTP/1.1" 200 261
+"GET /api/profiles/me/ HTTP/1.1" 200 261
+"GET /api/profiles/me/ HTTP/1.1" 200 261
+"GET /api/profiles/me/ HTTP/1.1" 200 261
+"GET /api/profiles/me/ HTTP/1.1" 200 261
+"GET /api/profiles/me/ HTTP/1.1" 200 261
+"GET /api/profiles/me/ HTTP/1.1" 200 261
+"GET /api/profiles/me/ HTTP/1.1" 200 261
+"GET /api/notifications/ HTTP/1.1" 200 2
+"GET /api/notifications/ HTTP/1.1" 200 2
+"GET /api/notifications/ HTTP/1.1" 200 2
+"GET /api/notifications/ HTTP/1.1" 200 2
+"GET /api/notifications/ HTTP/1.1" 200 2
+"GET /api/notifications/ HTTP/1.1" 200 2
+"GET /api/notifications/ HTTP/1.1" 200 2
+"GET /api/notifications/ HTTP/1.1" 200 2
+"GET /api/notifications/ HTTP/1.1" 200 2
+"GET /api/notifications/ HTTP/1.1" 200 2
+"GET /api/notifications/ HTTP/1.1" 200 2
+"GET /api/social-posts/?_cache=1755120383471&_fields=id,user,content_type,media_url,caption,location,created_at,likes_count,comments_count,is_liked,is_saved,can_edit HTTP/1.1" 200 5851
+"GET /api/notifications/ HTTP/1.1" 200 2
+"GET /api/notifications/ HTTP/1.1" 200 2
+"GET /api/notifications/ HTTP/1.1" 200 2
+"GET /api/notifications/ HTTP/1.1" 200 2
+"GET /api/social-posts/?_cache=1755120453789&_fields=id,user,content_type,media_url,caption,location,created_at,likes_count,comments_count,is_liked,is_saved,can_edit HTTP/1.1" 200 5851
+"GET /api/notifications/ HTTP/1.1" 200 2
+"GET /api/notifications/ HTTP/1.1" 200 2
+"GET /api/notifications/ HTTP/1.1" 200 2
+"GET /api/notifications/ HTTP/1.1" 200 2
+"GET /api/notifications/ HTTP/1.1" 200 2
+"GET /api/social-posts/?_cache=1755120526992&_fields=id,user,content_type,media_url,caption,location,created_at,likes_count,comments_count,is_liked,is_saved,can_edit HTTP/1.1" 200 5851
+"GET /api/notifications/ HTTP/1.1" 200 2
+"GET /api/notifications/ HTTP/1.1" 200 2
+"GET /api/notifications/ HTTP/1.1" 200 2
+"GET /api/notifications/ HTTP/1.1" 200 2
+"GET /api/notifications/ HTTP/1.1" 200 2
+"GET /api/notifications/ HTTP/1.1" 200 2
+"GET /api/notifications/ HTTP/1.1" 200 2
+"GET /api/notifications/ HTTP/1.1" 200 2
+"GET /api/notifications/ HTTP/1.1" 200 2
+"GET /api/notifications/ HTTP/1.1" 200 2
+"GET /api/notifications/ HTTP/1.1" 200 2
+"GET /api/social-posts/?_cache=1755120698817&_fields=id,user,content_type,media_url,caption,location,created_at,likes_count,comments_count,is_liked,is_saved,can_edit HTTP/1.1" 200 5851
+"GET /api/profiles/me/ HTTP/1.1" 200 261
+"GET /api/profiles/me/ HTTP/1.1" 200 261
+"GET /api/social-posts/?_cache=1755120700945&_fields=id,user,content_type,media_url,caption,location,created_at,likes_count,comments_count,is_liked,is_saved,can_edit HTTP/1.1" 200 5851
+"GET /api/profiles/me/ HTTP/1.1" 200 261
+"GET /api/notifications/ HTTP/1.1" 200 2
+"GET /api/social-posts/?_cache=1755120700960&_fields=id,user,content_type,media_url,caption,location,created_at,likes_count,comments_count,is_liked,is_saved,can_edit HTTP/1.1" 200 5851
+"GET /api/social-posts/?_cache=1755120700948&_fields=id,user,content_type,media_url,caption,location,created_at,likes_count,comments_count,is_liked,is_saved,can_edit HTTP/1.1" 200 5851
+"GET /api/social-posts/?_cache=1755120700951&_fields=id,user,content_type,media_url,caption,location,created_at,likes_count,comments_count,is_liked,is_saved,can_edit HTTP/1.1" 200 5851
+"GET /api/notifications/ HTTP/1.1" 200 2
+"GET /api/notifications/ HTTP/1.1" 200 2
+"GET /api/notifications/ HTTP/1.1" 200 2
+"GET /api/profiles/me/ HTTP/1.1" 200 261
+"GET /api/profiles/me/ HTTP/1.1" 200 261
+"GET /api/profiles/me/ HTTP/1.1" 200 261
+"GET /api/notifications/ HTTP/1.1" 200 2
+"GET /api/social-posts/?_cache=1755120777046&_fields=id,user,content_type,media_url,caption,location,created_at,likes_count,comments_count,is_liked,is_saved,can_edit HTTP/1.1" 200 5851
+"GET /api/social-posts/?_cache=1755120777043&_fields=id,user,content_type,media_url,caption,location,created_at,likes_count,comments_count,is_liked,is_saved,can_edit HTTP/1.1" 200 5851
+"GET /api/profiles/me/ HTTP/1.1" 200 261
+"GET /api/social-posts/?_cache=1755120777040&_fields=id,user,content_type,media_url,caption,location,created_at,likes_count,comments_count,is_liked,is_saved,can_edit HTTP/1.1" 200 5851
+"GET /api/profiles/me/ HTTP/1.1" 200 261
+"GET /api/profiles/me/ HTTP/1.1" 200 261
+"GET /api/notifications/ HTTP/1.1" 200 2
+"GET /api/social-posts/?_cache=1755120791419&_fields=id,user,content_type,media_url,caption,location,created_at,likes_count,comments_count,is_liked,is_saved,can_edit HTTP/1.1" 200 5851
+"GET /api/social-posts/?_cache=1755120791415&_fields=id,user,content_type,media_url,caption,location,created_at,likes_count,comments_count,is_liked,is_saved,can_edit HTTP/1.1" 200 5851
+"GET /api/profiles/me/ HTTP/1.1" 200 261
+"GET /api/profiles/me/ HTTP/1.1" 200 261
+"GET /api/social-posts/?_cache=1755120791424&_fields=id,user,content_type,media_url,caption,location,created_at,likes_count,comments_count,is_liked,is_saved,can_edit HTTP/1.1" 200 5851
+"GET /api/profiles/me/ HTTP/1.1" 200 261
+"GET /api/profiles/me/ HTTP/1.1" 200 261
+"GET /api/profiles/me/ HTTP/1.1" 200 261
+"GET /api/notifications/ HTTP/1.1" 200 2
+"GET /api/social-posts/?_cache=1755120808783&_fields=id,user,content_type,media_url,caption,location,created_at,likes_count,comments_count,is_liked,is_saved,can_edit HTTP/1.1" 200 5851
+"GET /api/social-posts/?_cache=1755120808780&_fields=id,user,content_type,media_url,caption,location,created_at,likes_count,comments_count,is_liked,is_saved,can_edit HTTP/1.1" 200 5851
+"GET /api/social-posts/?_cache=1755120808785&_fields=id,user,content_type,media_url,caption,location,created_at,likes_count,comments_count,is_liked,is_saved,can_edit HTTP/1.1" 200 5851
+"GET /api/profiles/me/ HTTP/1.1" 200 261
+"GET /api/social-posts/?_cache=1755120829781&_fields=id,user,content_type,media_url,caption,location,created_at,likes_count,comments_count,is_liked,is_saved,can_edit HTTP/1.1" 200 5851
+"GET /api/social-posts/?_cache=1755120829780&_fields=id,user,content_type,media_url,caption,location,created_at,likes_count,comments_count,is_liked,is_saved,can_edit HTTP/1.1" 200 5851
+"GET /api/profiles/me/ HTTP/1.1" 200 261
+"GET /api/profiles/me/ HTTP/1.1" 200 261
+"GET /api/profiles/me/ HTTP/1.1" 200 261
+"GET /api/profiles/me/ HTTP/1.1" 200 261
+"GET /api/profiles/me/ HTTP/1.1" 200 261
+"GET /api/profiles/me/ HTTP/1.1" 200 261
+"GET /api/notifications/ HTTP/1.1" 200 2
+"GET /api/profiles/me/ HTTP/1.1" 200 261
+"GET /api/profiles/me/ HTTP/1.1" 200 261
+"GET /api/profiles/me/ HTTP/1.1" 200 261
+"GET /api/social-posts/?_cache=1755120889509&_fields=id,user,content_type,media_url,caption,location,created_at,likes_count,comments_count,is_liked,is_saved,can_edit HTTP/1.1" 200 5851
+"GET /api/notifications/ HTTP/1.1" 200 2
+"GET /api/notifications/ HTTP/1.1" 200 2
+"GET /api/notifications/ HTTP/1.1" 200 2
+"GET /api/notifications/ HTTP/1.1" 200 2
+"GET /api/profiles/me/ HTTP/1.1" 200 261
+"GET /api/profiles/me/ HTTP/1.1" 200 261
+"GET /api/social-posts/?_cache=1755121154131&_fields=id,user,content_type,media_url,caption,location,created_at,likes_count,comments_count,is_liked,is_saved,can_edit HTTP/1.1" 200 5851
+"GET /api/social-posts/?_cache=1755121154132&_fields=id,user,content_type,media_url,caption,location,created_at,likes_count,comments_count,is_liked,is_saved,can_edit HTTP/1.1" 200 5851
+"GET /api/profiles/me/ HTTP/1.1" 200 261
+"GET /api/notifications/ HTTP/1.1" 200 2
+"GET /api/profiles/me/ HTTP/1.1" 200 261
+"GET /api/profiles/me/ HTTP/1.1" 200 261
+"GET /api/social-posts/?_cache=1755121182149&_fields=id,user,content_type,media_url,caption,location,created_at,likes_count,comments_count,is_liked,is_saved,can_edit HTTP/1.1" 200 5851
+"GET /api/social-posts/?_cache=1755121182148&_fields=id,user,content_type,media_url,caption,location,created_at,likes_count,comments_count,is_liked,is_saved,can_edit HTTP/1.1" 200 5851
+"GET /api/profiles/me/ HTTP/1.1" 200 261
+"GET /api/profiles/me/ HTTP/1.1" 200 261
+"GET /api/profiles/me/ HTTP/1.1" 200 261
+"GET /api/profiles/me/ HTTP/1.1" 200 261
+"GET /api/profiles/me/ HTTP/1.1" 200 261
+"GET /api/profiles/me/ HTTP/1.1" 200 261
+"GET /api/notifications/ HTTP/1.1" 200 2
+"GET /api/social-posts/?_cache=1755121218423&_fields=id,user,content_type,media_url,caption,location,created_at,likes_count,comments_count,is_liked,is_saved,can_edit HTTP/1.1" 200 5851
+"GET /api/profiles/me/ HTTP/1.1" 200 261
+"GET /api/profiles/me/ HTTP/1.1" 200 261
+"GET /api/profiles/me/ HTTP/1.1" 200 261
+"GET /api/notifications/ HTTP/1.1" 200 2
+"GET /api/notifications/ HTTP/1.1" 200 2
+"GET /api/notifications/ HTTP/1.1" 200 2
+"GET /api/notifications/ HTTP/1.1" 200 2
+"GET /api/notifications/ HTTP/1.1" 200 2
+"GET /api/social-posts/?_cache=1755121523680&_fields=id,user,content_type,media_url,caption,location,created_at,likes_count,comments_count,is_liked,is_saved,can_edit HTTP/1.1" 200 5851
+"GET /api/notifications/ HTTP/1.1" 200 2
+"GET /api/notifications/ HTTP/1.1" 200 2
+"GET /api/notifications/ HTTP/1.1" 200 2
+"GET /api/profiles/me/ HTTP/1.1" 200 261
+"GET /api/social-posts/?_cache=1755121743300&_fields=id,user,content_type,media_url,caption,location,created_at,likes_count,comments_count,is_liked,is_saved,can_edit HTTP/1.1" 200 5851
+"GET /api/social-posts/?_cache=1755121743302&_fields=id,user,content_type,media_url,caption,location,created_at,likes_count,comments_count,is_liked,is_saved,can_edit HTTP/1.1" 200 5851
+"GET /api/notifications/ HTTP/1.1" 200 2
+"GET /api/notifications/ HTTP/1.1" 200 2
+"GET /api/profiles/me/ HTTP/1.1" 200 261
+"GET /api/social-posts/?_cache=1755121868682&_fields=id,user,content_type,media_url,caption,location,created_at,likes_count,comments_count,is_liked,is_saved,can_edit HTTP/1.1" 200 5851
+"GET /api/notifications/ HTTP/1.1" 200 2
+"GET /api/social-posts/?_cache=1755121884389&_fields=id,user,content_type,media_url,caption,location,created_at,likes_count,comments_count,is_liked,is_saved,can_edit HTTP/1.1" 200 5851
+"GET /api/social-posts/?_cache=1755121884388&_fields=id,user,content_type,media_url,caption,location,created_at,likes_count,comments_count,is_liked,is_saved,can_edit HTTP/1.1" 200 5851
+"GET /api/notifications/ HTTP/1.1" 200 2
+"GET /api/notifications/ HTTP/1.1" 200 2
+"GET /api/social-posts/?_cache=1755122006725&_fields=id,user,content_type,media_url,caption,location,created_at,likes_count,comments_count,is_liked,is_saved,can_edit HTTP/1.1" 200 5851
+"GET /api/profiles/me/ HTTP/1.1" 200 261
+"GET /api/profiles/me/ HTTP/1.1" 200 261
+"GET /api/notifications/ HTTP/1.1" 200 2
+"GET /api/profiles/me/ HTTP/1.1" 200 261
+"GET /api/profiles/me/ HTTP/1.1" 200 261
+"GET /api/social-posts/?_cache=1755122077251&_fields=id,user,content_type,media_url,caption,location,created_at,likes_count,comments_count,is_liked,is_saved,can_edit HTTP/1.1" 200 5851
+"GET /api/social-posts/?_cache=1755122077250&_fields=id,user,content_type,media_url,caption,location,created_at,likes_count,comments_count,is_liked,is_saved,can_edit HTTP/1.1" 200 5851
+"GET /api/profiles/me/ HTTP/1.1" 200 261
+"GET /api/profiles/me/ HTTP/1.1" 200 261
+"GET /api/profiles/me/ HTTP/1.1" 200 261
+"GET /api/profiles/me/ HTTP/1.1" 200 261
+"GET /api/profiles/me/ HTTP/1.1" 200 261
+"GET /api/notifications/ HTTP/1.1" 200 2
+"GET /api/profiles/me/ HTTP/1.1" 200 261
+"GET /api/profiles/me/ HTTP/1.1" 200 261
+"GET /api/profiles/me/ HTTP/1.1" 200 261
+"GET /api/profiles/me/ HTTP/1.1" 200 261
+"GET /api/social-posts/?_cache=1755122155178&_fields=id,user,content_type,media_url,caption,location,created_at,likes_count,comments_count,is_liked,is_saved,can_edit HTTP/1.1" 200 5851
+"GET /api/profiles/me/ HTTP/1.1" 200 261
+"GET /api/social-posts/?_cache=1755122159847&_fields=id,user,content_type,media_url,caption,location,created_at,likes_count,comments_count,is_liked,is_saved,can_edit HTTP/1.1" 200 5851
+"GET /api/profiles/me/ HTTP/1.1" 200 261
+"GET /api/social-posts/?_cache=1755122164753&_fields=id,user,content_type,media_url,caption,location,created_at,likes_count,comments_count,is_liked,is_saved,can_edit HTTP/1.1" 200 5851
+"GET /api/profiles/me/ HTTP/1.1" 200 261
+"GET /api/social-posts/?_cache=1755122169861&_fields=id,user,content_type,media_url,caption,location,created_at,likes_count,comments_count,is_liked,is_saved,can_edit HTTP/1.1" 200 5851
+"GET /api/profiles/me/ HTTP/1.1" 200 261
+"GET /api/social-posts/?_cache=1755122172475&_fields=id,user,content_type,media_url,caption,location,created_at,likes_count,comments_count,is_liked,is_saved,can_edit HTTP/1.1" 200 5851
+"GET /api/profiles/me/ HTTP/1.1" 200 261
+"GET /api/notifications/ HTTP/1.1" 200 2
+"GET /api/social-posts/?_cache=1755122182338&_fields=id,user,content_type,media_url,caption,location,created_at,likes_count,comments_count,is_liked,is_saved,can_edit HTTP/1.1" 200 5851
+"GET /api/profiles/me/ HTTP/1.1" 200 261
+"GET /api/social-posts/?_cache=1755122184723&_fields=id,user,content_type,media_url,caption,location,created_at,likes_count,comments_count,is_liked,is_saved,can_edit HTTP/1.1" 200 5851
+"GET /api/social-posts/?_cache=1755122186124&_fields=id,user,content_type,media_url,caption,location,created_at,likes_count,comments_count,is_liked,is_saved,can_edit HTTP/1.1" 200 5851
+"GET /api/profiles/me/ HTTP/1.1" 200 261
+"GET /api/profiles/me/ HTTP/1.1" 200 261
+"GET /api/profiles/me/ HTTP/1.1" 200 261
+"GET /api/social-posts/?_cache=1755122189912&_fields=id,user,content_type,media_url,caption,location,created_at,likes_count,comments_count,is_liked,is_saved,can_edit HTTP/1.1" 200 5851
+"GET /api/social-posts/?_cache=1755122199182&_fields=id,user,content_type,media_url,caption,location,created_at,likes_count,comments_count,is_liked,is_saved,can_edit HTTP/1.1" 200 5851
+"GET /api/profiles/me/ HTTP/1.1" 200 261
+"GET /api/profiles/me/ HTTP/1.1" 200 261
+"GET /api/profiles/me/ HTTP/1.1" 200 261
+"GET /api/notifications/ HTTP/1.1" 200 2
+"GET /api/profiles/me/ HTTP/1.1" 200 261
+"GET /api/social-posts/?_cache=1755122250131&_fields=id,user,content_type,media_url,caption,location,created_at,likes_count,comments_count,is_liked,is_saved,can_edit HTTP/1.1" 200 5851
+"GET /api/social-posts/?_cache=1755122250129&_fields=id,user,content_type,media_url,caption,location,created_at,likes_count,comments_count,is_liked,is_saved,can_edit HTTP/1.1" 200 5851
+"GET /api/profiles/me/ HTTP/1.1" 200 261
+"GET /api/profiles/me/ HTTP/1.1" 200 261
+"GET /api/profiles/me/ HTTP/1.1" 200 261
+"GET /api/profiles/me/ HTTP/1.1" 200 261
+"GET /api/profiles/me/ HTTP/1.1" 200 261
+"GET /api/notifications/ HTTP/1.1" 200 2
+"GET /api/profiles/me/ HTTP/1.1" 200 261
+"GET /api/profiles/me/ HTTP/1.1" 200 261
+"GET /api/profiles/me/ HTTP/1.1" 200 261
+"GET /api/profiles/me/ HTTP/1.1" 200 261
+"GET /api/social-posts/?_cache=1755122322237&_fields=id,user,content_type,media_url,caption,location,created_at,likes_count,comments_count,is_liked,is_saved,can_edit HTTP/1.1" 200 5851
+"GET /api/profiles/me/ HTTP/1.1" 200 261
+"GET /api/social-posts/?_cache=1755122328010&_fields=id,user,content_type,media_url,caption,location,created_at,likes_count,comments_count,is_liked,is_saved,can_edit HTTP/1.1" 200 5851
+"GET /api/profiles/me/ HTTP/1.1" 200 261
+"GET /api/social-posts/?_cache=1755122330684&_fields=id,user,content_type,media_url,caption,location,created_at,likes_count,comments_count,is_liked,is_saved,can_edit HTTP/1.1" 200 5851
+"GET /api/social-posts/?_cache=1755122332103&_fields=id,user,content_type,media_url,caption,location,created_at,likes_count,comments_count,is_liked,is_saved,can_edit HTTP/1.1" 200 5851
+"GET /api/profiles/me/ HTTP/1.1" 200 261
+"GET /api/social-posts/?_cache=1755122334655&_fields=id,user,content_type,media_url,caption,location,created_at,likes_count,comments_count,is_liked,is_saved,can_edit HTTP/1.1" 200 5851
+"GET /api/profiles/me/ HTTP/1.1" 200 261
+"GET /api/profiles/me/ HTTP/1.1" 200 261
+"GET /api/social-posts/?_cache=1755122339593&_fields=id,user,content_type,media_url,caption,location,created_at,likes_count,comments_count,is_liked,is_saved,can_edit HTTP/1.1" 200 5851
+"GET /api/notifications/ HTTP/1.1" 200 2
+"GET /api/social-posts/?_cache=1755122355864&_fields=id,user,content_type,media_url,caption,location,created_at,likes_count,comments_count,is_liked,is_saved,can_edit HTTP/1.1" 200 5851
+"GET /api/profiles/me/ HTTP/1.1" 200 261
+"GET /api/social-posts/?_cache=1755122359048&_fields=id,user,content_type,media_url,caption,location,created_at,likes_count,comments_count,is_liked,is_saved,can_edit HTTP/1.1" 200 5851
+"GET /api/profiles/me/ HTTP/1.1" 200 261
+"GET /api/profiles/me/ HTTP/1.1" 200 261
+"GET /api/social-posts/?_cache=1755122361260&_fields=id,user,content_type,media_url,caption,location,created_at,likes_count,comments_count,is_liked,is_saved,can_edit HTTP/1.1" 200 5851
+"GET /api/profiles/me/ HTTP/1.1" 200 261
+"GET /api/social-posts/?_cache=1755122380313&_fields=id,user,content_type,media_url,caption,location,created_at,likes_count,comments_count,is_liked,is_saved,can_edit HTTP/1.1" 200 5851
+"GET /api/profiles/me/ HTTP/1.1" 200 261
+"GET /api/social-posts/?_cache=1755122381828&_fields=id,user,content_type,media_url,caption,location,created_at,likes_count,comments_count,is_liked,is_saved,can_edit HTTP/1.1" 200 5851
+"GET /api/profiles/me/ HTTP/1.1" 200 261
+"GET /api/social-posts/?_cache=1755122383033&_fields=id,user,content_type,media_url,caption,location,created_at,likes_count,comments_count,is_liked,is_saved,can_edit HTTP/1.1" 200 5851
+"GET /api/social-posts/?_cache=1755122387070&_fields=id,user,content_type,media_url,caption,location,created_at,likes_count,comments_count,is_liked,is_saved,can_edit HTTP/1.1" 200 5851
+"GET /api/profiles/me/ HTTP/1.1" 200 261
+"GET /api/profiles/me/ HTTP/1.1" 200 261
+"GET /api/social-posts/?_cache=1755122388053&_fields=id,user,content_type,media_url,caption,location,created_at,likes_count,comments_count,is_liked,is_saved,can_edit HTTP/1.1" 200 5851
+"GET /api/profiles/me/ HTTP/1.1" 200 261
+"GET /api/social-posts/?_cache=1755122389936&_fields=id,user,content_type,media_url,caption,location,created_at,likes_count,comments_count,is_liked,is_saved,can_edit HTTP/1.1" 200 5851
+"GET /api/notifications/ HTTP/1.1" 200 2
+"GET /api/notifications/ HTTP/1.1" 200 2
+"GET /api/social-posts/?_cache=1755122510272&_fields=id,user,content_type,media_url,caption,location,created_at,likes_count,comments_count,is_liked,is_saved,can_edit HTTP/1.1" 200 5851
+"GET /api/notifications/ HTTP/1.1" 200 2
+"GET /api/notifications/ HTTP/1.1" 200 2
+"GET /api/social-posts/?_cache=1755122632699&_fields=id,user,content_type,media_url,caption,location,created_at,likes_count,comments_count,is_liked,is_saved,can_edit HTTP/1.1" 200 5851
+"GET /api/notifications/ HTTP/1.1" 200 2
+"GET /api/profiles/me/ HTTP/1.1" 200 261
+"GET /api/profiles/me/ HTTP/1.1" 200 261
+"GET /api/profiles/me/ HTTP/1.1" 200 261
+"GET /api/notifications/ HTTP/1.1" 200 2
+"GET /api/profiles/me/ HTTP/1.1" 200 261
+"GET /api/profiles/me/ HTTP/1.1" 200 261
+"GET /api/profiles/me/ HTTP/1.1" 200 261
+"GET /api/notifications/ HTTP/1.1" 200 2
+"GET /api/profiles/me/ HTTP/1.1" 200 261
+"GET /api/profiles/me/ HTTP/1.1" 200 261
+"GET /api/notifications/ HTTP/1.1" 200 2
+"GET /api/profiles/me/ HTTP/1.1" 200 261
+"GET /api/profiles/me/ HTTP/1.1" 200 261
+"GET /api/social-posts/?_cache=1755122760934&_fields=id,user,content_type,media_url,caption,location,created_at,likes_count,comments_count,is_liked,is_saved,can_edit HTTP/1.1" 200 5851
+"GET /api/social-posts/?_cache=1755122760935&_fields=id,user,content_type,media_url,caption,location,created_at,likes_count,comments_count,is_liked,is_saved,can_edit HTTP/1.1" 200 5851
+"GET /api/profiles/me/ HTTP/1.1" 200 261
+"GET /api/profiles/me/ HTTP/1.1" 200 261
+"GET /api/profiles/me/ HTTP/1.1" 200 261
+"GET /api/profiles/me/ HTTP/1.1" 200 261
+"GET /api/profiles/me/ HTTP/1.1" 200 261
+"GET /api/profiles/me/ HTTP/1.1" 200 261
+"GET /api/profiles/me/ HTTP/1.1" 200 261
+"GET /api/profiles/me/ HTTP/1.1" 200 261
+"GET /api/notifications/ HTTP/1.1" 200 2
+"GET /api/notifications/ HTTP/1.1" 200 2
+"GET /api/social-posts/?_cache=1755122905969&_fields=id,user,content_type,media_url,caption,location,created_at,likes_count,comments_count,is_liked,is_saved,can_edit HTTP/1.1" 200 5851
+"GET /api/notifications/ HTTP/1.1" 200 2
+"GET /api/profiles/me/ HTTP/1.1" 200 261
+"GET /api/profiles/me/ HTTP/1.1" 200 261
+"GET /api/notifications/ HTTP/1.1" 200 2
+"GET /api/profiles/me/ HTTP/1.1" 200 261
+"GET /api/profiles/me/ HTTP/1.1" 200 261
+"GET /api/social-posts/?_cache=1755123003326&_fields=id,user,content_type,media_url,caption,location,created_at,likes_count,comments_count,is_liked,is_saved,can_edit HTTP/1.1" 200 5851
+"GET /api/social-posts/?_cache=1755123003328&_fields=id,user,content_type,media_url,caption,location,created_at,likes_count,comments_count,is_liked,is_saved,can_edit HTTP/1.1" 200 5851
+"GET /api/profiles/me/ HTTP/1.1" 200 261
+"GET /api/profiles/me/ HTTP/1.1" 200 261
+"GET /api/profiles/me/ HTTP/1.1" 200 261
+"GET /api/profiles/me/ HTTP/1.1" 200 261
+"GET /api/profiles/me/ HTTP/1.1" 200 261
+"GET /api/profiles/me/ HTTP/1.1" 200 261
+"GET /api/profiles/me/ HTTP/1.1" 200 261
+"GET /api/profiles/me/ HTTP/1.1" 200 261
+"GET /api/notifications/ HTTP/1.1" 200 2
+"GET /api/profiles/me/ HTTP/1.1" 200 261
+"GET /api/profiles/me/ HTTP/1.1" 200 261
+"GET /api/profiles/me/ HTTP/1.1" 200 261
+"GET /api/notifications/ HTTP/1.1" 200 2
+"GET /api/profiles/me/ HTTP/1.1" 200 261
+"GET /api/profiles/me/ HTTP/1.1" 200 261
+"GET /api/profiles/me/ HTTP/1.1" 200 261
+"GET /api/notifications/ HTTP/1.1" 200 2
+"GET /api/profiles/me/ HTTP/1.1" 200 261
+"GET /api/profiles/me/ HTTP/1.1" 200 261
+"GET /api/profiles/me/ HTTP/1.1" 200 261
+"GET /api/notifications/ HTTP/1.1" 200 2
+"GET /api/profiles/me/ HTTP/1.1" 200 261
+"GET /api/profiles/me/ HTTP/1.1" 200 261
+"GET /api/profiles/me/ HTTP/1.1" 200 261
+"GET /api/profiles/me/ HTTP/1.1" 200 261
+"GET /api/notifications/ HTTP/1.1" 200 2
+"GET /api/social-posts/?_cache=1755123078917&_fields=id,user,content_type,media_url,caption,location,created_at,likes_count,comments_count,is_liked,is_saved,can_edit HTTP/1.1" 200 5851
+"GET /api/social-posts/?_cache=1755123078917&_fields=id,user,content_type,media_url,caption,location,created_at,likes_count,comments_count,is_liked,is_saved,can_edit HTTP/1.1" 200 5851
+"GET /api/profiles/me/ HTTP/1.1" 200 261
+"GET /api/profiles/me/ HTTP/1.1" 200 261
+"GET /api/profiles/me/ HTTP/1.1" 200 261
+"GET /api/notifications/ HTTP/1.1" 200 2
+"GET /api/profiles/me/ HTTP/1.1" 200 261
+"GET /api/social-posts/?_cache=1755123104640&_fields=id,user,content_type,media_url,caption,location,created_at,likes_count,comments_count,is_liked,is_saved,can_edit HTTP/1.1" 200 5851
+"GET /api/social-posts/?_cache=1755123104641&_fields=id,user,content_type,media_url,caption,location,created_at,likes_count,comments_count,is_liked,is_saved,can_edit HTTP/1.1" 200 5851
+"GET /api/profiles/me/ HTTP/1.1" 200 261
+"GET /api/profiles/me/ HTTP/1.1" 200 261
+"GET /api/profiles/me/ HTTP/1.1" 200 261
+"GET /api/profiles/me/ HTTP/1.1" 200 261
+"GET /api/profiles/me/ HTTP/1.1" 200 261
+"GET /api/profiles/me/ HTTP/1.1" 200 261
+"GET /api/profiles/me/ HTTP/1.1" 200 261
+"GET /api/profiles/me/ HTTP/1.1" 200 261
+"GET /api/notifications/ HTTP/1.1" 200 2
+"GET /api/notifications/ HTTP/1.1" 200 2
+"GET /api/social-posts/29/comments/ HTTP/1.1" 200 6481
+"GET /api/social-posts/?_cache=1755123251005&_fields=id,user,content_type,media_url,caption,location,created_at,likes_count,comments_count,is_liked,is_saved,can_edit HTTP/1.1" 200 5851
+"GET /api/notifications/ HTTP/1.1" 200 2
+"GET /api/notifications/ HTTP/1.1" 200 2
+"GET /api/notifications/ HTTP/1.1" 200 2
+"GET /api/social-posts/?_cache=1755123396356&_fields=id,user,content_type,media_url,caption,location,created_at,likes_count,comments_count,is_liked,is_saved,can_edit HTTP/1.1" 200 5851
+"GET /api/notifications/ HTTP/1.1" 200 2
+Unauthorized: /api/notifications/
+"GET /api/notifications/ HTTP/1.1" 401 172
+Internal Server Error: /api/auth/token/refresh/
+Traceback (most recent call last):
+  File "C:\Users\ankom\AppData\Roaming\Python\Python313\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "C:\Users\ankom\AppData\Roaming\Python\Python313\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\ankom\AppData\Roaming\Python\Python313\site-packages\django\views\decorators\csrf.py", line 65, in _view_wrapper
+    return view_func(request, *args, **kwargs)
+  File "C:\Users\ankom\AppData\Roaming\Python\Python313\site-packages\django\views\generic\base.py", line 104, in view
+    return self.dispatch(request, *args, **kwargs)
+           ~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\ankom\AppData\Roaming\Python\Python313\site-packages\rest_framework\views.py", line 515, in dispatch
+    response = self.handle_exception(exc)
+  File "C:\Users\ankom\AppData\Roaming\Python\Python313\site-packages\rest_framework\views.py", line 475, in handle_exception
+    self.raise_uncaught_exception(exc)
+    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^
+  File "C:\Users\ankom\AppData\Roaming\Python\Python313\site-packages\rest_framework\views.py", line 486, in raise_uncaught_exception
+    raise exc
+  File "C:\Users\ankom\AppData\Roaming\Python\Python313\site-packages\rest_framework\views.py", line 512, in dispatch
+    response = handler(request, *args, **kwargs)
+  File "C:\Users\ankom\AppData\Roaming\Python\Python313\site-packages\rest_framework_simplejwt\views.py", line 44, in post
+    serializer.is_valid(raise_exception=True)
+    ~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\ankom\AppData\Roaming\Python\Python313\site-packages\rest_framework\serializers.py", line 225, in is_valid
+    self._validated_data = self.run_validation(self.initial_data)
+                           ~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\ankom\AppData\Roaming\Python\Python313\site-packages\rest_framework\serializers.py", line 447, in run_validation
+    value = self.validate(value)
+  File "C:\Users\ankom\AppData\Roaming\Python\Python313\site-packages\rest_framework_simplejwt\serializers.py", line 141, in validate
+    refresh.outstand()
+    ~~~~~~~~~~~~~~~~^^
+  File "C:\Users\ankom\AppData\Roaming\Python\Python313\site-packages\rest_framework_simplejwt\tokens.py", line 222, in outstand
+    return OutstandingToken.objects.get_or_create(
+           ^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: type object 'OutstandingToken' has no attribute 'objects'
+"POST /api/auth/token/refresh/ HTTP/1.1" 500 145
+Internal Server Error: /api/auth/token/refresh/
+Traceback (most recent call last):
+  File "C:\Users\ankom\AppData\Roaming\Python\Python313\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "C:\Users\ankom\AppData\Roaming\Python\Python313\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\ankom\AppData\Roaming\Python\Python313\site-packages\django\views\decorators\csrf.py", line 65, in _view_wrapper
+    return view_func(request, *args, **kwargs)
+  File "C:\Users\ankom\AppData\Roaming\Python\Python313\site-packages\django\views\generic\base.py", line 104, in view
+    return self.dispatch(request, *args, **kwargs)
+           ~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\ankom\AppData\Roaming\Python\Python313\site-packages\rest_framework\views.py", line 515, in dispatch
+    response = self.handle_exception(exc)
+  File "C:\Users\ankom\AppData\Roaming\Python\Python313\site-packages\rest_framework\views.py", line 475, in handle_exception
+    self.raise_uncaught_exception(exc)
+    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^
+  File "C:\Users\ankom\AppData\Roaming\Python\Python313\site-packages\rest_framework\views.py", line 486, in raise_uncaught_exception
+    raise exc
+  File "C:\Users\ankom\AppData\Roaming\Python\Python313\site-packages\rest_framework\views.py", line 512, in dispatch
+    response = handler(request, *args, **kwargs)
+  File "C:\Users\ankom\AppData\Roaming\Python\Python313\site-packages\rest_framework_simplejwt\views.py", line 44, in post
+    serializer.is_valid(raise_exception=True)
+    ~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\ankom\AppData\Roaming\Python\Python313\site-packages\rest_framework\serializers.py", line 225, in is_valid
+    self._validated_data = self.run_validation(self.initial_data)
+                           ~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\ankom\AppData\Roaming\Python\Python313\site-packages\rest_framework\serializers.py", line 447, in run_validation
+    value = self.validate(value)
+  File "C:\Users\ankom\AppData\Roaming\Python\Python313\site-packages\rest_framework_simplejwt\serializers.py", line 141, in validate
+    refresh.outstand()
+    ~~~~~~~~~~~~~~~~^^
+  File "C:\Users\ankom\AppData\Roaming\Python\Python313\site-packages\rest_framework_simplejwt\tokens.py", line 222, in outstand
+    return OutstandingToken.objects.get_or_create(
+           ^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: type object 'OutstandingToken' has no attribute 'objects'
+"POST /api/auth/token/refresh/ HTTP/1.1" 500 145
